@@ -23,6 +23,8 @@ export default function SearchPage({ lessons }: Props) {
   const [filter, setFilter] = useState<FilterState>(DEFAULT_FILTER)
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null)
   const [sidebarOpen, setSidebarOpen] = useState(true)
+  // デバッグ用：最後にクリックした教室の座標を記録
+  const [debugInfo, setDebugInfo] = useState<string | null>(null)
 
   const filtered = filterLessons(lessons, filter)
   // 住所あり＆座標あり → 地図に表示
@@ -39,9 +41,15 @@ export default function SearchPage({ lessons }: Props) {
   // カードクリック：state更新 + 地図を即座に移動
   const handleSelectLesson = useCallback((lesson: Lesson) => {
     setActiveLesson(lesson)
-    if (lesson.lat != null && lesson.lng != null) {
-      // React の prop 伝播を使わず mapInstance 経由で直接 flyTo を呼ぶ
-      mapInstance.flyTo(lesson.lat, lesson.lng)
+    const lat = lesson.lat
+    const lng = lesson.lng
+    const ready = mapInstance.isReady()
+    // デバッグ情報を表示
+    setDebugInfo(
+      `【${lesson.name}】 lat=${lat?.toFixed(5) ?? 'null'}, lng=${lng?.toFixed(5) ?? 'null'}, 地図=${ready ? '✅登録済' : '❌未登録'}`
+    )
+    if (lat != null && lng != null) {
+      mapInstance.flyTo(lat, lng)
     }
   }, [])
 
@@ -54,6 +62,13 @@ export default function SearchPage({ lessons }: Props) {
     filter.categories.length > 0 || filter.targetAge !== null
 
   return (
+    <div className="flex flex-col flex-1 overflow-hidden">
+      {/* デバッグバー（調査用・後で削除） */}
+      {debugInfo && (
+        <div className="shrink-0 bg-yellow-100 border-b border-yellow-300 px-3 py-1 text-xs font-mono text-yellow-900 truncate">
+          🔍 {debugInfo}
+        </div>
+      )}
     <div className="flex flex-1 overflow-hidden">
       {/* サイドバー */}
       <aside
@@ -136,6 +151,7 @@ export default function SearchPage({ lessons }: Props) {
       <main className="flex-1 relative">
         <DynamicMap lessons={mappable} activeLesson={activeLesson} />
       </main>
+    </div>
     </div>
   )
 }

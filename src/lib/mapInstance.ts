@@ -13,6 +13,7 @@ export const mapInstance = {
   unregister: () => {
     _map = null
   },
+  isReady: () => _map !== null,
   flyTo: (lat: number, lng: number, zoom = 15) => {
     _map?.flyTo([lat, lng], zoom, { duration: 0.5 })
   },
