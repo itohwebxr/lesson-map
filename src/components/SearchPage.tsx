@@ -60,7 +60,7 @@ export default function SearchPage({ lessons }: Props) {
           sidebarOpen ? 'w-72 min-w-[18rem]' : 'w-0'
         }`}
       >
-        <div className="flex flex-col h-full overflow-hidden">
+        <div className="flex flex-col flex-1 min-h-0 overflow-hidden">
           <div className="p-3 border-b border-gray-200 space-y-4 shrink-0">
             <CategoryFilter
               selected={filter.categories}
