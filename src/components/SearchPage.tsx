@@ -24,8 +24,10 @@ export default function SearchPage({ lessons }: Props) {
   const [sidebarOpen, setSidebarOpen] = useState(true)
 
   const filtered = filterLessons(lessons, filter)
-  const mappable = filtered.filter((l) => l.lat !== undefined)
-  const noLocation = filtered.filter((l) => l.lat === undefined)
+  // 住所あり＆座標あり → 地図に表示
+  const mappable = filtered.filter((l) => l.address !== null && l.lat !== undefined)
+  // 住所なし → サイドバーのみ表示
+  const noLocation = filtered.filter((l) => l.address === null)
 
   const updateFilter = useCallback(
     <K extends keyof FilterState>(key: K, value: FilterState[K]) =>
