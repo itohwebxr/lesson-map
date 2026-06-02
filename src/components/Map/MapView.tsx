@@ -48,7 +48,13 @@ function NavController({ navTarget }: { navTarget?: NavTarget | null }) {
     if (!navTarget) return
     if (navTarget.key === prevKey.current) return
     prevKey.current = navTarget.key
+
     map.setView([navTarget.lat, navTarget.lng], 15)
+
+    // 移動完了後に invalidateSize() でタイル描画ズレを解消
+    const handleMoveEnd = () => map.invalidateSize()
+    map.once('moveend', handleMoveEnd)
+    return () => { map.off('moveend', handleMoveEnd) }
   }, [navTarget, map])
 
   return null
