@@ -1,6 +1,6 @@
 'use client'
 
-import { useCallback, useRef, useEffect } from 'react'
+import { useRef, useEffect } from 'react'
 import { Marker, Popup } from 'react-leaflet'
 import type { Lesson } from '@/types/lesson'
 import MarkerPopup from './MarkerPopup'
@@ -16,17 +16,30 @@ type Props = {
 
 export default function LessonMarker({ lesson, icon, isActive, onSelect, markerRef }: Props) {
   const internalRef = useRef<L.Marker | null>(null)
+  // onSelect を ref で保持してイベントリスナー内で常に最新版を呼べるようにする
+  const onSelectRef = useRef(onSelect)
+  useEffect(() => { onSelectRef.current = onSelect }, [onSelect])
 
-  // isActive が true になったらポップアップを開く
+  // Leaflet ネイティブ API でクリックを登録（react-leaflet eventHandlers を使わない）
+  useEffect(() => {
+    const marker = internalRef.current
+    console.log('[LessonMarker] mount effect – marker:', !!marker, 'lesson:', lesson.name)
+    if (!marker) return
+    const handler = () => {
+      console.log('[LessonMarker] CLICKED:', lesson.name)
+      onSelectRef.current(lesson)
+    }
+    marker.on('click', handler)
+    return () => { marker.off('click', handler) }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [lesson.name])
+
+  // isActive になったらポップアップを開く
   useEffect(() => {
     if (!isActive) return
     const timer = setTimeout(() => internalRef.current?.openPopup(), 150)
     return () => clearTimeout(timer)
   }, [isActive])
-
-  const handleClick = useCallback(() => {
-    onSelect(lesson)
-  }, [lesson, onSelect])
 
   return (
     <Marker
@@ -37,7 +50,6 @@ export default function LessonMarker({ lesson, icon, isActive, onSelect, markerR
         internalRef.current = m
         markerRef(m)
       }}
-      eventHandlers={{ click: handleClick }}
     >
       <Popup maxWidth={280} autoPan={false}>
         <MarkerPopup lesson={lesson} />
