@@ -23,12 +23,8 @@ export default function LessonMarker({ lesson, icon, isActive, onSelect, markerR
   // Leaflet ネイティブ API でクリックを登録（react-leaflet eventHandlers を使わない）
   useEffect(() => {
     const marker = internalRef.current
-    console.log('[LessonMarker] mount effect – marker:', !!marker, 'lesson:', lesson.name)
     if (!marker) return
-    const handler = () => {
-      console.log('[LessonMarker] CLICKED:', lesson.name)
-      onSelectRef.current(lesson)
-    }
+    const handler = () => onSelectRef.current(lesson)
     marker.on('click', handler)
     return () => { marker.off('click', handler) }
   // eslint-disable-next-line react-hooks/exhaustive-deps
