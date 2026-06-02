@@ -15,8 +15,9 @@ const MapView = dynamic(() => import('./MapView'), {
 
 type Props = {
   lessons: Lesson[]
+  activeLesson?: Lesson | null
 }
 
-export default function DynamicMap({ lessons }: Props) {
-  return <MapView lessons={lessons} />
+export default function DynamicMap({ lessons, activeLesson }: Props) {
+  return <MapView lessons={lessons} activeLesson={activeLesson} />
 }

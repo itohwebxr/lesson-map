@@ -1,13 +1,12 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useRef } from 'react'
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import type { Lesson } from '@/types/lesson'
 import MarkerPopup from './MarkerPopup'
 
-// Leaflet デフォルトアイコンの修正（Next.js SSR対策）
 delete (L.Icon.Default.prototype as unknown as Record<string, unknown>)._getIconUrl
 L.Icon.Default.mergeOptions({
   iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
@@ -17,21 +16,30 @@ L.Icon.Default.mergeOptions({
 
 type Props = {
   lessons: Lesson[]
+  activeLesson?: Lesson | null
 }
 
-// 地図の中心を大津市に固定するコンポーネント
-function MapCenter() {
+// カードクリック時に地図を移動してポップアップを開く
+function FlyToActive({ lesson }: { lesson: Lesson | null | undefined }) {
   const map = useMap()
   useEffect(() => {
-    map.setView([35.0045, 135.8686], 12)
-  }, [map])
+    if (lesson?.lat && lesson?.lng) {
+      map.flyTo([lesson.lat, lesson.lng], 15, { duration: 0.8 })
+    }
+  }, [lesson, map])
   return null
 }
 
-export default function MapView({ lessons }: Props) {
-  const mappableLessons = lessons.filter(
-    (l) => l.lat !== undefined && l.lng !== undefined
-  )
+export default function MapView({ lessons, activeLesson }: Props) {
+  const markerRefs = useRef<Record<string, L.Marker>>({})
+
+  // activeLesson が変わったらそのポップアップを開く
+  useEffect(() => {
+    if (activeLesson) {
+      const marker = markerRefs.current[activeLesson.name]
+      marker?.openPopup()
+    }
+  }, [activeLesson])
 
   return (
     <MapContainer
@@ -40,13 +48,19 @@ export default function MapView({ lessons }: Props) {
       className="w-full h-full"
       scrollWheelZoom={true}
     >
-      <MapCenter />
+      <FlyToActive lesson={activeLesson} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      {mappableLessons.map((lesson, idx) => (
-        <Marker key={idx} position={[lesson.lat!, lesson.lng!]}>
+      {lessons.map((lesson, idx) => (
+        <Marker
+          key={idx}
+          position={[lesson.lat!, lesson.lng!]}
+          ref={(ref) => {
+            if (ref) markerRefs.current[lesson.name] = ref
+          }}
+        >
           <Popup maxWidth={280}>
             <MarkerPopup lesson={lesson} />
           </Popup>
