@@ -5,6 +5,7 @@ import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import type { Lesson } from '@/types/lesson'
+import type { FlyTarget } from '@/components/SearchPage'
 import MarkerPopup from './MarkerPopup'
 
 // デフォルトアイコン（青）
@@ -33,20 +34,23 @@ const activeIcon = L.divIcon({
 type Props = {
   lessons: Lesson[]
   activeLesson?: Lesson | null
+  flyTarget?: FlyTarget | null
 }
 
-// カードクリック時に地図を flyTo するだけ（ポップアップは開かない）
-function FlyToActive({ lesson }: { lesson: Lesson | null | undefined }) {
+// flyTarget.key が変わるたびに必ず flyTo を実行する
+// key は Date.now() で毎回ユニークなので、同じ教室を連続クリックしても確実に動く
+function FlyToTarget({ flyTarget }: { flyTarget?: FlyTarget | null }) {
   const map = useMap()
   useEffect(() => {
-    if (lesson?.lat && lesson?.lng) {
-      map.flyTo([lesson.lat, lesson.lng], 15, { duration: 0.6 })
+    if (flyTarget) {
+      map.flyTo([flyTarget.lat, flyTarget.lng], 15, { duration: 0.6 })
     }
-  }, [lesson, map])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [flyTarget?.key]) // key は number（primitive）なので確実に比較できる
   return null
 }
 
-export default function MapView({ lessons, activeLesson }: Props) {
+export default function MapView({ lessons, activeLesson, flyTarget }: Props) {
   return (
     <MapContainer
       center={[35.0045, 135.8686]}
@@ -54,16 +58,16 @@ export default function MapView({ lessons, activeLesson }: Props) {
       className="w-full h-full"
       scrollWheelZoom={true}
     >
-      <FlyToActive lesson={activeLesson} />
+      <FlyToTarget flyTarget={flyTarget} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      {lessons.map((lesson, idx) => {
+      {lessons.map((lesson) => {
         const isActive = activeLesson?.name === lesson.name
         return (
           <Marker
-            key={idx}
+            key={lesson.name}
             position={[lesson.lat!, lesson.lng!]}
             icon={isActive ? activeIcon : defaultIcon}
             zIndexOffset={isActive ? 1000 : 0}

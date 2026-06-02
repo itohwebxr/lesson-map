@@ -16,11 +16,15 @@ const DEFAULT_FILTER: FilterState = {
   targetAge: null,
 }
 
+// flyTo に使う型。key は Date.now() で毎回ユニークにする
+export type FlyTarget = { lat: number; lng: number; key: number }
+
 type Props = { lessons: Lesson[] }
 
 export default function SearchPage({ lessons }: Props) {
   const [filter, setFilter] = useState<FilterState>(DEFAULT_FILTER)
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null)
+  const [flyTarget, setFlyTarget] = useState<FlyTarget | null>(null)
   const [sidebarOpen, setSidebarOpen] = useState(true)
 
   const filtered = filterLessons(lessons, filter)
@@ -35,9 +39,18 @@ export default function SearchPage({ lessons }: Props) {
     []
   )
 
+  // カードクリック：activeLesson と flyTarget を同時に更新
+  const handleSelectLesson = useCallback((lesson: Lesson) => {
+    setActiveLesson(lesson)
+    if (lesson.lat != null && lesson.lng != null) {
+      setFlyTarget({ lat: lesson.lat, lng: lesson.lng, key: Date.now() })
+    }
+  }, [])
+
   const resetFilter = () => {
     setFilter(DEFAULT_FILTER)
     setActiveLesson(null)
+    setFlyTarget(null)
   }
 
   const isFiltered =
@@ -86,12 +99,12 @@ export default function SearchPage({ lessons }: Props) {
 
           {/* 教室リスト */}
           <div className="flex-1 overflow-y-auto p-2 space-y-1.5">
-            {mappable.map((lesson, i) => (
+            {mappable.map((lesson) => (
               <LessonCard
-                key={i}
+                key={lesson.name}
                 lesson={lesson}
                 isActive={activeLesson?.name === lesson.name}
-                onClick={() => setActiveLesson(lesson)}
+                onClick={() => handleSelectLesson(lesson)}
               />
             ))}
 
@@ -124,7 +137,7 @@ export default function SearchPage({ lessons }: Props) {
 
       {/* 地図 */}
       <main className="flex-1 relative">
-        <DynamicMap lessons={mappable} activeLesson={activeLesson} />
+        <DynamicMap lessons={mappable} activeLesson={activeLesson} flyTarget={flyTarget} />
       </main>
     </div>
   )
