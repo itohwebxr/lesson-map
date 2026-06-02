@@ -8,26 +8,26 @@ import type { Lesson } from '@/types/lesson'
 import type { NavTarget } from '@/components/SearchPage'
 import MarkerPopup from './MarkerPopup'
 
-const defaultIcon = L.icon({
-  iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-  iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
-  shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  shadowSize: [41, 41],
-})
+function makeIcon(fill: string) {
+  return L.divIcon({
+    html: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 41" width="25" height="41">
+      <path d="M12.5 0C5.6 0 0 5.6 0 12.5c0 9.4 12.5 28.5 12.5 28.5S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0z" fill="${fill}"/>
+      <circle cx="12.5" cy="12.5" r="5" fill="white"/>
+    </svg>`,
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    className: '',
+  })
+}
 
-const activeIcon = L.divIcon({
-  html: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 41" width="25" height="41">
-    <path d="M12.5 0C5.6 0 0 5.6 0 12.5c0 9.4 12.5 28.5 12.5 28.5S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0z" fill="#f97316"/>
-    <circle cx="12.5" cy="12.5" r="5" fill="white"/>
-  </svg>`,
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  className: '',
-})
+const qualityIcons = {
+  high:   makeIcon('#22c55e'),  // 緑
+  medium: makeIcon('#eab308'),  // 黄
+  low:    makeIcon('#9ca3af'),  // 灰
+}
+
+const activeIcon = makeIcon('#f97316')  // オレンジ（選択中）
 
 type Props = {
   lessons: Lesson[]
@@ -86,11 +86,12 @@ export default function MapView({ lessons, activeLesson, navTarget }: Props) {
       />
       {lessons.map((lesson) => {
         const isActive = activeLesson?.name === lesson.name
+        const qualityIcon = qualityIcons[lesson.data_quality ?? 'low']
         return (
           <Marker
             key={lesson.name}
             position={[lesson.lat!, lesson.lng!]}
-            icon={isActive ? activeIcon : defaultIcon}
+            icon={isActive ? activeIcon : qualityIcon}
             zIndexOffset={isActive ? 1000 : 0}
             ref={(m) => {
               if (m) markerRefs.current[lesson.name] = m

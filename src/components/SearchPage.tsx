@@ -6,6 +6,8 @@ import { filterLessons } from '@/lib/filterLessons'
 import DynamicMap from '@/components/Map/DynamicMap'
 import CategoryFilter from '@/components/Sidebar/CategoryFilter'
 import AgeFilter from '@/components/Sidebar/AgeFilter'
+import WeekdayFilter from '@/components/Sidebar/WeekdayFilter'
+import TimeFilter from '@/components/Sidebar/TimeFilter'
 import LessonCard from '@/components/LessonCard'
 
 const DEFAULT_FILTER: FilterState = {
@@ -67,7 +69,12 @@ export default function SearchPage({ lessons }: Props) {
     setNavTarget(null)
   }
 
-  const isFiltered = filter.categories.length > 0 || filter.targetAge !== null
+  const isFiltered =
+    filter.categories.length > 0 ||
+    filter.targetAge !== null ||
+    filter.weekdays.length > 0 ||
+    filter.timeStart !== null ||
+    filter.timeEnd !== null
 
   return (
     <div className="flex h-full overflow-hidden">
@@ -85,6 +92,17 @@ export default function SearchPage({ lessons }: Props) {
             <AgeFilter
               selected={filter.targetAge}
               onChange={(v) => updateFilter('targetAge', v)}
+            />
+            <WeekdayFilter
+              selected={filter.weekdays}
+              onChange={(v) => updateFilter('weekdays', v)}
+            />
+            <TimeFilter
+              timeStart={filter.timeStart}
+              timeEnd={filter.timeEnd}
+              onChange={(start, end) => {
+                setFilter((prev) => ({ ...prev, timeStart: start, timeEnd: end }))
+              }}
             />
             {isFiltered && (
               <button
