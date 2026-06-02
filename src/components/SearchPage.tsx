@@ -23,8 +23,16 @@ export default function SearchPage({ lessons }: Props) {
   const [filter, setFilter] = useState<FilterState>(DEFAULT_FILTER)
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null)
   const [sidebarOpen, setSidebarOpen] = useState(true)
-  // デバッグ用：最後にクリックした教室の座標を記録
+  // デバッグ用
   const [debugInfo, setDebugInfo] = useState<string | null>(null)
+  const [actualCenter, setActualCenter] = useState<string | null>(null)
+
+  // 地図がマウントされたら moveend イベントを登録
+  useState(() => {
+    mapInstance.setMoveEndCallback((lat, lng, zoom) => {
+      setActualCenter(`実際の移動先: lat=${lat.toFixed(5)}, lng=${lng.toFixed(5)}, zoom=${zoom}`)
+    })
+  })
 
   const filtered = filterLessons(lessons, filter)
   // 住所あり＆座標あり → 地図に表示
@@ -66,7 +74,12 @@ export default function SearchPage({ lessons }: Props) {
       {/* デバッグバー（調査用・後で削除） */}
       {debugInfo && (
         <div className="shrink-0 bg-yellow-100 border-b border-yellow-300 px-3 py-1 text-xs font-mono text-yellow-900 truncate">
-          🔍 {debugInfo}
+          🔍 指定: {debugInfo}
+        </div>
+      )}
+      {actualCenter && (
+        <div className="shrink-0 bg-green-100 border-b border-green-300 px-3 py-1 text-xs font-mono text-green-900 truncate">
+          📍 {actualCenter}
         </div>
       )}
     <div className="flex flex-1 overflow-hidden">
