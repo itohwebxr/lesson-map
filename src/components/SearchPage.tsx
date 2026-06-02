@@ -74,12 +74,13 @@ export default function SearchPage({ lessons }: Props) {
     }, 100)
   }, [])
 
-  // マーカークリック時: カードハイライト＋スクロール（モーダルは開かない）
+  // マーカークリック時: カードハイライト＋スクロール（モバイルはサイドバーも開く）
   const handleMarkerClick = useCallback((lesson: Lesson) => {
     setActiveLesson(lesson)
+    setSidebarOpen(true)
     setTimeout(() => {
       cardRefs.current[lesson.name]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
-    }, 100)
+    }, 200)
   }, [])
 
   const resetFilter = () => {
