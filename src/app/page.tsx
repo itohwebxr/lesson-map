@@ -18,7 +18,8 @@ export default function Home() {
         </div>
       </header>
 
-      <div className="flex-1 relative overflow-hidden">
+      {/* min-h-0 で flex子要素が正しく高さを制限できる */}
+      <div className="flex-1 min-h-0 overflow-hidden">
         <SearchPage lessons={lessons} />
       </div>
     </div>

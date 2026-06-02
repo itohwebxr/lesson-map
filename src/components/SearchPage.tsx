@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useEffect, useRef } from 'react'
 import type { Lesson, FilterState } from '@/types/lesson'
 import { filterLessons } from '@/lib/filterLessons'
 import DynamicMap from '@/components/Map/DynamicMap'
@@ -26,6 +26,22 @@ export default function SearchPage({ lessons }: Props) {
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null)
   const [navTarget, setNavTarget] = useState<NavTarget | null>(null)
   const [sidebarOpen, setSidebarOpen] = useState(true)
+
+  // 地図エリアの高さをJSで直接計算（CSS継承に依存しない）
+  const mapRef = useRef<HTMLElement>(null)
+  const [mapHeight, setMapHeight] = useState(0)
+
+  useEffect(() => {
+    const update = () => {
+      if (mapRef.current) {
+        const top = mapRef.current.getBoundingClientRect().top
+        setMapHeight(window.innerHeight - top)
+      }
+    }
+    update()
+    window.addEventListener('resize', update)
+    return () => window.removeEventListener('resize', update)
+  }, [])
 
   const filtered = filterLessons(lessons, filter)
   const mappable = filtered.filter((l) => l.address !== null && l.lat !== undefined)
@@ -54,7 +70,7 @@ export default function SearchPage({ lessons }: Props) {
   const isFiltered = filter.categories.length > 0 || filter.targetAge !== null
 
   return (
-    <div className="flex flex-1 overflow-hidden">
+    <div className="flex h-full overflow-hidden">
       <aside
         className={`flex flex-col bg-gray-50 border-r border-gray-200 transition-all duration-200 overflow-hidden ${
           sidebarOpen ? 'w-72 min-w-[18rem]' : 'w-0'
@@ -126,11 +142,13 @@ export default function SearchPage({ lessons }: Props) {
         {sidebarOpen ? '◀' : '▶'}
       </button>
 
-      <main className="flex-1 relative">
-        {/* absolute inset-0 で relative 親の実際のサイズを正確に参照させる */}
-        <div className="absolute inset-0">
-          <DynamicMap lessons={mappable} activeLesson={activeLesson} navTarget={navTarget} />
-        </div>
+      {/* mapHeight: JSで計算した正確なビューポート残高を直接指定 */}
+      <main
+        ref={mapRef}
+        className="flex-1 relative"
+        style={{ height: mapHeight || '100vh' }}
+      >
+        <DynamicMap lessons={mappable} activeLesson={activeLesson} navTarget={navTarget} />
       </main>
     </div>
   )
