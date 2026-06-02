@@ -26,8 +26,8 @@
     "price": "月額5,000円（入会金なし）",
     "source_url": "https://roveciata.com/school/",
     "organization_type": "regional_chain",
-    "lat": 34.96947032475554,
-    "lng": 135.91200663832697
+    "lat": 34.983856,
+    "lng": 135.93512
   },
   {
     "name": "ロベッシャータサッカークラブ 青山スクール",
@@ -51,8 +51,8 @@
     "price": "月額5,000円（入会金なし）",
     "source_url": "https://roveciata.com/school/",
     "organization_type": "regional_chain",
-    "lat": 34.96500137628055,
-    "lng": 135.91797290405898
+    "lat": 34.979485,
+    "lng": 135.966797
   },
   {
     "name": "ロベッシャータサッカークラブ 唐橋スクール",
@@ -76,8 +76,8 @@
     "price": "月額5,000円（入会金なし）",
     "source_url": "https://roveciata.com/school/",
     "organization_type": "regional_chain",
-    "lat": 34.9704114300195,
-    "lng": 135.91062488806404
+    "lat": 34.97646,
+    "lng": 135.909637
   },
   {
     "name": "リベルタサッカースクール 瀬田",
@@ -106,8 +106,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school/%E7%80%AC%E7%94%B0",
     "organization_type": "national_chain",
-    "lat": 34.96841865071306,
-    "lng": 135.91029526605047
+    "lat": 34.982071,
+    "lng": 135.920242
   },
   {
     "name": "リベルタサッカースクール 南郷",
@@ -131,8 +131,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 34.95309207089766,
-    "lng": 135.92247204723978
+    "lat": 34.939507,
+    "lng": 135.905777
   },
   {
     "name": "リベルタサッカースクール 茶臼山",
@@ -156,8 +156,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 34.978237428498296,
-    "lng": 135.9017463741727
+    "lat": 34.978733,
+    "lng": 135.882828
   },
   {
     "name": "リベルタサッカースクール 青山中央",
@@ -176,8 +176,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 34.96529465010932,
-    "lng": 135.92146343565676
+    "lat": 34.978703,
+    "lng": 135.967728
   },
   {
     "name": "リベルタサッカースクール 仰木の里東",
@@ -206,8 +206,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 35.053618721656356,
-    "lng": 135.83884865028472
+    "lat": 35.017776,
+    "lng": 135.854721
   },
   {
     "name": "リベルタサッカースクール におの浜",
@@ -246,8 +246,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 35.008549741082724,
-    "lng": 135.87380789066899
+    "lat": 34.99921,
+    "lng": 135.889572
   },
   {
     "name": "リベルタサッカースクール ブランチ大津京（月）",
@@ -271,8 +271,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%88%EF%BC%89",
     "organization_type": "national_chain",
-    "lat": 35.021049288254886,
-    "lng": 135.85306825322323
+    "lat": 35.02972,
+    "lng": 135.864716
   },
   {
     "name": "リベルタサッカースクール ブランチ大津京（木）",
@@ -291,8 +291,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%A8%EF%BC%89",
     "organization_type": "national_chain",
-    "lat": 35.01981760172146,
-    "lng": 135.85426681301243
+    "lat": 35.02972,
+    "lng": 135.864716
   },
   {
     "name": "エフォートフットボールクラブ（MINOBE FOOTBALL ACADEMY）",
@@ -316,8 +316,8 @@
     "price": null,
     "source_url": "https://fceffort.com/",
     "organization_type": "individual",
-    "lat": 35.001562576921785,
-    "lng": 135.871094004639
+    "lat": 35.019146,
+    "lng": 135.857162
   },
   {
     "name": "滋賀レイクセレソン セレスク キッズU-6",
@@ -351,8 +351,8 @@
     "price": "月額3,800円（最大4回）＋年会費7,600円",
     "source_url": "https://s-lake-selecao.com/about-club/school/",
     "organization_type": "regional_chain",
-    "lat": 35.00585377442713,
-    "lng": 135.86925707474145
+    "lat": 35.019146,
+    "lng": 135.857162
   },
   {
     "name": "滋賀レイクセレソン セレスク ジュニアU-12",
@@ -391,8 +391,8 @@
     "price": "月額6,000円（最大5回）＋年会費7,600円＋指定着7,000円（入会時）",
     "source_url": "https://s-lake-selecao.com/about-club/school/",
     "organization_type": "regional_chain",
-    "lat": 35.00259257322022,
-    "lng": 135.8704501592951
+    "lat": 35.019146,
+    "lng": 135.857162
   },
   {
     "name": "サカスク滋賀 大津校",
@@ -426,8 +426,8 @@
     "price": "入会金5,400円 / Kids週1：5,400円 / Junior U9週1：6,480円 / Junior U12週1：7,560円 ＋年会費8,000円",
     "source_url": "https://suposuku.jp/venues/3458/fees",
     "organization_type": "regional_chain",
-    "lat": 35.002217088292106,
-    "lng": 135.87064344947063
+    "lat": 35.019146,
+    "lng": 135.857162
   },
   {
     "name": "打出FC",
@@ -440,8 +440,8 @@
     "price": null,
     "source_url": "https://uchide-fc.com/",
     "organization_type": "community",
-    "lat": 35.00896446101556,
-    "lng": 135.8702356157443
+    "lat": 35.0075,
+    "lng": 135.874664
   },
   {
     "name": "晴嵐スポーツ少年団サッカー部",
@@ -465,8 +465,8 @@
     "price": null,
     "source_url": "https://kids-school.msta.co.jp/group-sports/cat-soccer/feature-saturday-soccer/p-shiga/c-25201",
     "organization_type": "community",
-    "lat": 34.97879996648716,
-    "lng": 135.8795285648959
+    "lat": 34.973099,
+    "lng": 135.897736
   },
   {
     "name": "里東FC",
@@ -490,8 +490,8 @@
     "price": "入会金2,000円 / 月会費：年長500円・1〜3年1,000円・4〜6年1,500円",
     "source_url": "https://satohigashi-fc.com/",
     "organization_type": "community",
-    "lat": 35.055006713964644,
-    "lng": 135.84044577425342
+    "lat": 35.101593,
+    "lng": 135.893509
   },
   {
     "name": "SHIGA CITY サッカースクール",
@@ -504,8 +504,8 @@
     "price": "月謝6,500円〜",
     "source_url": "https://p-ground.com/s/?id=A1154-001",
     "organization_type": "regional_chain",
-    "lat": 34.99794743475294,
-    "lng": 135.86709027289524
+    "lat": 34.947048,
+    "lng": 135.93454
   },
   {
     "name": "レイラック滋賀FC サッカースクール 大津校",
@@ -518,8 +518,8 @@
     "price": null,
     "source_url": "https://reilac-shiga.co.jp/school/location",
     "organization_type": "regional_chain",
-    "lat": 34.93021135843439,
-    "lng": 135.95071048719896
+    "lat": 34.946659,
+    "lng": 135.960632
   },
   {
     "name": "FC.SETA 2002 SHIGA ジュニア",
@@ -532,8 +532,8 @@
     "price": null,
     "source_url": "https://fc-seta-jr.com/",
     "organization_type": "community",
-    "lat": 34.97061487582467,
-    "lng": 135.912111424334
+    "lat": 34.97646,
+    "lng": 135.909637
   },
   {
     "name": "びわこスポーツクラブ サッカースクール",
@@ -546,8 +546,8 @@
     "price": null,
     "source_url": "https://biwako-sc.jp/?page_id=257",
     "organization_type": "regional_chain",
-    "lat": 35.199457214381134,
-    "lng": 135.88132706370092
+    "lat": 35.226852,
+    "lng": 135.943405
   },
   {
     "name": "大津イトマンスポーツクラブ",
@@ -571,8 +571,8 @@
     "price": "週1回8,250円〜、週2回12,100円〜、週3回13,750円〜（税込）",
     "source_url": "https://ootsu-isc.izumi21.net/",
     "organization_type": "regional_chain",
-    "lat": 35.004767644943065,
-    "lng": 135.8715143085097
+    "lat": 35.00491,
+    "lng": 135.87738
   },
   {
     "name": "スポーツクラブ コジャック",
@@ -585,8 +585,8 @@
     "price": "週1回7,700円、週2回9,900円、週3回10,670円（税込）",
     "source_url": "https://sports-kojak.co.jp/",
     "organization_type": "individual",
-    "lat": 35.09229577856273,
-    "lng": 135.87032219946298
+    "lat": 35.116432,
+    "lng": 135.91449
   },
   {
     "name": "大津市富士見市民温水プール（スポック富士見） キッズスイミング",
@@ -599,8 +599,8 @@
     "price": null,
     "source_url": "https://fujimi-pool.com/kids-swim/",
     "organization_type": "public",
-    "lat": 34.977619370720966,
-    "lng": 135.90054754160568
+    "lat": 34.981991,
+    "lng": 135.884583
   },
   {
     "name": "皇子が丘公園プール キッズスイミング",
@@ -613,8 +613,8 @@
     "price": null,
     "source_url": "https://www.cospa-wellness.co.jp/corp/ojigaoka-pool/kids_school/",
     "organization_type": "public",
-    "lat": 35.01788378481032,
-    "lng": 135.85607099743532
+    "lat": 35.023849,
+    "lng": 135.851074
   },
   {
     "name": "ニスポ・スイムクラブ 西大津",
@@ -627,8 +627,8 @@
     "price": "入会費6,600円、月会費7,150〜11,000円（税込）",
     "source_url": "http://www.nispo.jp/nishiotsu/",
     "organization_type": "regional_chain",
-    "lat": 35.01113652803435,
-    "lng": 135.86343113927364
+    "lat": 35.025471,
+    "lng": 135.861862
   },
   {
     "name": "ビバスポーツアカデミー瀬田 びばっこスイミング",
@@ -641,8 +641,8 @@
     "price": null,
     "source_url": "https://www.viva-sa.com/seta-kids/",
     "organization_type": "individual",
-    "lat": 34.970976157849776,
-    "lng": 135.91226003387814
+    "lat": 34.986557,
+    "lng": 135.929367
   },
   {
     "name": "DDPダンススクール（本堅田校）",
@@ -661,8 +661,8 @@
     "price": "3クラス目以降1回1,650円（月謝制・月4回）詳細非公開",
     "source_url": "https://www.ddp-dance.com/system",
     "organization_type": "regional_chain",
-    "lat": 35.0893973214199,
-    "lng": 135.87242800612626
+    "lat": 35.11869,
+    "lng": 135.918289
   },
   {
     "name": "セイハダンスアカデミー フォレオ大津一里山校",
@@ -701,8 +701,8 @@
     "price": null,
     "source_url": "https://otsu.foleo.jp/shop/226/",
     "organization_type": "national_chain",
-    "lat": 34.96902873327449,
-    "lng": 135.90995374958652
+    "lat": 34.974094,
+    "lng": 135.93364
   },
   {
     "name": "スポーツクラブNAS大津一里山（エイベックス・ダンスマスター）",
@@ -715,8 +715,8 @@
     "price": null,
     "source_url": "https://www.nas-club.co.jp/otsu/kids/",
     "organization_type": "national_chain",
-    "lat": 34.97084941570352,
-    "lng": 135.90987281481387
+    "lat": 34.974094,
+    "lng": 135.93364
   },
   {
     "name": "リディアダンスアカデミー 津藤方校",
@@ -729,8 +729,8 @@
     "price": null,
     "source_url": "https://ksn-japan.net/school/%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC-%E6%B4%A5%E8%97%A4%E6%96%B9%E6%A0%A1/",
     "organization_type": "regional_chain",
-    "lat": 34.99937250991636,
-    "lng": 135.87603448782792
+    "lat": 35.01183508624233,
+    "lng": 135.862539269387
   },
   {
     "name": "JEUGIAミュージックセンター大津京（ダンス）",
@@ -743,8 +743,8 @@
     "price": null,
     "source_url": "https://www.jeugia.co.jp/hall_48/course-detail_1780.html",
     "organization_type": "national_chain",
-    "lat": 35.02017749407306,
-    "lng": 135.85748931797312
+    "lat": 35.024651,
+    "lng": 135.857925
   },
   {
     "name": "びわこクリーンJr体操クラブ 下阪本本校",
@@ -763,8 +763,8 @@
     "price": "月会費5,000円、入会費5,000円、年会費3,000円",
     "source_url": "https://biwako-gym.com/",
     "organization_type": "individual",
-    "lat": 35.057277832225836,
-    "lng": 135.85139511638113
+    "lat": 35.056316,
+    "lng": 135.873672
   },
   {
     "name": "びわこクリーンJr体操クラブ 瀬田教室",
@@ -783,8 +783,8 @@
     "price": "月会費5,000円、入会費5,000円、年会費3,000円",
     "source_url": "http://biwako-gym.com/seta",
     "organization_type": "individual",
-    "lat": 34.97225582618442,
-    "lng": 135.90952405529526
+    "lat": 34.977688,
+    "lng": 135.937469
   },
   {
     "name": "アスリートスポーツクラブ 明日都体操クラブ（月曜）",
@@ -803,8 +803,8 @@
     "price": "月謝5,280円（税込）月4回",
     "source_url": "https://athlete-sc.com/club/monday/",
     "organization_type": "individual",
-    "lat": 35.008089186801705,
-    "lng": 135.87171135724472
+    "lat": 35.011639,
+    "lng": 135.86319
   },
   {
     "name": "アスリートスポーツクラブ 皇子が丘体操クラブ（火曜）",
@@ -823,8 +823,8 @@
     "price": "月謝4,620円（税込）月3回",
     "source_url": "https://athlete-sc.com/club/tuesday/",
     "organization_type": "individual",
-    "lat": 35.018428239020174,
-    "lng": 135.85690395939775
+    "lat": 35.022064,
+    "lng": 135.856903
   },
   {
     "name": "アスリートスポーツクラブ 瀬田公園体操クラブ（水曜）",
@@ -843,8 +843,8 @@
     "price": "月謝3,960円（税込）月3回",
     "source_url": "https://athlete-sc.com/club/wednesday/",
     "organization_type": "individual",
-    "lat": 34.97123094488442,
-    "lng": 135.913178595983
+    "lat": 34.977688,
+    "lng": 135.937469
   },
   {
     "name": "アスリートスポーツクラブ 勤労センター体操クラブ（木曜）",
@@ -863,8 +863,8 @@
     "price": "月謝5,280円（税込）月4回",
     "source_url": "https://athlete-sc.com/club/thursday/",
     "organization_type": "individual",
-    "lat": 35.00686261496914,
-    "lng": 135.87121610135074
+    "lat": 35.007462,
+    "lng": 135.873108
   },
   {
     "name": "アスリートスポーツクラブ 石山体操クラブ（土曜）",
@@ -883,8 +883,8 @@
     "price": "月謝5,280円（税込）月4回",
     "source_url": "https://athlete-sc.com/club/saturday/",
     "organization_type": "individual",
-    "lat": 35.000773217829675,
-    "lng": 135.8780722017743
+    "lat": 34.9997805821234,
+    "lng": 135.8586980173119
   },
   {
     "name": "サトウスポーツスクール",
@@ -897,8 +897,8 @@
     "price": null,
     "source_url": "https://www.sss3043.com/information/",
     "organization_type": "individual",
-    "lat": 35.00547303186568,
-    "lng": 135.8759790232392
+    "lat": 35.00033756693111,
+    "lng": 135.8588490884884
   },
   {
     "name": "四幸スポーツクラブ 体操教室（大津・瀬田エリア）",
@@ -911,8 +911,8 @@
     "price": null,
     "source_url": "http://shikou-taisou.com/",
     "organization_type": "regional_chain",
-    "lat": 35.01409450402095,
-    "lng": 135.87272800684957
+    "lat": 34.994949,
+    "lng": 135.949814
   },
   {
     "name": "大津イトマンスポーツクラブ 体操キッズクラス",
@@ -931,8 +931,8 @@
     "price": "月謝7,480円（税込）月4回",
     "source_url": "https://ootsu-isc.izumi21.net/",
     "organization_type": "regional_chain",
-    "lat": 35.00742776102481,
-    "lng": 135.8695997093396
+    "lat": 35.00491,
+    "lng": 135.87738
   },
   {
     "name": "スポーツクラブNAS大津一里山 キッズスクール（体操）",
@@ -945,8 +945,8 @@
     "price": null,
     "source_url": "https://www.nas-club.co.jp/otsu/kids/",
     "organization_type": "national_chain",
-    "lat": 34.969218046522094,
-    "lng": 135.91096135236302
+    "lat": 34.974094,
+    "lng": 135.93364
   },
   {
     "name": "biima sports 大津校",
@@ -970,8 +970,8 @@
     "price": "月謝8,980円（小1〜小2コース）、入会費11,000円",
     "source_url": "https://biima.co.jp/sports/school/otsu/",
     "organization_type": "national_chain",
-    "lat": 35.02212938219234,
-    "lng": 135.85272097318028
+    "lat": 35.02972,
+    "lng": 135.864716
   },
   {
     "name": "マジョリティ新体操クラブ",
@@ -984,8 +984,8 @@
     "price": null,
     "source_url": "https://majority-rg.jp/",
     "organization_type": "individual",
-    "lat": 35.01316120530049,
-    "lng": 135.87078852969475
+    "lat": 34.99683950216769,
+    "lng": 135.87203483378372
   },
   {
     "name": "ボブロペス英会話教室",
@@ -998,8 +998,8 @@
     "price": null,
     "source_url": "https://townpage.goo.ne.jp/shopdetail.php?matomeid=255833915191151780",
     "organization_type": "individual",
-    "lat": 35.00808649203341,
-    "lng": 135.8693431437328
+    "lat": 35.013721,
+    "lng": 135.863022
   },
   {
     "name": "Lakeside英会話（レイクサイド英会話）",
@@ -1012,8 +1012,8 @@
     "price": null,
     "source_url": "http://www.lakeside-english.com/",
     "organization_type": "individual",
-    "lat": 35.221412,
-    "lng": 135.919129
+    "lat": 35.22617,
+    "lng": 135.915924
   },
   {
     "name": "SONIC ENGLISH",
@@ -1026,8 +1026,8 @@
     "price": null,
     "source_url": "https://www.sonic-english.com/",
     "organization_type": "individual",
-    "lat": 34.971118325745614,
-    "lng": 135.91115548643802
+    "lat": 34.984966,
+    "lng": 135.927551
   },
   {
     "name": "HIRO英語教室",
@@ -1040,8 +1040,8 @@
     "price": null,
     "source_url": "https://hiro-eigo.com/about/",
     "organization_type": "individual",
-    "lat": 35.01639791964681,
-    "lng": 135.8639998963848
+    "lat": 35.027752,
+    "lng": 135.861801
   },
   {
     "name": "セイハ英語学院 フォレオ大津一里山教室",
@@ -1080,8 +1080,8 @@
     "price": null,
     "source_url": "https://english-academy.seiha.com/classroom/80917/",
     "organization_type": "national_chain",
-    "lat": 34.971038935467355,
-    "lng": 135.9124642633184
+    "lat": 34.974094,
+    "lng": 135.93364
   },
   {
     "name": "セイハ英語学院 バロー茶が崎教室",
@@ -1094,8 +1094,8 @@
     "price": null,
     "source_url": "https://english-academy.seiha.com/classroom/914995/",
     "organization_type": "national_chain",
-    "lat": 35.00018015730057,
-    "lng": 135.86528891753645
+    "lat": 35.009925792815736,
+    "lng": 135.86331780615765
   },
   {
     "name": "アルクKiddy CAT英語教室 大津膳所校",
@@ -1108,8 +1108,8 @@
     "price": "月謝6,000円（月3回）／個別レッスン月3回10,000円",
     "source_url": "https://wwb.jp/kidsenglish-otsu/course.htm",
     "organization_type": "regional_chain",
-    "lat": 34.992784195507895,
-    "lng": 135.88287596051512
+    "lat": 35.002243,
+    "lng": 135.880112
   },
   {
     "name": "ペッピーキッズクラブ 大津中央教室",
@@ -1122,8 +1122,8 @@
     "price": null,
     "source_url": "https://www.peppy-kids.com/classroom/detail.php?kid=397",
     "organization_type": "national_chain",
-    "lat": 34.97281374506953,
-    "lng": 135.90953939700145
+    "lat": 34.980194,
+    "lng": 135.931366
   },
   {
     "name": "ペッピーキッズクラブ 大津瀬田教室",
@@ -1136,8 +1136,8 @@
     "price": null,
     "source_url": "https://www.peppy-kids.com/classroom/detail.php?kid=1978",
     "organization_type": "national_chain",
-    "lat": 34.9709863753727,
-    "lng": 135.91274454310837
+    "lat": 34.980194,
+    "lng": 135.931366
   },
   {
     "name": "キッズデュオ 膳所ときめき坂",
@@ -1156,8 +1156,8 @@
     "price": null,
     "source_url": "https://www.kidsduo.com/classrooms/detail/2940/",
     "organization_type": "national_chain",
-    "lat": 34.99146790712784,
-    "lng": 135.8829602989648
+    "lat": 35.00301,
+    "lng": 135.880875
   },
   {
     "name": "キッズデュオ 大津瀬田",
@@ -1176,8 +1176,8 @@
     "price": null,
     "source_url": "https://www.kidsduo.com/classrooms/detail/1226/",
     "organization_type": "national_chain",
-    "lat": 34.97468635040094,
-    "lng": 135.9140140111971
+    "lat": 34.993996,
+    "lng": 135.920197
   },
   {
     "name": "こども英会話イーオンキッズ 瀬田校",
@@ -1201,8 +1201,8 @@
     "price": null,
     "source_url": "https://www.aeonet.co.jp/school/kansai/shiga/2512/kids/course/",
     "organization_type": "national_chain",
-    "lat": 34.969671069911556,
-    "lng": 135.9114904841396
+    "lat": 34.985363,
+    "lng": 135.926636
   },
   {
     "name": "ECCジュニア 神領教室",
@@ -1215,8 +1215,8 @@
     "price": "月謝6,600円〜12,100円（年齢・コースによる）",
     "source_url": "https://eccjuniorbs.jp/ht250271/",
     "organization_type": "national_chain",
-    "lat": 34.99840455242177,
-    "lng": 135.8671546334689
+    "lat": 35.0118405841449,
+    "lng": 135.86860634045814
   },
   {
     "name": "ヤマハ英語教室 ミュージックセンター大津京",
@@ -1229,8 +1229,8 @@
     "price": "月謝7,300円〜",
     "source_url": "https://school.jp.yamaha.com/english_school/room/detail.php?shopcode=20300200&venuecode=050",
     "organization_type": "national_chain",
-    "lat": 35.02128830577213,
-    "lng": 135.85520228116232
+    "lat": 35.024651,
+    "lng": 135.857925
   },
   {
     "name": "ヤマハ英語教室 JEUGIAアル・プラザ堅田センター",
@@ -1243,8 +1243,8 @@
     "price": "月謝7,300円〜",
     "source_url": "https://www.jeugia.co.jp/hall_49/service-top_3.html",
     "organization_type": "national_chain",
-    "lat": 35.0891933742338,
-    "lng": 135.86753529868358
+    "lat": 35.119877,
+    "lng": 135.915222
   },
   {
     "name": "自立型個別指導サクラ塾",
@@ -1257,8 +1257,8 @@
     "price": null,
     "source_url": "https://sucla-otsu.net/",
     "organization_type": "individual",
-    "lat": 35.000088428177975,
-    "lng": 135.87298457697455
+    "lat": 35.0043715022554,
+    "lng": 135.87574617763843
   },
   {
     "name": "サクラ塾 自立型個別指導 大津市役所前",
@@ -1271,8 +1271,8 @@
     "price": null,
     "source_url": "https://www.sucla-otsu.com/",
     "organization_type": "individual",
-    "lat": 34.99816727308748,
-    "lng": 135.87057997346258
+    "lat": 35.01153336118855,
+    "lng": 135.87507411543527
   },
   {
     "name": "個別指導アップ学習会 プラコベ大津中央教室",
@@ -1285,8 +1285,8 @@
     "price": "小学生：最大5科目19,800円/月（税込）〜",
     "source_url": "https://personalsupport.co.jp/shiga/otushi/purakobeotsuchuou/",
     "organization_type": "regional_chain",
-    "lat": 35.006478702075775,
-    "lng": 135.86895192501774
+    "lat": 35.006557,
+    "lng": 135.86412
   },
   {
     "name": "自立学習塾RED 大津青山教室",
@@ -1310,8 +1310,8 @@
     "price": "小学生：月4,450円〜（週1回）",
     "source_url": "https://www.jiritsu-red.jp/school/otsuaoyama/",
     "organization_type": "national_chain",
-    "lat": 34.96348064249857,
-    "lng": 135.91885667966676
+    "lat": 34.977837,
+    "lng": 135.969635
   },
   {
     "name": "個別学習塾UPまの",
@@ -1330,8 +1330,8 @@
     "price": "中学1・2年生：1科目5,000円〜、入会金5,000円",
     "source_url": "https://up-mano.com/",
     "organization_type": "individual",
-    "lat": 35.11236899826219,
-    "lng": 135.8810785490531
+    "lat": 35.125309,
+    "lng": 135.912537
   },
   {
     "name": "スクールIE 瀬田北校",
@@ -1355,8 +1355,8 @@
     "price": "お試しパック3,300円（90分×4回）",
     "source_url": "https://www.schoolie-net.jp/classrooms/detail/2373/",
     "organization_type": "national_chain",
-    "lat": 34.97543601857272,
-    "lng": 135.91530939753844
+    "lat": 34.993996,
+    "lng": 135.920197
   },
   {
     "name": "ITTO個別指導学院 大将軍校",
@@ -1375,8 +1375,8 @@
     "price": null,
     "source_url": "https://www.itto.jp/schools/kinki/shiga/daishogun.html",
     "organization_type": "national_chain",
-    "lat": 34.97945941802449,
-    "lng": 135.91327139885786
+    "lat": 34.993172,
+    "lng": 135.924942
   },
   {
     "name": "個別指導塾サクラサクセス 大津おごと温泉駅前教室",
@@ -1389,8 +1389,8 @@
     "price": "入塾金不要、管理費2,300円/月",
     "source_url": "https://www.sakusakura.jp/simulator/simulators/school/29",
     "organization_type": "regional_chain",
-    "lat": 35.06288009034406,
-    "lng": 135.86394610854313
+    "lat": 35.098,
+    "lng": 135.893112
   },
   {
     "name": "個別指導塾サクラサクセス 大津膳所駅前教室",
@@ -1403,8 +1403,8 @@
     "price": "入塾金不要、管理費2,300円/月",
     "source_url": "https://www.sakusakura.jp/simulator/simulators/school/27",
     "organization_type": "regional_chain",
-    "lat": 34.984384032297875,
-    "lng": 135.87615547405588
+    "lat": 34.998428,
+    "lng": 135.880173
   },
   {
     "name": "明光義塾 堅田教室",
@@ -1423,8 +1423,8 @@
     "price": null,
     "source_url": "https://www.meikogijuku.jp/school/shiga/otsu-shi/S3371/",
     "organization_type": "national_chain",
-    "lat": 35.08939435310899,
-    "lng": 135.86868608205995
+    "lat": 35.120399,
+    "lng": 135.917236
   },
   {
     "name": "学研教室 石山駅前教室",
@@ -1437,8 +1437,8 @@
     "price": null,
     "source_url": "https://www.889100.com/classrooms/13151",
     "organization_type": "national_chain",
-    "lat": 34.980995196463844,
-    "lng": 135.90080767960941
+    "lat": 34.979313,
+    "lng": 135.899506
   },
   {
     "name": "ナビ個別指導学院 堅田校",
@@ -1457,8 +1457,8 @@
     "price": "中1・中2（週1回）12,600円〜（税込）",
     "source_url": "https://www.navi-school.com/school/shiga/katata/",
     "organization_type": "national_chain",
-    "lat": 35.089753918117566,
-    "lng": 135.8690203162941
+    "lat": 35.118729,
+    "lng": 135.914261
   },
   {
     "name": "まんてんスクール 堅田校",
@@ -1477,8 +1477,8 @@
     "price": "月4回3,300円（税込）〜",
     "source_url": "https://www.manten-school.com/school/shiga/sc-katata.html",
     "organization_type": "national_chain",
-    "lat": 35.08886012880848,
-    "lng": 135.87211326354247
+    "lat": 35.118729,
+    "lng": 135.914261
   },
   {
     "name": "個別指導キャンパス 堅田校",
@@ -1491,8 +1491,8 @@
     "price": "月額4,320円〜",
     "source_url": "https://www.canpass-kobetsu.com/school/katata/",
     "organization_type": "regional_chain",
-    "lat": 35.091618220497146,
-    "lng": 135.87179391735512
+    "lat": 35.119884,
+    "lng": 135.915115
   },
   {
     "name": "ゴールフリー 大津中央教室",
@@ -1505,8 +1505,8 @@
     "price": "入学金14,300円（税込）、登録料5,500円（税込）",
     "source_url": "https://www.goalfree.co.jp/classroom/otsuchuo/",
     "organization_type": "regional_chain",
-    "lat": 35.00209017814558,
-    "lng": 135.8688611225488
+    "lat": 35.00346,
+    "lng": 135.862473
   },
   {
     "name": "KEC近畿教育学院 大津京校",
@@ -1530,8 +1530,8 @@
     "price": "小学4〜6年生：12,100円（税込）〜",
     "source_url": "https://www.prep.kec.ne.jp/otsukyo/",
     "organization_type": "regional_chain",
-    "lat": 35.020608224921,
-    "lng": 135.8551417887078
+    "lat": 35.024944,
+    "lng": 135.859787
   },
   {
     "name": "学習塾シャローム",
@@ -1544,8 +1544,8 @@
     "price": null,
     "source_url": "https://shalom.crayonsite.net/",
     "organization_type": "individual",
-    "lat": 35.148143700731545,
-    "lng": 135.90185155092152
+    "lat": 35.157288,
+    "lng": 135.915863
   },
   {
     "name": "ラプリマ音楽教室",
@@ -1564,8 +1564,8 @@
     "price": "月謝4,000円〜7,980円",
     "source_url": "https://www.music-school.net/web/detail/28101",
     "organization_type": "individual",
-    "lat": 35.07588227838084,
-    "lng": 135.84503082136425
+    "lat": 35.07238,
+    "lng": 135.872482
   },
   {
     "name": "五野ピアノ教室（大津教室）",
@@ -1594,8 +1594,8 @@
     "price": null,
     "source_url": "https://www.gonopiano.com/p/2/",
     "organization_type": "individual",
-    "lat": 35.00794830980758,
-    "lng": 135.86796531497902
+    "lat": 35.013393,
+    "lng": 135.86232
   },
   {
     "name": "いがたピアノ・リトミック教室",
@@ -1608,8 +1608,8 @@
     "price": "月謝制5,000円〜8,000円／回数制2,000円（30分）",
     "source_url": "https://igatapiano.com/",
     "organization_type": "individual",
-    "lat": 35.11229580284737,
-    "lng": 135.87982556441264
+    "lat": 35.145023,
+    "lng": 135.909042
   },
   {
     "name": "あいりすピアノ教室",
@@ -1622,8 +1622,8 @@
     "price": null,
     "source_url": "https://airisupiano.com/",
     "organization_type": "individual",
-    "lat": 34.971616005282804,
-    "lng": 135.90713123119667
+    "lat": 34.974407,
+    "lng": 135.904907
   },
   {
     "name": "古矢ピアノ教室",
@@ -1642,8 +1642,8 @@
     "price": "子ども6,000円〜（年間43回）",
     "source_url": "https://furuyapiano.com/",
     "organization_type": "individual",
-    "lat": 34.976994082342934,
-    "lng": 135.89852973595535
+    "lat": 34.985542,
+    "lng": 135.883896
   },
   {
     "name": "ポコアポコピアノ教室",
@@ -1656,8 +1656,8 @@
     "price": null,
     "source_url": "https://pocoapoco-ms.com/",
     "organization_type": "individual",
-    "lat": 35.03791570092915,
-    "lng": 135.87776272545688
+    "lat": 34.993149,
+    "lng": 135.878525
   },
   {
     "name": "ピアノ教室 ゆめlabo",
@@ -1676,8 +1676,8 @@
     "price": null,
     "source_url": "https://yume-labo.net/",
     "organization_type": "individual",
-    "lat": 35.04792302254023,
-    "lng": 135.8863435733335
+    "lat": 35.000366,
+    "lng": 135.868759
   },
   {
     "name": "いのうえ音楽教室",
@@ -1690,8 +1690,8 @@
     "price": "月謝3,850円〜（月2回・30分）",
     "source_url": "https://inouemusic.net/",
     "organization_type": "individual",
-    "lat": 35.06377564166165,
-    "lng": 135.8638225094808
+    "lat": 35.095032,
+    "lng": 135.904419
   },
   {
     "name": "サウンズクラブ音楽教室",
@@ -1715,8 +1715,8 @@
     "price": null,
     "source_url": "https://www.sounds-club.com/",
     "organization_type": "individual",
-    "lat": 34.99864520679329,
-    "lng": 135.89041212446028
+    "lat": 34.989182,
+    "lng": 135.894211
   },
   {
     "name": "大村夢ピアノ教室（大津京・唐崎教室）",
@@ -1729,8 +1729,8 @@
     "price": "大津京教室：月謝10,000円／唐崎教室：20分7,000円",
     "source_url": "https://yumepianostudio.crayonsite.com/",
     "organization_type": "individual",
-    "lat": 35.0177852,
-    "lng": 135.8548122
+    "lat": 35.017776,
+    "lng": 135.854721
   },
   {
     "name": "カワイ音楽教室 奏美ホール",
@@ -1749,8 +1749,8 @@
     "price": null,
     "source_url": "https://music.kawai.jp/search/detail/005276",
     "organization_type": "national_chain",
-    "lat": 34.98644479477373,
-    "lng": 135.89422773541088
+    "lat": 35.00573,
+    "lng": 135.861725
   },
   {
     "name": "カワイ音楽教室 コジャック",
@@ -1763,8 +1763,8 @@
     "price": "月謝3,780円〜7,560円",
     "source_url": "https://music.kawai.jp/search/detail/006617",
     "organization_type": "national_chain",
-    "lat": 35.09100803800408,
-    "lng": 135.86804181512522
+    "lat": 35.116432,
+    "lng": 135.91449
   },
   {
     "name": "ヤマハ音楽教室（JEUGIAミュージックセンター大津京）",
@@ -1788,8 +1788,8 @@
     "price": null,
     "source_url": "https://www.jeugia.co.jp/hall_48/service-top_1.html",
     "organization_type": "national_chain",
-    "lat": 35.021510557835036,
-    "lng": 135.8571810403906
+    "lat": 35.024651,
+    "lng": 135.857925
   },
   {
     "name": "ヤマハ音楽教室（JEUGIA 大津テラス）",
@@ -1802,8 +1802,8 @@
     "price": null,
     "source_url": "https://www.jeugia.co.jp/hall_85/service-top_1.html",
     "organization_type": "national_chain",
-    "lat": 35.005977615906176,
-    "lng": 135.87301727028387
+    "lat": 35.004417,
+    "lng": 135.879959
   },
   {
     "name": "アットスクール膳所教室（プログラミング）",
@@ -1816,8 +1816,8 @@
     "price": null,
     "source_url": "https://school.iesk.net/22021003-1/",
     "organization_type": "individual",
-    "lat": 35.007176831679146,
-    "lng": 135.86952396335806
+    "lat": 35.004417,
+    "lng": 135.879959
   },
   {
     "name": "どんぐりIT教室",
@@ -1881,8 +1881,8 @@
     "price": null,
     "source_url": "https://homepage-7yf.pages.dev/",
     "organization_type": "individual",
-    "lat": 35.01744098092008,
-    "lng": 135.86964353562104
+    "lat": 35.005512,
+    "lng": 135.884003
   },
   {
     "name": "プロクラ 大津京校（KEC近畿教育学院併設）",
@@ -1895,8 +1895,8 @@
     "price": null,
     "source_url": "https://www.programming-cloud.com/class/shiga-0009/",
     "organization_type": "regional_chain",
-    "lat": 35.01823792098081,
-    "lng": 135.8560154825723
+    "lat": 35.024944,
+    "lng": 135.859787
   },
   {
     "name": "プロクラ 石山校（KEC近畿教育学院併設）",
@@ -1909,8 +1909,8 @@
     "price": null,
     "source_url": "https://bestjuku.com/juku/2832/class/96330/",
     "organization_type": "regional_chain",
-    "lat": 34.97797266275441,
-    "lng": 135.9066082846454
+    "lat": 34.977066,
+    "lng": 135.901978
   },
   {
     "name": "プロクラ 開成 石山教室",
@@ -1923,8 +1923,8 @@
     "price": null,
     "source_url": "https://www.programming-cloud.com/class/shiga-0005/",
     "organization_type": "regional_chain",
-    "lat": 34.9820206929776,
-    "lng": 135.89969828794366
+    "lat": 34.978176,
+    "lng": 135.900742
   },
   {
     "name": "プロクラ 開成 膳所教室",
@@ -1937,8 +1937,8 @@
     "price": null,
     "source_url": "https://www.programming-cloud.com/class/shiga-0006/",
     "organization_type": "regional_chain",
-    "lat": 35.004831998742446,
-    "lng": 135.87332051124434
+    "lat": 35.003551,
+    "lng": 135.878647
   },
   {
     "name": "プロクラ 開成 瀬田教室",
@@ -1951,8 +1951,8 @@
     "price": null,
     "source_url": "https://www.programming-cloud.com/class/shiga-0015/",
     "organization_type": "regional_chain",
-    "lat": 34.97849597390428,
-    "lng": 135.91271234248646
+    "lat": 34.992004,
+    "lng": 135.927139
   },
   {
     "name": "プログラミング教育 HALLO Kids Duo 大津瀬田校",
@@ -1971,8 +1971,8 @@
     "price": null,
     "source_url": "https://www.hallo.jp/classrooms/detail/1226/",
     "organization_type": "national_chain",
-    "lat": 34.97581357626837,
-    "lng": 135.91089145515772
+    "lat": 34.993996,
+    "lng": 135.920197
   },
   {
     "name": "プログラミング教育 HALLO Kids Duo 膳所ときめき坂校",
@@ -1991,8 +1991,8 @@
     "price": null,
     "source_url": "https://www.hallo.jp/classrooms/detail/2940/",
     "organization_type": "national_chain",
-    "lat": 34.989808753546065,
-    "lng": 135.87867756680535
+    "lat": 35.00301,
+    "lng": 135.880875
   },
   {
     "name": "プログラミング教育 HALLO ビバスポーツアカデミー 瀬田校",
@@ -2005,8 +2005,8 @@
     "price": null,
     "source_url": "https://www.hallo.jp/classrooms/detail/2476/",
     "organization_type": "national_chain",
-    "lat": 34.972692220783394,
-    "lng": 135.91299421498957
+    "lat": 34.986557,
+    "lng": 135.929367
   },
   {
     "name": "ヒューマンアカデミージュニア ロボット教室 大津京",
@@ -2019,8 +2019,8 @@
     "price": "月謝10,260円（税込）、入会金11,000円（税込）、ロボットキット33,000円（税込）",
     "source_url": "https://tech-2.jp/classrooms/3808",
     "organization_type": "national_chain",
-    "lat": 35.004184261561605,
-    "lng": 135.87193693257683
+    "lat": 35.021523,
+    "lng": 135.855225
   },
   {
     "name": "ヒューマンアカデミージュニア 大津堅田教室",
@@ -2033,8 +2033,8 @@
     "price": null,
     "source_url": "https://kids.athuman.com/search/detail/?store_id=3195",
     "organization_type": "national_chain",
-    "lat": 35.00792194195093,
-    "lng": 135.8778619815129
+    "lat": 35.00030253663114,
+    "lng": 135.86882700096
   },
   {
     "name": "QUREOプログラミング教室 馬渕個別 石山校",
@@ -2058,8 +2058,8 @@
     "price": null,
     "source_url": "https://qureo.jp/class/mabuchikobetsu_ishiyama",
     "organization_type": "national_chain",
-    "lat": 34.995709848693,
-    "lng": 135.8710191556035
+    "lat": 35.00739559943319,
+    "lng": 135.86846291253738
   },
   {
     "name": "QUREOプログラミング教室 アップ学習会 プラコベ 大津中央教室",
@@ -2072,8 +2072,8 @@
     "price": null,
     "source_url": "https://coeteco.jp/brand/qureo/schools/2492265",
     "organization_type": "national_chain",
-    "lat": 35.00512147237279,
-    "lng": 135.86633964383887
+    "lat": 35.006557,
+    "lng": 135.86412
   },
   {
     "name": "プロクラ 西大津校（KEC近畿教育学院併設）",
@@ -2086,7 +2086,7 @@
     "price": null,
     "source_url": "https://bestjuku.com/juku/2832/class/96329/",
     "organization_type": "regional_chain",
-    "lat": 35.01746869303572,
-    "lng": 135.85822091436458
+    "lat": 35.024944,
+    "lng": 135.859787
   }
 ]
