@@ -38,18 +38,6 @@ export default function MarkerPopup({ lesson }: Props) {
           </a>
         </div>
       )}
-      {lesson.lat && lesson.lng && (
-        <div className="mt-1">
-          <a
-            href={`https://www.google.com/maps?q=${lesson.lat},${lesson.lng}&z=17`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gray-500 underline text-xs"
-          >
-            📌 Google マップで確認 →
-          </a>
-        </div>
-      )}
     </div>
   )
 }

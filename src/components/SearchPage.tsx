@@ -37,8 +37,7 @@ export default function SearchPage({ lessons }: Props) {
   const handleSelectLesson = useCallback((lesson: Lesson) => {
     setActiveLesson(lesson)
     if (lesson.lat != null && lesson.lng != null) {
-      // 地図を移動してポップアップを自動で開く
-      mapInstance.flyToAndOpen(lesson.lat, lesson.lng)
+      mapInstance.moveTo(lesson.lat, lesson.lng)
     }
   }, [])
 
