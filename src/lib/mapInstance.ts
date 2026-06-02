@@ -6,25 +6,15 @@
  */
 import type L from 'leaflet'
 
-type MoveEndCallback = (lat: number, lng: number, zoom: number) => void
-
 declare global {
   interface Window {
     __lessonMap?: L.Map
-    __lessonMapCb?: MoveEndCallback
   }
 }
 
 export const mapInstance = {
   register: (map: L.Map) => {
     window.__lessonMap = map
-    map.on('moveend', () => {
-      const cb = window.__lessonMapCb
-      if (cb) {
-        const c = map.getCenter()
-        cb(c.lat, c.lng, map.getZoom())
-      }
-    })
   },
 
   unregister: () => {
@@ -33,13 +23,19 @@ export const mapInstance = {
 
   isReady: () => typeof window !== 'undefined' && !!window.__lessonMap,
 
-  setMoveEndCallback: (cb: MoveEndCallback) => {
-    if (typeof window !== 'undefined') window.__lessonMapCb = cb
-  },
-
-  flyTo: (lat: number, lng: number, zoom = 15) => {
+  /** 指定座標に移動し、その位置のマーカーのポップアップを自動で開く */
+  flyToAndOpen: (lat: number, lng: number, zoom = 15) => {
     const map = window.__lessonMap
     if (!map) return
     map.setView([lat, lng], zoom)
+    // setView 後にレイヤーを走査して座標が一致するマーカーのポップアップを開く
+    map.eachLayer((layer) => {
+      const m = layer as L.Marker
+      if (typeof m.getLatLng !== 'function' || typeof m.openPopup !== 'function') return
+      const pos = m.getLatLng()
+      if (Math.abs(pos.lat - lat) < 0.0001 && Math.abs(pos.lng - lng) < 0.0001) {
+        m.openPopup()
+      }
+    })
   },
 }

@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useCallback, useEffect } from 'react'
+import { useState, useCallback } from 'react'
 import type { Lesson, FilterState } from '@/types/lesson'
 import { filterLessons } from '@/lib/filterLessons'
 import { mapInstance } from '@/lib/mapInstance'
@@ -23,22 +23,9 @@ export default function SearchPage({ lessons }: Props) {
   const [filter, setFilter] = useState<FilterState>(DEFAULT_FILTER)
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null)
   const [sidebarOpen, setSidebarOpen] = useState(true)
-  // デバッグ用
-  const [debugInfo, setDebugInfo] = useState<string | null>(null)
-  const [actualCenter, setActualCenter] = useState<string | null>(null)
-  const [gMapsUrl, setGMapsUrl] = useState<string | null>(null)
-
-  // useEffect で正しくコールバックを登録
-  useEffect(() => {
-    mapInstance.setMoveEndCallback((lat, lng, zoom) => {
-      setActualCenter(`実際の移動先: lat=${lat.toFixed(5)}, lng=${lng.toFixed(5)}, zoom=${zoom}`)
-    })
-  }, [])
 
   const filtered = filterLessons(lessons, filter)
-  // 住所あり＆座標あり → 地図に表示
   const mappable = filtered.filter((l) => l.address !== null && l.lat !== undefined)
-  // 住所なし → サイドバーのみ表示
   const noLocation = filtered.filter((l) => l.address === null)
 
   const updateFilter = useCallback(
@@ -47,19 +34,11 @@ export default function SearchPage({ lessons }: Props) {
     []
   )
 
-  // カードクリック：state更新 + 地図を即座に移動
   const handleSelectLesson = useCallback((lesson: Lesson) => {
     setActiveLesson(lesson)
-    const lat = lesson.lat
-    const lng = lesson.lng
-    const ready = mapInstance.isReady()
-    // デバッグ情報を表示
-    setDebugInfo(
-      `【${lesson.name}】 lat=${lat?.toFixed(5) ?? 'null'}, lng=${lng?.toFixed(5) ?? 'null'}, 地図=${ready ? '✅登録済' : '❌未登録'}`
-    )
-    if (lat != null && lng != null) {
-      setGMapsUrl(`https://www.google.com/maps?q=${lat},${lng}&z=17`)
-      mapInstance.flyTo(lat, lng)
+    if (lesson.lat != null && lesson.lng != null) {
+      // 地図を移動してポップアップを自動で開く
+      mapInstance.flyToAndOpen(lesson.lat, lesson.lng)
     }
   }, [])
 
@@ -68,32 +47,9 @@ export default function SearchPage({ lessons }: Props) {
     setActiveLesson(null)
   }
 
-  const isFiltered =
-    filter.categories.length > 0 || filter.targetAge !== null
+  const isFiltered = filter.categories.length > 0 || filter.targetAge !== null
 
   return (
-    <div className="flex flex-col flex-1 overflow-hidden">
-      {/* デバッグバー（調査用・後で削除） */}
-      {debugInfo && (
-        <div className="shrink-0 bg-yellow-100 border-b border-yellow-300 px-3 py-1 text-xs font-mono text-yellow-900 truncate">
-          🔍 指定: {debugInfo}
-        </div>
-      )}
-      {actualCenter && (
-        <div className="shrink-0 bg-green-100 border-b border-green-300 px-3 py-1 text-xs font-mono text-green-900 flex items-center gap-3">
-          <span className="truncate">📍 {actualCenter}</span>
-          {gMapsUrl && (
-            <a
-              href={gMapsUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="shrink-0 underline text-blue-700 font-sans"
-            >
-              Googleマップで確認 →
-            </a>
-          )}
-        </div>
-      )}
     <div className="flex flex-1 overflow-hidden">
       {/* サイドバー */}
       <aside
@@ -102,7 +58,6 @@ export default function SearchPage({ lessons }: Props) {
         }`}
       >
         <div className="flex flex-col h-full overflow-hidden">
-          {/* フィルターパネル */}
           <div className="p-3 border-b border-gray-200 space-y-4 shrink-0">
             <CategoryFilter
               selected={filter.categories}
@@ -122,7 +77,6 @@ export default function SearchPage({ lessons }: Props) {
             )}
           </div>
 
-          {/* 件数 */}
           <div className="px-3 py-2 text-xs text-gray-500 border-b border-gray-100 shrink-0">
             {isFiltered ? (
               <span>
@@ -134,7 +88,6 @@ export default function SearchPage({ lessons }: Props) {
             )}
           </div>
 
-          {/* 教室リスト */}
           <div className="flex-1 overflow-y-auto p-2 space-y-1.5">
             {mappable.map((lesson) => (
               <LessonCard
@@ -145,7 +98,6 @@ export default function SearchPage({ lessons }: Props) {
               />
             ))}
 
-            {/* 住所未取得（地図に表示しない） */}
             {noLocation.length > 0 && (
               <>
                 <div className="pt-2 pb-1 px-1">
@@ -176,7 +128,6 @@ export default function SearchPage({ lessons }: Props) {
       <main className="flex-1 relative">
         <DynamicMap lessons={mappable} activeLesson={activeLesson} />
       </main>
-    </div>
     </div>
   )
 }

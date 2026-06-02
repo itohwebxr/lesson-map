@@ -27,7 +27,7 @@ export default function MarkerPopup({ lesson }: Props) {
         </div>
       )}
       {lesson.website && (
-        <div className="mt-2">
+        <div className="mt-1">
           <a
             href={lesson.website}
             target="_blank"
@@ -35,6 +35,18 @@ export default function MarkerPopup({ lesson }: Props) {
             className="text-blue-600 underline text-xs"
           >
             🌐 公式サイトを見る →
+          </a>
+        </div>
+      )}
+      {lesson.lat && lesson.lng && (
+        <div className="mt-1">
+          <a
+            href={`https://www.google.com/maps?q=${lesson.lat},${lesson.lng}&z=17`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-500 underline text-xs"
+          >
+            📌 Google マップで確認 →
           </a>
         </div>
       )}
