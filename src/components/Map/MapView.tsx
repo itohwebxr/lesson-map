@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useRef } from 'react'
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
@@ -36,7 +36,7 @@ type Props = {
   activeLesson?: Lesson | null
 }
 
-/** 地図がマウントされたら mapInstance にインスタンスを登録する */
+/** 地図マウント時に mapInstance へ登録 */
 function MapRegistrar() {
   const map = useMap()
   useEffect(() => {
@@ -47,6 +47,21 @@ function MapRegistrar() {
 }
 
 export default function MapView({ lessons, activeLesson }: Props) {
+  // マーカーインスタンスを name をキーに保持
+  const markerRefs = useRef<Record<string, L.Marker>>({})
+
+  // activeLesson が変わったらそのマーカーのポップアップを開く
+  useEffect(() => {
+    if (!activeLesson) return
+    const marker = markerRefs.current[activeLesson.name]
+    if (!marker) return
+    // setView の後に開くよう少し遅らせる
+    const timer = setTimeout(() => {
+      marker.openPopup()
+    }, 150)
+    return () => clearTimeout(timer)
+  }, [activeLesson])
+
   return (
     <MapContainer
       center={[35.0045, 135.8686]}
@@ -67,8 +82,13 @@ export default function MapView({ lessons, activeLesson }: Props) {
             position={[lesson.lat!, lesson.lng!]}
             icon={isActive ? activeIcon : defaultIcon}
             zIndexOffset={isActive ? 1000 : 0}
+            ref={(m) => {
+              if (m) markerRefs.current[lesson.name] = m
+              else delete markerRefs.current[lesson.name]
+            }}
           >
-            <Popup maxWidth={280}>
+            {/* autoPan=false: ポップアップを開いても地図が動かない */}
+            <Popup maxWidth={280} autoPan={false}>
               <MarkerPopup lesson={lesson} />
             </Popup>
           </Marker>
