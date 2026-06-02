@@ -5,7 +5,7 @@ import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import type { Lesson } from '@/types/lesson'
-import type { FlyTarget } from '@/components/SearchPage'
+import { mapInstance } from '@/lib/mapInstance'
 import MarkerPopup from './MarkerPopup'
 
 // デフォルトアイコン（青）
@@ -34,23 +34,19 @@ const activeIcon = L.divIcon({
 type Props = {
   lessons: Lesson[]
   activeLesson?: Lesson | null
-  flyTarget?: FlyTarget | null
 }
 
-// flyTarget.key が変わるたびに必ず flyTo を実行する
-// key は Date.now() で毎回ユニークなので、同じ教室を連続クリックしても確実に動く
-function FlyToTarget({ flyTarget }: { flyTarget?: FlyTarget | null }) {
+/** 地図がマウントされたら mapInstance にインスタンスを登録する */
+function MapRegistrar() {
   const map = useMap()
   useEffect(() => {
-    if (flyTarget) {
-      map.flyTo([flyTarget.lat, flyTarget.lng], 15, { duration: 0.6 })
-    }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [flyTarget?.key]) // key は number（primitive）なので確実に比較できる
+    mapInstance.register(map)
+    return () => mapInstance.unregister()
+  }, [map])
   return null
 }
 
-export default function MapView({ lessons, activeLesson, flyTarget }: Props) {
+export default function MapView({ lessons, activeLesson }: Props) {
   return (
     <MapContainer
       center={[35.0045, 135.8686]}
@@ -58,7 +54,7 @@ export default function MapView({ lessons, activeLesson, flyTarget }: Props) {
       className="w-full h-full"
       scrollWheelZoom={true}
     >
-      <FlyToTarget flyTarget={flyTarget} />
+      <MapRegistrar />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
