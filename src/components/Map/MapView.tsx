@@ -69,7 +69,7 @@ export default function MapView({ lessons, activeLesson, navTarget, onSelectLess
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      {lessons.map((lesson) => {
+      {lessons.filter((l) => l.lat != null && l.lng != null).map((lesson) => {
         const isActive = activeLesson?.name === lesson.name
         const qualityIcon = qualityIcons[lesson.data_quality ?? 'low']
         return (
