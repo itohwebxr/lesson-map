@@ -5,10 +5,9 @@ import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import type { Lesson } from '@/types/lesson'
-import { mapInstance } from '@/lib/mapInstance'
+import type { NavTarget } from '@/components/SearchPage'
 import MarkerPopup from './MarkerPopup'
 
-// デフォルトアイコン（青）
 const defaultIcon = L.icon({
   iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
   iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
@@ -19,7 +18,6 @@ const defaultIcon = L.icon({
   shadowSize: [41, 41],
 })
 
-// アクティブアイコン（オレンジ）
 const activeIcon = L.divIcon({
   html: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 41" width="25" height="41">
     <path d="M12.5 0C5.6 0 0 5.6 0 12.5c0 9.4 12.5 28.5 12.5 28.5S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0z" fill="#f97316"/>
@@ -34,31 +32,37 @@ const activeIcon = L.divIcon({
 type Props = {
   lessons: Lesson[]
   activeLesson?: Lesson | null
+  navTarget?: NavTarget | null
 }
 
-/** 地図マウント時に mapInstance へ登録 */
-function MapRegistrar() {
+/**
+ * MapContainer の内側で useMap() を使い setView を呼ぶ。
+ * react-leaflet の管理下にある正規のインスタンスを使うことで確実に動作する。
+ * key（Date.now()）が変わるたびに useEffect が再実行される。
+ */
+function NavController({ navTarget }: { navTarget?: NavTarget | null }) {
   const map = useMap()
+  const prevKey = useRef<number | null>(null)
+
   useEffect(() => {
-    mapInstance.register(map)
-    return () => mapInstance.unregister()
-  }, [map])
+    if (!navTarget) return
+    if (navTarget.key === prevKey.current) return
+    prevKey.current = navTarget.key
+    map.setView([navTarget.lat, navTarget.lng], 15)
+  }, [navTarget, map])
+
   return null
 }
 
-export default function MapView({ lessons, activeLesson }: Props) {
-  // マーカーインスタンスを name をキーに保持
+export default function MapView({ lessons, activeLesson, navTarget }: Props) {
   const markerRefs = useRef<Record<string, L.Marker>>({})
 
-  // activeLesson が変わったらそのマーカーのポップアップを開く
+  // activeLesson が変わったらポップアップを開く（autoPan=false なので地図は動かない）
   useEffect(() => {
     if (!activeLesson) return
     const marker = markerRefs.current[activeLesson.name]
     if (!marker) return
-    // setView の後に開くよう少し遅らせる
-    const timer = setTimeout(() => {
-      marker.openPopup()
-    }, 150)
+    const timer = setTimeout(() => marker.openPopup(), 150)
     return () => clearTimeout(timer)
   }, [activeLesson])
 
@@ -69,7 +73,7 @@ export default function MapView({ lessons, activeLesson }: Props) {
       className="w-full h-full"
       scrollWheelZoom={true}
     >
-      <MapRegistrar />
+      <NavController navTarget={navTarget} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -87,7 +91,6 @@ export default function MapView({ lessons, activeLesson }: Props) {
               else delete markerRefs.current[lesson.name]
             }}
           >
-            {/* autoPan=false: ポップアップを開いても地図が動かない */}
             <Popup maxWidth={280} autoPan={false}>
               <MarkerPopup lesson={lesson} />
             </Popup>

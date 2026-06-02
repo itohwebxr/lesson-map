@@ -2,8 +2,8 @@
 
 import dynamic from 'next/dynamic'
 import type { Lesson } from '@/types/lesson'
+import type { NavTarget } from '@/components/SearchPage'
 
-// Leaflet は SSR 非対応のため dynamic import で回避
 const MapView = dynamic(() => import('./MapView'), {
   ssr: false,
   loading: () => (
@@ -16,8 +16,9 @@ const MapView = dynamic(() => import('./MapView'), {
 type Props = {
   lessons: Lesson[]
   activeLesson?: Lesson | null
+  navTarget?: NavTarget | null
 }
 
-export default function DynamicMap({ lessons, activeLesson }: Props) {
-  return <MapView lessons={lessons} activeLesson={activeLesson} />
+export default function DynamicMap({ lessons, activeLesson, navTarget }: Props) {
+  return <MapView lessons={lessons} activeLesson={activeLesson} navTarget={navTarget} />
 }
