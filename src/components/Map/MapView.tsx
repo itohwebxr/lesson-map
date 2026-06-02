@@ -33,6 +33,7 @@ type Props = {
   lessons: Lesson[]
   activeLesson?: Lesson | null
   navTarget?: NavTarget | null
+  onSelectLesson?: (lesson: Lesson) => void
 }
 
 /**
@@ -60,7 +61,7 @@ function NavController({ navTarget }: { navTarget?: NavTarget | null }) {
   return null
 }
 
-export default function MapView({ lessons, activeLesson, navTarget }: Props) {
+export default function MapView({ lessons, activeLesson, navTarget, onSelectLesson }: Props) {
   const markerRefs = useRef<Record<string, L.Marker>>({})
 
   // activeLesson が変わったらポップアップを開く（autoPan=false なので地図は動かない）
@@ -96,6 +97,9 @@ export default function MapView({ lessons, activeLesson, navTarget }: Props) {
             ref={(m) => {
               if (m) markerRefs.current[lesson.name] = m
               else delete markerRefs.current[lesson.name]
+            }}
+            eventHandlers={{
+              click: () => onSelectLesson?.(lesson),
             }}
           >
             <Popup maxWidth={280} autoPan={false}>

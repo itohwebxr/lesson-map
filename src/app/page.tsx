@@ -1,8 +1,9 @@
 import { loadLessons } from '@/lib/loadLessons'
+import { withDataQuality } from '@/lib/dataQuality'
 import SearchPage from '@/components/SearchPage'
 
 export default function Home() {
-  const lessons = loadLessons()
+  const lessons = withDataQuality(loadLessons())
 
   return (
     <div className="flex flex-col h-screen">

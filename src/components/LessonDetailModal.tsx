@@ -1,0 +1,143 @@
+'use client'
+
+import { useEffect } from 'react'
+import type { Lesson } from '@/types/lesson'
+import DataQualityBadge from '@/components/DataQualityBadge'
+
+const CATEGORY_ICONS: Record<string, string> = {
+  'サッカー': '⚽', 'スイミング': '🏊', 'ダンス': '💃', '体操': '🤸',
+  '英会話': '🌏', '学習塾': '📚', 'ピアノ': '🎹', 'プログラミング': '💻',
+}
+
+type Props = {
+  lesson: Lesson
+  onClose: () => void
+}
+
+export default function LessonDetailModal({ lesson, onClose }: Props) {
+  // ESCキーで閉じる
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose() }
+    window.addEventListener('keydown', handler)
+    return () => window.removeEventListener('keydown', handler)
+  }, [onClose])
+
+  const schedules = lesson.schedules?.filter((s) => s.weekday || s.start_time) ?? []
+
+  return (
+    <div
+      className="fixed inset-0 z-[2000] flex items-end sm:items-center justify-center"
+      onClick={onClose}
+    >
+      {/* オーバーレイ */}
+      <div className="absolute inset-0 bg-black/40" />
+
+      {/* モーダル本体 */}
+      <div
+        className="relative bg-white w-full sm:max-w-md sm:rounded-xl rounded-t-2xl shadow-xl max-h-[85vh] overflow-y-auto"
+        onClick={(e) => e.stopPropagation()}
+      >
+        {/* ヘッダー */}
+        <div className="sticky top-0 bg-white border-b border-gray-100 px-4 py-3 flex items-start justify-between gap-2">
+          <div>
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="text-lg font-bold text-gray-800 leading-snug">
+                {lesson.name}
+              </span>
+              <span className="text-xl" title={lesson.category}>
+                {CATEGORY_ICONS[lesson.category] ?? '📍'}
+              </span>
+            </div>
+            <div className="flex items-center gap-1.5 mt-1 flex-wrap">
+              <span className="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded">
+                {lesson.category}
+              </span>
+              {lesson.data_quality && <DataQualityBadge quality={lesson.data_quality} />}
+            </div>
+          </div>
+          <button
+            onClick={onClose}
+            className="shrink-0 text-gray-400 hover:text-gray-600 text-xl leading-none p-1"
+            aria-label="閉じる"
+          >
+            ✕
+          </button>
+        </div>
+
+        {/* 詳細内容 */}
+        <div className="px-4 py-4 space-y-3 text-sm">
+          {lesson.address && (
+            <div className="flex gap-2">
+              <span className="shrink-0">📍</span>
+              <span className="text-gray-700">{lesson.address}</span>
+            </div>
+          )}
+
+          {lesson.target_age && (
+            <div className="flex gap-2">
+              <span className="shrink-0">👶</span>
+              <span className="text-gray-700">{lesson.target_age}</span>
+            </div>
+          )}
+
+          {lesson.price && (
+            <div className="flex gap-2">
+              <span className="shrink-0">💴</span>
+              <span className="text-gray-700">{lesson.price}</span>
+            </div>
+          )}
+
+          {lesson.phone && (
+            <div className="flex gap-2">
+              <span className="shrink-0">📞</span>
+              <a
+                href={`tel:${lesson.phone}`}
+                className="text-blue-600 underline"
+              >
+                {lesson.phone}
+              </a>
+            </div>
+          )}
+
+          {schedules.length > 0 && (
+            <div>
+              <p className="text-xs font-semibold text-gray-500 mb-1.5">🗓 スケジュール</p>
+              <div className="space-y-1">
+                {schedules.map((s, i) => (
+                  <div key={i} className="text-gray-700 text-xs bg-gray-50 rounded px-2 py-1">
+                    {s.weekday && <span className="font-medium">{s.weekday}</span>}
+                    {s.start_time && (
+                      <span className="ml-2">
+                        {s.start_time}{s.end_time ? `〜${s.end_time}` : '〜'}
+                      </span>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {lesson.organization_type && (
+            <div className="text-xs text-gray-400">
+              種別: {lesson.organization_type}
+            </div>
+          )}
+        </div>
+
+        {/* フッター：公式サイトリンク */}
+        {lesson.website && (
+          <div className="sticky bottom-0 bg-white border-t border-gray-100 px-4 py-3">
+            <a
+              href={lesson.website}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center gap-2 w-full bg-blue-500 hover:bg-blue-600 text-white text-sm font-medium rounded-lg px-4 py-2.5 transition-colors"
+            >
+              🌐 公式サイトを見る
+            </a>
+          </div>
+        )}
+      </div>
+    </div>
+  )
+}
