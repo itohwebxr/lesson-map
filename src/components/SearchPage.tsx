@@ -26,6 +26,7 @@ export default function SearchPage({ lessons }: Props) {
   // デバッグ用
   const [debugInfo, setDebugInfo] = useState<string | null>(null)
   const [actualCenter, setActualCenter] = useState<string | null>(null)
+  const [gMapsUrl, setGMapsUrl] = useState<string | null>(null)
 
   // useEffect で正しくコールバックを登録
   useEffect(() => {
@@ -57,6 +58,7 @@ export default function SearchPage({ lessons }: Props) {
       `【${lesson.name}】 lat=${lat?.toFixed(5) ?? 'null'}, lng=${lng?.toFixed(5) ?? 'null'}, 地図=${ready ? '✅登録済' : '❌未登録'}`
     )
     if (lat != null && lng != null) {
+      setGMapsUrl(`https://www.google.com/maps?q=${lat},${lng}&z=17`)
       mapInstance.flyTo(lat, lng)
     }
   }, [])
@@ -78,8 +80,18 @@ export default function SearchPage({ lessons }: Props) {
         </div>
       )}
       {actualCenter && (
-        <div className="shrink-0 bg-green-100 border-b border-green-300 px-3 py-1 text-xs font-mono text-green-900 truncate">
-          📍 {actualCenter}
+        <div className="shrink-0 bg-green-100 border-b border-green-300 px-3 py-1 text-xs font-mono text-green-900 flex items-center gap-3">
+          <span className="truncate">📍 {actualCenter}</span>
+          {gMapsUrl && (
+            <a
+              href={gMapsUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="shrink-0 underline text-blue-700 font-sans"
+            >
+              Googleマップで確認 →
+            </a>
+          )}
         </div>
       )}
     <div className="flex flex-1 overflow-hidden">
