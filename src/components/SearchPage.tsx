@@ -127,7 +127,10 @@ export default function SearchPage({ lessons }: Props) {
       </button>
 
       <main className="flex-1 relative">
-        <DynamicMap lessons={mappable} activeLesson={activeLesson} navTarget={navTarget} />
+        {/* absolute inset-0 で relative 親の実際のサイズを正確に参照させる */}
+        <div className="absolute inset-0">
+          <DynamicMap lessons={mappable} activeLesson={activeLesson} navTarget={navTarget} />
+        </div>
       </main>
     </div>
   )
