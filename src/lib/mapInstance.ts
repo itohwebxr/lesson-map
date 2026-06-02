@@ -1,39 +1,45 @@
+'use client'
+
 /**
- * Leaflet の Map インスタンスをシングルトンとして保持するモジュール。
- * React の prop/state 伝播を一切使わず、クリック時に直接 flyTo を呼べる。
+ * Leaflet の Map インスタンスを window に保存して共有するモジュール。
+ * Turbopack がモジュールを別チャンクに分割しても、window は共通なので確実に動作する。
  */
 import type L from 'leaflet'
 
-let _map: L.Map | null = null
-
 type MoveEndCallback = (lat: number, lng: number, zoom: number) => void
-let _onMoveEnd: MoveEndCallback | null = null
+
+declare global {
+  interface Window {
+    __lessonMap?: L.Map
+    __lessonMapCb?: MoveEndCallback
+  }
+}
 
 export const mapInstance = {
   register: (map: L.Map) => {
-    _map = map
-    // 地図が移動し終わったら実際の中心座標をコールバックで通知
+    window.__lessonMap = map
     map.on('moveend', () => {
-      if (_onMoveEnd) {
+      const cb = window.__lessonMapCb
+      if (cb) {
         const c = map.getCenter()
-        _onMoveEnd(c.lat, c.lng, map.getZoom())
+        cb(c.lat, c.lng, map.getZoom())
       }
     })
   },
+
   unregister: () => {
-    _map = null
-    _onMoveEnd = null
+    delete window.__lessonMap
   },
-  isReady: () => _map !== null,
+
+  isReady: () => typeof window !== 'undefined' && !!window.__lessonMap,
+
   setMoveEndCallback: (cb: MoveEndCallback) => {
-    _onMoveEnd = cb
+    if (typeof window !== 'undefined') window.__lessonMapCb = cb
   },
+
   flyTo: (lat: number, lng: number, zoom = 15) => {
-    if (!_map) return
-    // アニメーションなしの setView で確実に移動させる
-    _map.setView([lat, lng], zoom)
-    // setView は同期的なので、直後に中心座標を取得できる
-    const c = _map.getCenter()
-    if (_onMoveEnd) _onMoveEnd(c.lat, c.lng, _map.getZoom())
+    const map = window.__lessonMap
+    if (!map) return
+    map.setView([lat, lng], zoom)
   },
 }
