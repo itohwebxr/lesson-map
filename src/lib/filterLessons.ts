@@ -33,6 +33,45 @@ function matchesAge(targetAge: string | null, ageValue: string): boolean {
   }
 }
 
+function timeToMinutes(time: string): number {
+  const [h, m] = time.split(':').map(Number)
+  return h * 60 + m
+}
+
+function matchesSchedule(
+  lesson: Lesson,
+  weekdays: string[],
+  timeStart: string | null,
+  timeEnd: string | null
+): boolean {
+  // スケジュール情報がない (low品質) はフィルタを通過させる
+  const hasAnyWeekday = lesson.schedules?.some((s) => s.weekday != null)
+  if (!hasAnyWeekday) return true
+
+  const filterStart = timeStart ? timeToMinutes(timeStart) : null
+  const filterEnd = timeEnd ? timeToMinutes(timeEnd) : null
+
+  return lesson.schedules.some((s) => {
+    // 曜日チェック
+    if (weekdays.length > 0) {
+      if (!s.weekday) return false
+      const matched = weekdays.some((d) => s.weekday!.includes(d))
+      if (!matched) return false
+    }
+
+    // 時間帯チェック
+    if (filterStart !== null || filterEnd !== null) {
+      if (!s.start_time) return weekdays.length === 0 // 時間なしは曜日のみフィルタ時はOK
+      const schedStart = timeToMinutes(s.start_time)
+      const schedEnd = s.end_time ? timeToMinutes(s.end_time) : schedStart + 60
+      if (filterStart !== null && schedEnd < filterStart) return false
+      if (filterEnd !== null && schedStart > filterEnd) return false
+    }
+
+    return true
+  })
+}
+
 export function filterLessons(lessons: Lesson[], filter: FilterState): Lesson[] {
   return lessons.filter((lesson) => {
     // カテゴリフィルタ
@@ -42,6 +81,13 @@ export function filterLessons(lessons: Lesson[], filter: FilterState): Lesson[] 
 
     // 対象年齢フィルタ
     if (filter.targetAge && !matchesAge(lesson.target_age, filter.targetAge)) {
+      return false
+    }
+
+    // 曜日・時間フィルタ
+    const hasScheduleFilter =
+      filter.weekdays.length > 0 || filter.timeStart !== null || filter.timeEnd !== null
+    if (hasScheduleFilter && !matchesSchedule(lesson, filter.weekdays, filter.timeStart, filter.timeEnd)) {
       return false
     }
 
