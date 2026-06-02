@@ -1,0 +1,2092 @@
+[
+  {
+    "name": "ロベッシャータサッカークラブ 一里山スクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市一里山3-16-1",
+    "website": "https://roveciata.com/",
+    "phone": "075-755-4889",
+    "target_age": "2歳〜12歳",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": "15:30",
+        "end_time": "16:30"
+      },
+      {
+        "weekday": "木",
+        "start_time": "16:30",
+        "end_time": "17:45"
+      },
+      {
+        "weekday": "木",
+        "start_time": "17:30",
+        "end_time": "19:00"
+      }
+    ],
+    "price": "月額5,000円（入会金なし）",
+    "source_url": "https://roveciata.com/school/",
+    "organization_type": "regional_chain",
+    "lat": 34.96947032475554,
+    "lng": 135.91200663832697
+  },
+  {
+    "name": "ロベッシャータサッカークラブ 青山スクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市青山5丁目（詳細番地不明）",
+    "website": "https://roveciata.com/",
+    "phone": "075-755-4889",
+    "target_age": "2歳〜12歳",
+    "schedules": [
+      {
+        "weekday": "水",
+        "start_time": "15:30",
+        "end_time": "16:30"
+      },
+      {
+        "weekday": "水",
+        "start_time": "16:30",
+        "end_time": "18:00"
+      }
+    ],
+    "price": "月額5,000円（入会金なし）",
+    "source_url": "https://roveciata.com/school/",
+    "organization_type": "regional_chain",
+    "lat": 34.96500137628055,
+    "lng": 135.91797290405898
+  },
+  {
+    "name": "ロベッシャータサッカークラブ 唐橋スクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市瀬田1丁目（詳細番地不明）",
+    "website": "https://roveciata.com/",
+    "phone": "075-755-4889",
+    "target_age": "2歳〜12歳",
+    "schedules": [
+      {
+        "weekday": "金",
+        "start_time": "15:30",
+        "end_time": "17:00"
+      },
+      {
+        "weekday": "金",
+        "start_time": "16:30",
+        "end_time": "18:00"
+      }
+    ],
+    "price": "月額5,000円（入会金なし）",
+    "source_url": "https://roveciata.com/school/",
+    "organization_type": "regional_chain",
+    "lat": 34.9704114300195,
+    "lng": 135.91062488806404
+  },
+  {
+    "name": "リベルタサッカースクール 瀬田",
+    "category": "サッカー",
+    "address": "滋賀県大津市大江4丁目2-1（瀬田小学校グラウンド）",
+    "website": "https://liberta.sport-school.com/school/%E7%80%AC%E7%94%B0",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "金",
+        "start_time": "15:10",
+        "end_time": "16:00"
+      },
+      {
+        "weekday": "金",
+        "start_time": "17:00",
+        "end_time": "18:10"
+      },
+      {
+        "weekday": "金",
+        "start_time": "18:20",
+        "end_time": "19:30"
+      }
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school/%E7%80%AC%E7%94%B0",
+    "organization_type": "national_chain",
+    "lat": 34.96841865071306,
+    "lng": 135.91029526605047
+  },
+  {
+    "name": "リベルタサッカースクール 南郷",
+    "category": "サッカー",
+    "address": "滋賀県大津市南郷1丁目15-9（南郷小学校グラウンド）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "月",
+        "start_time": "16:30",
+        "end_time": "17:40"
+      },
+      {
+        "weekday": "月",
+        "start_time": "17:50",
+        "end_time": "19:00"
+      }
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain",
+    "lat": 34.95309207089766,
+    "lng": 135.92247204723978
+  },
+  {
+    "name": "リベルタサッカースクール 茶臼山",
+    "category": "サッカー",
+    "address": "滋賀県大津市富士見台42-16付近（富士見小学校グラウンド）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": "16:50",
+        "end_time": "18:00"
+      },
+      {
+        "weekday": "木",
+        "start_time": "18:10",
+        "end_time": "19:20"
+      }
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain",
+    "lat": 34.978237428498296,
+    "lng": 135.9017463741727
+  },
+  {
+    "name": "リベルタサッカースクール 青山中央",
+    "category": "サッカー",
+    "address": "滋賀県大津市青山5丁目12（青山中央公園）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "火",
+        "start_time": "16:30",
+        "end_time": "17:40"
+      }
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain",
+    "lat": 34.96529465010932,
+    "lng": 135.92146343565676
+  },
+  {
+    "name": "リベルタサッカースクール 仰木の里東",
+    "category": "サッカー",
+    "address": "滋賀県大津市（仰木の里東小学校グラウンド）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "火",
+        "start_time": "17:00",
+        "end_time": "18:10"
+      },
+      {
+        "weekday": "水",
+        "start_time": "17:00",
+        "end_time": "18:10"
+      },
+      {
+        "weekday": "水",
+        "start_time": "18:20",
+        "end_time": "19:30"
+      }
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain",
+    "lat": 35.053618721656356,
+    "lng": 135.83884865028472
+  },
+  {
+    "name": "リベルタサッカースクール におの浜",
+    "category": "サッカー",
+    "address": "滋賀県大津市木下町2-24（滋賀朝鮮初中級学校グラウンド）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": "15:30",
+        "end_time": "16:20"
+      },
+      {
+        "weekday": "木",
+        "start_time": "16:30",
+        "end_time": "17:40"
+      },
+      {
+        "weekday": "木",
+        "start_time": "17:50",
+        "end_time": "19:00"
+      },
+      {
+        "weekday": "金",
+        "start_time": "16:30",
+        "end_time": "17:40"
+      },
+      {
+        "weekday": "金",
+        "start_time": "17:50",
+        "end_time": "19:00"
+      }
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain",
+    "lat": 35.008549741082724,
+    "lng": 135.87380789066899
+  },
+  {
+    "name": "リベルタサッカースクール ブランチ大津京（月）",
+    "category": "サッカー",
+    "address": "滋賀県大津市二本松1-1 ブランチ大津京",
+    "website": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%88%EF%BC%89",
+    "phone": "0120-735-410",
+    "target_age": "小学1年生〜小学6年生（キッズは幼児〜）",
+    "schedules": [
+      {
+        "weekday": "月",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "weekday": "月",
+        "start_time": "17:00",
+        "end_time": "18:10"
+      }
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%88%EF%BC%89",
+    "organization_type": "national_chain",
+    "lat": 35.021049288254886,
+    "lng": 135.85306825322323
+  },
+  {
+    "name": "リベルタサッカースクール ブランチ大津京（木）",
+    "category": "サッカー",
+    "address": "滋賀県大津市二本松1-1 ブランチ大津京",
+    "website": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%A8%EF%BC%89",
+    "phone": "0120-735-410",
+    "target_age": "小学1年生〜小学6年生（キッズは幼児〜）",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": "17:30",
+        "end_time": "18:40"
+      }
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%A8%EF%BC%89",
+    "organization_type": "national_chain",
+    "lat": 35.01981760172146,
+    "lng": 135.85426681301243
+  },
+  {
+    "name": "エフォートフットボールクラブ（MINOBE FOOTBALL ACADEMY）",
+    "category": "サッカー",
+    "address": "滋賀県大津市御陵町4丁目1（皇子山総合運動公園）",
+    "website": "https://fceffort.com/",
+    "phone": "080-1463-6598",
+    "target_age": "ジュニア（小学生）・U-13〜U-15（中学生）",
+    "schedules": [
+      {
+        "weekday": "火",
+        "start_time": "18:00",
+        "end_time": "20:00"
+      },
+      {
+        "weekday": "金",
+        "start_time": "18:00",
+        "end_time": "20:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://fceffort.com/",
+    "organization_type": "individual",
+    "lat": 35.001562576921785,
+    "lng": 135.871094004639
+  },
+  {
+    "name": "滋賀レイクセレソン セレスク キッズU-6",
+    "category": "サッカー",
+    "address": "滋賀県大津市御陵町4-1（皇子山校）／志賀小校（住所不明）",
+    "website": "https://s-lake-selecao.com/",
+    "phone": null,
+    "target_age": "年長まで（〜6歳）",
+    "schedules": [
+      {
+        "weekday": "水",
+        "start_time": "18:30",
+        "end_time": "19:30"
+      },
+      {
+        "weekday": "木",
+        "start_time": "17:00",
+        "end_time": "18:00"
+      },
+      {
+        "weekday": "金",
+        "start_time": "18:30",
+        "end_time": "19:30"
+      },
+      {
+        "weekday": "日",
+        "start_time": "17:00",
+        "end_time": "18:00"
+      }
+    ],
+    "price": "月額3,800円（最大4回）＋年会費7,600円",
+    "source_url": "https://s-lake-selecao.com/about-club/school/",
+    "organization_type": "regional_chain",
+    "lat": 35.00585377442713,
+    "lng": 135.86925707474145
+  },
+  {
+    "name": "滋賀レイクセレソン セレスク ジュニアU-12",
+    "category": "サッカー",
+    "address": "滋賀県大津市御陵町4-1（皇子山校）／志賀小校（住所不明）",
+    "website": "https://s-lake-selecao.com/",
+    "phone": null,
+    "target_age": "小学1年生〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "火",
+        "start_time": "18:30",
+        "end_time": "20:00"
+      },
+      {
+        "weekday": "水",
+        "start_time": "18:30",
+        "end_time": "19:30"
+      },
+      {
+        "weekday": "木",
+        "start_time": "18:30",
+        "end_time": "20:00"
+      },
+      {
+        "weekday": "金",
+        "start_time": "18:30",
+        "end_time": "20:00"
+      },
+      {
+        "weekday": "日",
+        "start_time": "18:00",
+        "end_time": "19:00"
+      }
+    ],
+    "price": "月額6,000円（最大5回）＋年会費7,600円＋指定着7,000円（入会時）",
+    "source_url": "https://s-lake-selecao.com/about-club/school/",
+    "organization_type": "regional_chain",
+    "lat": 35.00259257322022,
+    "lng": 135.8704501592951
+  },
+  {
+    "name": "サカスク滋賀 大津校",
+    "category": "サッカー",
+    "address": "滋賀県大津市御陵町4-1（皇子山総合運動公園）",
+    "website": "https://sakasuku-shiga.com/",
+    "phone": "080-1415-7037",
+    "target_age": "年中〜中学3年生",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "weekday": "木",
+        "start_time": "17:00",
+        "end_time": "18:00"
+      },
+      {
+        "weekday": "木",
+        "start_time": "18:10",
+        "end_time": "19:20"
+      },
+      {
+        "weekday": "木",
+        "start_time": "19:30",
+        "end_time": "20:30"
+      }
+    ],
+    "price": "入会金5,400円 / Kids週1：5,400円 / Junior U9週1：6,480円 / Junior U12週1：7,560円 ＋年会費8,000円",
+    "source_url": "https://suposuku.jp/venues/3458/fees",
+    "organization_type": "regional_chain",
+    "lat": 35.002217088292106,
+    "lng": 135.87064344947063
+  },
+  {
+    "name": "打出FC",
+    "category": "サッカー",
+    "address": "滋賀県大津市打出浜15-1（大津市立中央小学校グラウンド）",
+    "website": "https://uchide-fc.com/",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://uchide-fc.com/",
+    "organization_type": "community",
+    "lat": 35.00896446101556,
+    "lng": 135.8702356157443
+  },
+  {
+    "name": "晴嵐スポーツ少年団サッカー部",
+    "category": "サッカー",
+    "address": "滋賀県大津市光が丘町4-70（大津市立晴嵐小学校グラウンド）",
+    "website": null,
+    "phone": null,
+    "target_age": "小学1年生〜6年生",
+    "schedules": [
+      {
+        "weekday": "土",
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "weekday": "日",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": null,
+    "source_url": "https://kids-school.msta.co.jp/group-sports/cat-soccer/feature-saturday-soccer/p-shiga/c-25201",
+    "organization_type": "community",
+    "lat": 34.97879996648716,
+    "lng": 135.8795285648959
+  },
+  {
+    "name": "里東FC",
+    "category": "サッカー",
+    "address": "滋賀県大津市仰木の里東（大津市立仰木の里東小学校グラウンド）",
+    "website": "https://satohigashi-fc.com/",
+    "phone": null,
+    "target_age": "年長〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "土",
+        "start_time": "14:00",
+        "end_time": "16:30"
+      },
+      {
+        "weekday": "日",
+        "start_time": "09:00",
+        "end_time": "11:30"
+      }
+    ],
+    "price": "入会金2,000円 / 月会費：年長500円・1〜3年1,000円・4〜6年1,500円",
+    "source_url": "https://satohigashi-fc.com/",
+    "organization_type": "community",
+    "lat": 35.055006713964644,
+    "lng": 135.84044577425342
+  },
+  {
+    "name": "SHIGA CITY サッカースクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市森領町4-1（皇子山総合運動公園）",
+    "website": "https://shigacity-fc.jp/school/",
+    "phone": null,
+    "target_age": "4歳〜小学6年生",
+    "schedules": [],
+    "price": "月謝6,500円〜",
+    "source_url": "https://p-ground.com/s/?id=A1154-001",
+    "organization_type": "regional_chain",
+    "lat": 34.99794743475294,
+    "lng": 135.86709027289524
+  },
+  {
+    "name": "レイラック滋賀FC サッカースクール 大津校",
+    "category": "サッカー",
+    "address": "滋賀県大津市上田上中野町779",
+    "website": "https://reilac-shiga.co.jp/school",
+    "phone": "077-564-6646",
+    "target_age": "小学1〜6年生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://reilac-shiga.co.jp/school/location",
+    "organization_type": "regional_chain",
+    "lat": 34.93021135843439,
+    "lng": 135.95071048719896
+  },
+  {
+    "name": "FC.SETA 2002 SHIGA ジュニア",
+    "category": "サッカー",
+    "address": "滋賀県大津市瀬田地区（瀬田東小学校グラウンド）",
+    "website": "https://fc-seta-jr.com/",
+    "phone": null,
+    "target_age": "小学生（U-12）",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://fc-seta-jr.com/",
+    "organization_type": "community",
+    "lat": 34.97061487582467,
+    "lng": 135.912111424334
+  },
+  {
+    "name": "びわこスポーツクラブ サッカースクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市北比良977-6",
+    "website": "https://biwako-sc.jp/",
+    "phone": null,
+    "target_age": "幼児〜小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://biwako-sc.jp/?page_id=257",
+    "organization_type": "regional_chain",
+    "lat": 35.199457214381134,
+    "lng": 135.88132706370092
+  },
+  {
+    "name": "大津イトマンスポーツクラブ",
+    "category": "スイミング",
+    "address": "滋賀県大津市打出浜33-11",
+    "website": "https://ootsu-isc.izumi21.net/",
+    "phone": "077-525-7755",
+    "target_age": "生後7ヶ月〜中学生",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": "16:00",
+        "end_time": "17:00"
+      },
+      {
+        "weekday": "木",
+        "start_time": "17:15",
+        "end_time": "18:15"
+      }
+    ],
+    "price": "週1回8,250円〜、週2回12,100円〜、週3回13,750円〜（税込）",
+    "source_url": "https://ootsu-isc.izumi21.net/",
+    "organization_type": "regional_chain",
+    "lat": 35.004767644943065,
+    "lng": 135.8715143085097
+  },
+  {
+    "name": "スポーツクラブ コジャック",
+    "category": "スイミング",
+    "address": "滋賀県大津市本堅田5丁目11-21",
+    "website": "https://sports-kojak.co.jp/",
+    "phone": "077-573-7373",
+    "target_age": "2歳〜",
+    "schedules": [],
+    "price": "週1回7,700円、週2回9,900円、週3回10,670円（税込）",
+    "source_url": "https://sports-kojak.co.jp/",
+    "organization_type": "individual",
+    "lat": 35.09229577856273,
+    "lng": 135.87032219946298
+  },
+  {
+    "name": "大津市富士見市民温水プール（スポック富士見） キッズスイミング",
+    "category": "スイミング",
+    "address": "滋賀県大津市富士見台54番46号",
+    "website": "https://fujimi-pool.com/kids-swim/",
+    "phone": "077-533-3113",
+    "target_age": "生後6ヶ月〜",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://fujimi-pool.com/kids-swim/",
+    "organization_type": "public",
+    "lat": 34.977619370720966,
+    "lng": 135.90054754160568
+  },
+  {
+    "name": "皇子が丘公園プール キッズスイミング",
+    "category": "スイミング",
+    "address": "滋賀県大津市皇子が丘一丁目1-1",
+    "website": "https://www.cospa-wellness.co.jp/corp/ojigaoka-pool/kids_school/",
+    "phone": "077-526-3085",
+    "target_age": "ベビー〜",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.cospa-wellness.co.jp/corp/ojigaoka-pool/kids_school/",
+    "organization_type": "public",
+    "lat": 35.01788378481032,
+    "lng": 135.85607099743532
+  },
+  {
+    "name": "ニスポ・スイムクラブ 西大津",
+    "category": "スイミング",
+    "address": "滋賀県大津市松山町1-10",
+    "website": "http://www.nispo.jp/nishiotsu/",
+    "phone": "077-527-0556",
+    "target_age": "生後6ヶ月〜",
+    "schedules": [],
+    "price": "入会費6,600円、月会費7,150〜11,000円（税込）",
+    "source_url": "http://www.nispo.jp/nishiotsu/",
+    "organization_type": "regional_chain",
+    "lat": 35.01113652803435,
+    "lng": 135.86343113927364
+  },
+  {
+    "name": "ビバスポーツアカデミー瀬田 びばっこスイミング",
+    "category": "スイミング",
+    "address": "滋賀県大津市一里山1丁目18-22",
+    "website": "https://www.viva-sa.com/seta-kids/swimming",
+    "phone": "077-543-0887",
+    "target_age": "幼児〜小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.viva-sa.com/seta-kids/",
+    "organization_type": "individual",
+    "lat": 34.970976157849776,
+    "lng": 135.91226003387814
+  },
+  {
+    "name": "DDPダンススクール（本堅田校）",
+    "category": "ダンス",
+    "address": "滋賀県大津市本堅田4丁目15-25 グラン・ドムール大津堅田B102号",
+    "website": "https://www.ddp-dance.com/",
+    "phone": null,
+    "target_age": "リトルキッズ・キッズ・レギュラー・大人",
+    "schedules": [
+      {
+        "weekday": "火〜日",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": "3クラス目以降1回1,650円（月謝制・月4回）詳細非公開",
+    "source_url": "https://www.ddp-dance.com/system",
+    "organization_type": "regional_chain",
+    "lat": 35.0893973214199,
+    "lng": 135.87242800612626
+  },
+  {
+    "name": "セイハダンスアカデミー フォレオ大津一里山校",
+    "category": "ダンス",
+    "address": "滋賀県大津市一里山7丁目1-1 フォレオ大津一里山2F",
+    "website": "https://www.seiha.com/dance-academy/class/83247/",
+    "phone": "0120-815-718",
+    "target_age": "3歳〜",
+    "schedules": [
+      {
+        "weekday": "火",
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "weekday": "水",
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "weekday": "木",
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "weekday": "土",
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "weekday": "日",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": null,
+    "source_url": "https://otsu.foleo.jp/shop/226/",
+    "organization_type": "national_chain",
+    "lat": 34.96902873327449,
+    "lng": 135.90995374958652
+  },
+  {
+    "name": "スポーツクラブNAS大津一里山（エイベックス・ダンスマスター）",
+    "category": "ダンス",
+    "address": "滋賀県大津市一里山7-1-1 フォレオ大津一里山内",
+    "website": "https://dancemaster.avex.jp/studios/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96nas%E5%A4%A7%E6%B4%A5%E4%B8%80%E9%87%8C%E5%B1%B1",
+    "phone": "077-547-0808",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.nas-club.co.jp/otsu/kids/",
+    "organization_type": "national_chain",
+    "lat": 34.97084941570352,
+    "lng": 135.90987281481387
+  },
+  {
+    "name": "リディアダンスアカデミー 津藤方校",
+    "category": "ダンス",
+    "address": null,
+    "website": "https://re-dia.jp/",
+    "phone": null,
+    "target_age": "3歳〜",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://ksn-japan.net/school/%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC-%E6%B4%A5%E8%97%A4%E6%96%B9%E6%A0%A1/",
+    "organization_type": "regional_chain",
+    "lat": 34.99937250991636,
+    "lng": 135.87603448782792
+  },
+  {
+    "name": "JEUGIAミュージックセンター大津京（ダンス）",
+    "category": "ダンス",
+    "address": "滋賀県大津市皇子が丘2丁目10-31 西大津IS3ビル2-3F",
+    "website": "https://www.jeugia.co.jp/hall/mc-otsukyo.php",
+    "phone": "0120-948-937",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.jeugia.co.jp/hall_48/course-detail_1780.html",
+    "organization_type": "national_chain",
+    "lat": 35.02017749407306,
+    "lng": 135.85748931797312
+  },
+  {
+    "name": "びわこクリーンJr体操クラブ 下阪本本校",
+    "category": "体操",
+    "address": "滋賀県大津市下阪本1丁目20-12",
+    "website": "https://biwako-gym.com/",
+    "phone": "077-579-3178",
+    "target_age": "2歳〜中学生・選手育成",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": "月会費5,000円、入会費5,000円、年会費3,000円",
+    "source_url": "https://biwako-gym.com/",
+    "organization_type": "individual",
+    "lat": 35.057277832225836,
+    "lng": 135.85139511638113
+  },
+  {
+    "name": "びわこクリーンJr体操クラブ 瀬田教室",
+    "category": "体操",
+    "address": "滋賀県大津市一里山6丁目9-1",
+    "website": "https://biwako-gym.com/",
+    "phone": "077-579-3178",
+    "target_age": "幼児〜小学生",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": "月会費5,000円、入会費5,000円、年会費3,000円",
+    "source_url": "http://biwako-gym.com/seta",
+    "organization_type": "individual",
+    "lat": 34.97225582618442,
+    "lng": 135.90952405529526
+  },
+  {
+    "name": "アスリートスポーツクラブ 明日都体操クラブ（月曜）",
+    "category": "体操",
+    "address": "滋賀県大津市浜大津4丁目1-1 明日都浜大津1F大会議室",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": "3歳〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "月",
+        "start_time": "15:30",
+        "end_time": "18:20"
+      }
+    ],
+    "price": "月謝5,280円（税込）月4回",
+    "source_url": "https://athlete-sc.com/club/monday/",
+    "organization_type": "individual",
+    "lat": 35.008089186801705,
+    "lng": 135.87171135724472
+  },
+  {
+    "name": "アスリートスポーツクラブ 皇子が丘体操クラブ（火曜）",
+    "category": "体操",
+    "address": "滋賀県大津市皇子が丘2丁目4-3 皇子が丘公園体育館",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": "2歳〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "火",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": "月謝4,620円（税込）月3回",
+    "source_url": "https://athlete-sc.com/club/tuesday/",
+    "organization_type": "individual",
+    "lat": 35.018428239020174,
+    "lng": 135.85690395939775
+  },
+  {
+    "name": "アスリートスポーツクラブ 瀬田公園体操クラブ（水曜）",
+    "category": "体操",
+    "address": "滋賀県大津市一里山6丁目9-1 瀬田公園体育館 小アリーナ",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": null,
+    "schedules": [
+      {
+        "weekday": "水",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": "月謝3,960円（税込）月3回",
+    "source_url": "https://athlete-sc.com/club/wednesday/",
+    "organization_type": "individual",
+    "lat": 34.97123094488442,
+    "lng": 135.913178595983
+  },
+  {
+    "name": "アスリートスポーツクラブ 勤労センター体操クラブ（木曜）",
+    "category": "体操",
+    "address": "滋賀県大津市打出浜1-6 勤労福祉センター3階軽スポーツ室",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": "2歳〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    ],
+    "price": "月謝5,280円（税込）月4回",
+    "source_url": "https://athlete-sc.com/club/thursday/",
+    "organization_type": "individual",
+    "lat": 35.00686261496914,
+    "lng": 135.87121610135074
+  },
+  {
+    "name": "アスリートスポーツクラブ 石山体操クラブ（土曜）",
+    "category": "体操",
+    "address": null,
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": null,
+    "schedules": [
+      {
+        "weekday": "土",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": "月謝5,280円（税込）月4回",
+    "source_url": "https://athlete-sc.com/club/saturday/",
+    "organization_type": "individual",
+    "lat": 35.000773217829675,
+    "lng": 135.8780722017743
+  },
+  {
+    "name": "サトウスポーツスクール",
+    "category": "体操",
+    "address": null,
+    "website": "https://www.sss3043.com/",
+    "phone": null,
+    "target_age": "幼稚園・保育園〜小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.sss3043.com/information/",
+    "organization_type": "individual",
+    "lat": 35.00547303186568,
+    "lng": 135.8759790232392
+  },
+  {
+    "name": "四幸スポーツクラブ 体操教室（大津・瀬田エリア）",
+    "category": "体操",
+    "address": "滋賀県草津市野路9丁目9-28 2階（本部）",
+    "website": "http://shikou-taisou.com/",
+    "phone": "077-564-2525",
+    "target_age": "親子・幼児・小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "http://shikou-taisou.com/",
+    "organization_type": "regional_chain",
+    "lat": 35.01409450402095,
+    "lng": 135.87272800684957
+  },
+  {
+    "name": "大津イトマンスポーツクラブ 体操キッズクラス",
+    "category": "体操",
+    "address": "滋賀県大津市打出浜33-11",
+    "website": "https://ootsu-isc.izumi21.net/",
+    "phone": "077-525-7755",
+    "target_age": "4歳〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "木",
+        "start_time": "16:00",
+        "end_time": "17:00"
+      }
+    ],
+    "price": "月謝7,480円（税込）月4回",
+    "source_url": "https://ootsu-isc.izumi21.net/",
+    "organization_type": "regional_chain",
+    "lat": 35.00742776102481,
+    "lng": 135.8695997093396
+  },
+  {
+    "name": "スポーツクラブNAS大津一里山 キッズスクール（体操）",
+    "category": "体操",
+    "address": "滋賀県大津市一里山7-1-1 フォレオ大津一里山内",
+    "website": "https://www.nas-club.co.jp/otsu/kids/",
+    "phone": "077-547-0808",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.nas-club.co.jp/otsu/kids/",
+    "organization_type": "national_chain",
+    "lat": 34.969218046522094,
+    "lng": 135.91096135236302
+  },
+  {
+    "name": "biima sports 大津校",
+    "category": "体操",
+    "address": "滋賀県大津市二本松1-1 BRANCH大津京内 SG-Park",
+    "website": "https://biima.co.jp/sports/school/otsu/",
+    "phone": null,
+    "target_age": "3歳〜9歳",
+    "schedules": [
+      {
+        "weekday": "月",
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "weekday": "土",
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "price": "月謝8,980円（小1〜小2コース）、入会費11,000円",
+    "source_url": "https://biima.co.jp/sports/school/otsu/",
+    "organization_type": "national_chain",
+    "lat": 35.02212938219234,
+    "lng": 135.85272097318028
+  },
+  {
+    "name": "マジョリティ新体操クラブ",
+    "category": "体操",
+    "address": null,
+    "website": "https://majority-rg.jp/",
+    "phone": null,
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://majority-rg.jp/",
+    "organization_type": "individual",
+    "lat": 35.01316120530049,
+    "lng": 135.87078852969475
+  },
+  {
+    "name": "ボブロペス英会話教室",
+    "category": "英会話",
+    "address": "滋賀県大津市浜大津4-9-16 エリセオびわこ201",
+    "website": "https://talkingbook.jp/",
+    "phone": "077-521-7780",
+    "target_age": "6ヶ月〜大人",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://townpage.goo.ne.jp/shopdetail.php?matomeid=255833915191151780",
+    "organization_type": "individual",
+    "lat": 35.00808649203341,
+    "lng": 135.8693431437328
+  },
+  {
+    "name": "Lakeside英会話（レイクサイド英会話）",
+    "category": "英会話",
+    "address": "滋賀県大津市大物804-79",
+    "website": "http://www.lakeside-english.com/",
+    "phone": null,
+    "target_age": "子供〜大人",
+    "schedules": [],
+    "price": null,
+    "source_url": "http://www.lakeside-english.com/",
+    "organization_type": "individual",
+    "lat": 35.221412,
+    "lng": 135.919129
+  },
+  {
+    "name": "SONIC ENGLISH",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山（瀬田駅前）",
+    "website": "https://www.sonic-english.com/",
+    "phone": null,
+    "target_age": "3歳〜大人",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.sonic-english.com/",
+    "organization_type": "individual",
+    "lat": 34.971118325745614,
+    "lng": 135.91115548643802
+  },
+  {
+    "name": "HIRO英語教室",
+    "category": "英会話",
+    "address": "滋賀県大津市桜野町2丁目14-26",
+    "website": "https://hiro-eigo.com/",
+    "phone": "077-521-3647",
+    "target_age": "小学生〜高校生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://hiro-eigo.com/about/",
+    "organization_type": "individual",
+    "lat": 35.01639791964681,
+    "lng": 135.8639998963848
+  },
+  {
+    "name": "セイハ英語学院 フォレオ大津一里山教室",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山7丁目1番1号 フォレオ大津一里山内2F",
+    "website": "https://english-academy.seiha.com/classroom/80917/",
+    "phone": "0120-815-718",
+    "target_age": "0〜3歳（ハロークラブ）、3〜6歳（幼児コース）、小学生",
+    "schedules": [
+      {
+        "weekday": null,
+        "start_time": "10:20",
+        "end_time": "11:00"
+      },
+      {
+        "weekday": null,
+        "start_time": "13:20",
+        "end_time": "14:00"
+      },
+      {
+        "weekday": null,
+        "start_time": "16:15",
+        "end_time": "17:00"
+      },
+      {
+        "weekday": null,
+        "start_time": "17:10",
+        "end_time": "18:00"
+      },
+      {
+        "weekday": null,
+        "start_time": "18:10",
+        "end_time": "19:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://english-academy.seiha.com/classroom/80917/",
+    "organization_type": "national_chain",
+    "lat": 34.971038935467355,
+    "lng": 135.9124642633184
+  },
+  {
+    "name": "セイハ英語学院 バロー茶が崎教室",
+    "category": "英会話",
+    "address": null,
+    "website": "https://english-academy.seiha.com/classroom/914995/",
+    "phone": "080-4819-9932",
+    "target_age": "幼児・小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://english-academy.seiha.com/classroom/914995/",
+    "organization_type": "national_chain",
+    "lat": 35.00018015730057,
+    "lng": 135.86528891753645
+  },
+  {
+    "name": "アルクKiddy CAT英語教室 大津膳所校",
+    "category": "英会話",
+    "address": "滋賀県大津市馬場1丁目4-46",
+    "website": "https://wwb.jp/kidsenglish-otsu/",
+    "phone": "077-527-0220",
+    "target_age": "幼児・小学生",
+    "schedules": [],
+    "price": "月謝6,000円（月3回）／個別レッスン月3回10,000円",
+    "source_url": "https://wwb.jp/kidsenglish-otsu/course.htm",
+    "organization_type": "regional_chain",
+    "lat": 34.992784195507895,
+    "lng": 135.88287596051512
+  },
+  {
+    "name": "ペッピーキッズクラブ 大津中央教室",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山4丁目16-10 シャンポール一里山1階B",
+    "website": "https://www.peppy-kids.com/classroom/detail.php?kid=397",
+    "phone": "0120-95-2542",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.peppy-kids.com/classroom/detail.php?kid=397",
+    "organization_type": "national_chain",
+    "lat": 34.97281374506953,
+    "lng": 135.90953939700145
+  },
+  {
+    "name": "ペッピーキッズクラブ 大津瀬田教室",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山4丁目16-10 シャンポール",
+    "website": "https://www.peppy-kids.com/classroom/detail.php?kid=1978",
+    "phone": "0120-95-2542",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.peppy-kids.com/classroom/detail.php?kid=1978",
+    "organization_type": "national_chain",
+    "lat": 34.9709863753727,
+    "lng": 135.91274454310837
+  },
+  {
+    "name": "キッズデュオ 膳所ときめき坂",
+    "category": "英会話",
+    "address": "滋賀県大津市馬場1丁目11-10 2階",
+    "website": "https://www.kidsduo.com/classrooms/detail/2940/",
+    "phone": "0800-100-6935",
+    "target_age": "3歳〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "11:00",
+        "end_time": "20:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.kidsduo.com/classrooms/detail/2940/",
+    "organization_type": "national_chain",
+    "lat": 34.99146790712784,
+    "lng": 135.8829602989648
+  },
+  {
+    "name": "キッズデュオ 大津瀬田",
+    "category": "英会話",
+    "address": "滋賀県大津市大萱7丁目12-33 クッキィー6 2階",
+    "website": "https://www.kidsduo.com/classrooms/detail/1226/",
+    "phone": "077-526-6300",
+    "target_age": "3歳〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "11:00",
+        "end_time": "20:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.kidsduo.com/classrooms/detail/1226/",
+    "organization_type": "national_chain",
+    "lat": 34.97468635040094,
+    "lng": 135.9140140111971
+  },
+  {
+    "name": "こども英会話イーオンキッズ 瀬田校",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山1-9-22 昭建瀬田ビル1階",
+    "website": "https://www.aeonet.co.jp/school/kansai/shiga/2512/kids/",
+    "phone": "077-543-6400",
+    "target_age": "1・2歳〜小学5・6年生",
+    "schedules": [
+      {
+        "weekday": "火〜金",
+        "start_time": "12:00",
+        "end_time": "21:00"
+      },
+      {
+        "weekday": "土",
+        "start_time": "10:00",
+        "end_time": "19:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.aeonet.co.jp/school/kansai/shiga/2512/kids/course/",
+    "organization_type": "national_chain",
+    "lat": 34.969671069911556,
+    "lng": 135.9114904841396
+  },
+  {
+    "name": "ECCジュニア 神領教室",
+    "category": "英会話",
+    "address": null,
+    "website": "https://eccjuniorbs.jp/ht250271/",
+    "phone": "050-5264-5647",
+    "target_age": "幼児・小学生・中学生",
+    "schedules": [],
+    "price": "月謝6,600円〜12,100円（年齢・コースによる）",
+    "source_url": "https://eccjuniorbs.jp/ht250271/",
+    "organization_type": "national_chain",
+    "lat": 34.99840455242177,
+    "lng": 135.8671546334689
+  },
+  {
+    "name": "ヤマハ英語教室 ミュージックセンター大津京",
+    "category": "英会話",
+    "address": "滋賀県大津市皇子が丘2-10-31 西大津IS 2F・3F",
+    "website": "https://school.jp.yamaha.com/english_school/room/detail.php?shopcode=20300200&venuecode=050",
+    "phone": null,
+    "target_age": "幼児・小学生",
+    "schedules": [],
+    "price": "月謝7,300円〜",
+    "source_url": "https://school.jp.yamaha.com/english_school/room/detail.php?shopcode=20300200&venuecode=050",
+    "organization_type": "national_chain",
+    "lat": 35.02128830577213,
+    "lng": 135.85520228116232
+  },
+  {
+    "name": "ヤマハ英語教室 JEUGIAアル・プラザ堅田センター",
+    "category": "英会話",
+    "address": "滋賀県大津市本堅田5-20-10 アルプラザ堅田3F",
+    "website": "https://www.jeugia.co.jp/hall_49/service-top_3.html",
+    "phone": null,
+    "target_age": "幼児・小学生",
+    "schedules": [],
+    "price": "月謝7,300円〜",
+    "source_url": "https://www.jeugia.co.jp/hall_49/service-top_3.html",
+    "organization_type": "national_chain",
+    "lat": 35.0891933742338,
+    "lng": 135.86753529868358
+  },
+  {
+    "name": "自立型個別指導サクラ塾",
+    "category": "学習塾",
+    "address": null,
+    "website": "https://sucla-otsu.net/",
+    "phone": null,
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://sucla-otsu.net/",
+    "organization_type": "individual",
+    "lat": 35.000088428177975,
+    "lng": 135.87298457697455
+  },
+  {
+    "name": "サクラ塾 自立型個別指導 大津市役所前",
+    "category": "学習塾",
+    "address": null,
+    "website": "https://www.sucla-otsu.com/",
+    "phone": null,
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.sucla-otsu.com/",
+    "organization_type": "individual",
+    "lat": 34.99816727308748,
+    "lng": 135.87057997346258
+  },
+  {
+    "name": "個別指導アップ学習会 プラコベ大津中央教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市京町1丁目3-44 イイダビル3階",
+    "website": "https://personalsupport.co.jp/shiga/otushi/purakobeotsuchuou/",
+    "phone": "0078-600-566-891",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": "小学生：最大5科目19,800円/月（税込）〜",
+    "source_url": "https://personalsupport.co.jp/shiga/otushi/purakobeotsuchuou/",
+    "organization_type": "regional_chain",
+    "lat": 35.006478702075775,
+    "lng": 135.86895192501774
+  },
+  {
+    "name": "自立学習塾RED 大津青山教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市青山5-13-21 2F",
+    "website": "https://www.jiritsu-red.jp/school/otsuaoyama/",
+    "phone": "077-532-0067",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [
+      {
+        "weekday": "平日",
+        "start_time": "16:40",
+        "end_time": null
+      },
+      {
+        "weekday": "土",
+        "start_time": "13:40",
+        "end_time": null
+      }
+    ],
+    "price": "小学生：月4,450円〜（週1回）",
+    "source_url": "https://www.jiritsu-red.jp/school/otsuaoyama/",
+    "organization_type": "national_chain",
+    "lat": 34.96348064249857,
+    "lng": 135.91885667966676
+  },
+  {
+    "name": "個別学習塾UPまの",
+    "category": "学習塾",
+    "address": "滋賀県大津市真野1-22-19",
+    "website": "https://up-mano.com/",
+    "phone": "077-573-5817",
+    "target_age": "小学生・中学生",
+    "schedules": [
+      {
+        "weekday": "月・火・木・金",
+        "start_time": "16:00",
+        "end_time": "21:00"
+      }
+    ],
+    "price": "中学1・2年生：1科目5,000円〜、入会金5,000円",
+    "source_url": "https://up-mano.com/",
+    "organization_type": "individual",
+    "lat": 35.11236899826219,
+    "lng": 135.8810785490531
+  },
+  {
+    "name": "スクールIE 瀬田北校",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱7丁目12-33 クッキィー6 1階",
+    "website": "https://www.schoolie-net.jp/classrooms/detail/2373/",
+    "phone": "077-547-5050",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "15:00",
+        "end_time": "21:30"
+      },
+      {
+        "weekday": "土",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "price": "お試しパック3,300円（90分×4回）",
+    "source_url": "https://www.schoolie-net.jp/classrooms/detail/2373/",
+    "organization_type": "national_chain",
+    "lat": 34.97543601857272,
+    "lng": 135.91530939753844
+  },
+  {
+    "name": "ITTO個別指導学院 大将軍校",
+    "category": "学習塾",
+    "address": "滋賀県大津市大将軍1丁目字菖蒲804-1",
+    "website": "https://www.itto.jp/schools/kinki/shiga/daishogun.html",
+    "phone": "077-545-9661",
+    "target_age": null,
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "16:00",
+        "end_time": "22:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.itto.jp/schools/kinki/shiga/daishogun.html",
+    "organization_type": "national_chain",
+    "lat": 34.97945941802449,
+    "lng": 135.91327139885786
+  },
+  {
+    "name": "個別指導塾サクラサクセス 大津おごと温泉駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市雄琴北2-3-19 TOHNOマンションテナント101",
+    "website": "https://www.sakusakura.jp/simulator/simulators/school/29",
+    "phone": null,
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": "入塾金不要、管理費2,300円/月",
+    "source_url": "https://www.sakusakura.jp/simulator/simulators/school/29",
+    "organization_type": "regional_chain",
+    "lat": 35.06288009034406,
+    "lng": 135.86394610854313
+  },
+  {
+    "name": "個別指導塾サクラサクセス 大津膳所駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市竜が丘3-6",
+    "website": "https://www.sakusakura.jp/simulator/simulators/school/27",
+    "phone": "077-523-2127",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": "入塾金不要、管理費2,300円/月",
+    "source_url": "https://www.sakusakura.jp/simulator/simulators/school/27",
+    "organization_type": "regional_chain",
+    "lat": 34.984384032297875,
+    "lng": 135.87615547405588
+  },
+  {
+    "name": "明光義塾 堅田教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田4-16-6 シャルマンコーポ大津堅田201",
+    "website": "https://www.meikogijuku.jp/school/shiga/otsu-shi/S3371/",
+    "phone": "0120-890-196",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [
+      {
+        "weekday": "平日",
+        "start_time": "14:00",
+        "end_time": "21:30"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.meikogijuku.jp/school/shiga/otsu-shi/S3371/",
+    "organization_type": "national_chain",
+    "lat": 35.08939435310899,
+    "lng": 135.86868608205995
+  },
+  {
+    "name": "学研教室 石山駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市粟津町12-15",
+    "website": "https://www.889100.com/classrooms/13151",
+    "phone": null,
+    "target_age": "幼児・小学生・中学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.889100.com/classrooms/13151",
+    "organization_type": "national_chain",
+    "lat": 34.980995196463844,
+    "lng": 135.90080767960941
+  },
+  {
+    "name": "ナビ個別指導学院 堅田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田5-16-22 辻ビル2F",
+    "website": "https://www.navi-school.com/school/shiga/katata/",
+    "phone": "0120-941-967",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [
+      {
+        "weekday": "火〜土",
+        "start_time": "15:30",
+        "end_time": "21:20"
+      }
+    ],
+    "price": "中1・中2（週1回）12,600円〜（税込）",
+    "source_url": "https://www.navi-school.com/school/shiga/katata/",
+    "organization_type": "national_chain",
+    "lat": 35.089753918117566,
+    "lng": 135.8690203162941
+  },
+  {
+    "name": "まんてんスクール 堅田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田5-16-22 ナビ個別指導学院 堅田校内",
+    "website": "https://www.manten-school.com/school/shiga/sc-katata.html",
+    "phone": "077-573-8251",
+    "target_age": "小学生",
+    "schedules": [
+      {
+        "weekday": "水・金",
+        "start_time": "16:20",
+        "end_time": "18:20"
+      }
+    ],
+    "price": "月4回3,300円（税込）〜",
+    "source_url": "https://www.manten-school.com/school/shiga/sc-katata.html",
+    "organization_type": "national_chain",
+    "lat": 35.08886012880848,
+    "lng": 135.87211326354247
+  },
+  {
+    "name": "個別指導キャンパス 堅田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田5丁目16-7 コーポカタタ2階",
+    "website": "https://www.canpass-kobetsu.com/school/katata/",
+    "phone": null,
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": "月額4,320円〜",
+    "source_url": "https://www.canpass-kobetsu.com/school/katata/",
+    "organization_type": "regional_chain",
+    "lat": 35.091618220497146,
+    "lng": 135.87179391735512
+  },
+  {
+    "name": "ゴールフリー 大津中央教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市春日町2-1 COCOLAS大津2F",
+    "website": "https://www.goalfree.co.jp/classroom/otsuchuo/",
+    "phone": null,
+    "target_age": "小学1年生〜高校生",
+    "schedules": [],
+    "price": "入学金14,300円（税込）、登録料5,500円（税込）",
+    "source_url": "https://www.goalfree.co.jp/classroom/otsuchuo/",
+    "organization_type": "regional_chain",
+    "lat": 35.00209017814558,
+    "lng": 135.8688611225488
+  },
+  {
+    "name": "KEC近畿教育学院 大津京校",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘3-13-31",
+    "website": "https://www.prep.kec.ne.jp/otsukyo/",
+    "phone": "077-526-0226",
+    "target_age": "小学1年生〜高校生",
+    "schedules": [
+      {
+        "weekday": "月〜土",
+        "start_time": "14:00",
+        "end_time": "22:00"
+      },
+      {
+        "weekday": "日・祝",
+        "start_time": "12:00",
+        "end_time": "22:00"
+      }
+    ],
+    "price": "小学4〜6年生：12,100円（税込）〜",
+    "source_url": "https://www.prep.kec.ne.jp/otsukyo/",
+    "organization_type": "regional_chain",
+    "lat": 35.020608224921,
+    "lng": 135.8551417887078
+  },
+  {
+    "name": "学習塾シャローム",
+    "category": "学習塾",
+    "address": "滋賀県大津市和邇中281-8",
+    "website": "https://shalom.crayonsite.net/",
+    "phone": null,
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://shalom.crayonsite.net/",
+    "organization_type": "individual",
+    "lat": 35.148143700731545,
+    "lng": 135.90185155092152
+  },
+  {
+    "name": "ラプリマ音楽教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市坂本6-26-10 フォレストビル1F",
+    "website": "https://www.laprimamusic.com/",
+    "phone": "077-576-1675",
+    "target_age": "6ヶ月〜音大受験生",
+    "schedules": [
+      {
+        "weekday": null,
+        "start_time": "10:00",
+        "end_time": "20:00"
+      }
+    ],
+    "price": "月謝4,000円〜7,980円",
+    "source_url": "https://www.music-school.net/web/detail/28101",
+    "organization_type": "individual",
+    "lat": 35.07588227838084,
+    "lng": 135.84503082136425
+  },
+  {
+    "name": "五野ピアノ教室（大津教室）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市浜大津4丁目（詳細住所は体験レッスン時に案内）",
+    "website": "https://www.gonopiano.com/",
+    "phone": null,
+    "target_age": "0歳〜",
+    "schedules": [
+      {
+        "weekday": "月",
+        "start_time": "10:00",
+        "end_time": "19:30"
+      },
+      {
+        "weekday": "火",
+        "start_time": "10:00",
+        "end_time": "19:30"
+      },
+      {
+        "weekday": "土",
+        "start_time": "09:30",
+        "end_time": "11:30"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.gonopiano.com/p/2/",
+    "organization_type": "individual",
+    "lat": 35.00794830980758,
+    "lng": 135.86796531497902
+  },
+  {
+    "name": "いがたピアノ・リトミック教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市緑町（真野北小学校近く）",
+    "website": "https://igatapiano.com/",
+    "phone": null,
+    "target_age": "0歳〜シニア",
+    "schedules": [],
+    "price": "月謝制5,000円〜8,000円／回数制2,000円（30分）",
+    "source_url": "https://igatapiano.com/",
+    "organization_type": "individual",
+    "lat": 35.11229580284737,
+    "lng": 135.87982556441264
+  },
+  {
+    "name": "あいりすピアノ教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市唐橋町（JR石山駅・京阪石山駅より徒歩6分）",
+    "website": "https://airisupiano.com/",
+    "phone": null,
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://airisupiano.com/",
+    "organization_type": "individual",
+    "lat": 34.971616005282804,
+    "lng": 135.90713123119667
+  },
+  {
+    "name": "古矢ピアノ教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市富士見台17-41",
+    "website": "https://furuyapiano.com/",
+    "phone": "077-533-0385",
+    "target_age": null,
+    "schedules": [
+      {
+        "weekday": "月〜土",
+        "start_time": "09:00",
+        "end_time": "21:00"
+      }
+    ],
+    "price": "子ども6,000円〜（年間43回）",
+    "source_url": "https://furuyapiano.com/",
+    "organization_type": "individual",
+    "lat": 34.976994082342934,
+    "lng": 135.89852973595535
+  },
+  {
+    "name": "ポコアポコピアノ教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市湖城が丘31-39",
+    "website": "https://pocoapoco-ms.com/",
+    "phone": "090-2095-5251",
+    "target_age": "未就学児〜シニア",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://pocoapoco-ms.com/",
+    "organization_type": "individual",
+    "lat": 35.03791570092915,
+    "lng": 135.87776272545688
+  },
+  {
+    "name": "ピアノ教室 ゆめlabo",
+    "category": "ピアノ",
+    "address": "滋賀県大津市朝日が丘（予約後に案内）",
+    "website": "https://yume-labo.net/",
+    "phone": "050-3567-7207",
+    "target_age": null,
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "14:00",
+        "end_time": "19:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://yume-labo.net/",
+    "organization_type": "individual",
+    "lat": 35.04792302254023,
+    "lng": 135.8863435733335
+  },
+  {
+    "name": "いのうえ音楽教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市雄琴5丁目15-46",
+    "website": "https://inouemusic.net/",
+    "phone": "090-2107-5276",
+    "target_age": "2歳〜シニア",
+    "schedules": [],
+    "price": "月謝3,850円〜（月2回・30分）",
+    "source_url": "https://inouemusic.net/",
+    "organization_type": "individual",
+    "lat": 35.06377564166165,
+    "lng": 135.8638225094808
+  },
+  {
+    "name": "サウンズクラブ音楽教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市中庄1丁目10-2",
+    "website": "https://www.sounds-club.com/",
+    "phone": "077-522-6205",
+    "target_age": null,
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "14:00",
+        "end_time": "20:00"
+      },
+      {
+        "weekday": "土",
+        "start_time": "10:00",
+        "end_time": "18:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.sounds-club.com/",
+    "organization_type": "individual",
+    "lat": 34.99864520679329,
+    "lng": 135.89041212446028
+  },
+  {
+    "name": "大村夢ピアノ教室（大津京・唐崎教室）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市（大津京・唐崎エリア、詳細住所非公開）",
+    "website": "https://yumepianostudio.crayonsite.com/",
+    "phone": null,
+    "target_age": null,
+    "schedules": [],
+    "price": "大津京教室：月謝10,000円／唐崎教室：20分7,000円",
+    "source_url": "https://yumepianostudio.crayonsite.com/",
+    "organization_type": "individual",
+    "lat": 35.0177852,
+    "lng": 135.8548122
+  },
+  {
+    "name": "カワイ音楽教室 奏美ホール",
+    "category": "ピアノ",
+    "address": "滋賀県大津市御幸町6-9",
+    "website": "https://music.kawai.jp/search/detail/005276",
+    "phone": "077-562-9756",
+    "target_age": "年少〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "10:00",
+        "end_time": "17:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://music.kawai.jp/search/detail/005276",
+    "organization_type": "national_chain",
+    "lat": 34.98644479477373,
+    "lng": 135.89422773541088
+  },
+  {
+    "name": "カワイ音楽教室 コジャック",
+    "category": "ピアノ",
+    "address": "滋賀県大津市本堅田5-11-21（スポーツクラブコジャック内3階）",
+    "website": "https://music.kawai.jp/search/detail/006617",
+    "phone": "077-562-9756",
+    "target_age": "3歳〜（ソルフェージュ3歳〜、ピアノ4歳〜）",
+    "schedules": [],
+    "price": "月謝3,780円〜7,560円",
+    "source_url": "https://music.kawai.jp/search/detail/006617",
+    "organization_type": "national_chain",
+    "lat": 35.09100803800408,
+    "lng": 135.86804181512522
+  },
+  {
+    "name": "ヤマハ音楽教室（JEUGIAミュージックセンター大津京）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市皇子が丘2丁目10-31 西大津IS3ビル2〜3F",
+    "website": "https://www.jeugia.co.jp/hall_48/service-top_1.html",
+    "phone": "0120-948-937",
+    "target_age": null,
+    "schedules": [
+      {
+        "weekday": "月〜土",
+        "start_time": "10:00",
+        "end_time": "20:00"
+      },
+      {
+        "weekday": "日",
+        "start_time": "10:00",
+        "end_time": "17:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.jeugia.co.jp/hall_48/service-top_1.html",
+    "organization_type": "national_chain",
+    "lat": 35.021510557835036,
+    "lng": 135.8571810403906
+  },
+  {
+    "name": "ヤマハ音楽教室（JEUGIA 大津テラス）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市打出浜14-30 Oh!Me大津テラス4F",
+    "website": "https://www.jeugia.co.jp/hall_85/service-top_1.html",
+    "phone": "077-510-2055",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.jeugia.co.jp/hall_85/service-top_1.html",
+    "organization_type": "national_chain",
+    "lat": 35.005977615906176,
+    "lng": 135.87301727028387
+  },
+  {
+    "name": "アットスクール膳所教室（プログラミング）",
+    "category": "プログラミング",
+    "address": "滋賀県大津市打出浜14-30 Oh!Me大津テラス4F",
+    "website": "https://www.at-school.jp/zeze/",
+    "phone": "077-548-7822",
+    "target_age": "幼児・小学生・中学生・高校生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://school.iesk.net/22021003-1/",
+    "organization_type": "individual",
+    "lat": 35.007176831679146,
+    "lng": 135.86952396335806
+  },
+  {
+    "name": "どんぐりIT教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市におの浜3丁目3番3号 ヨシノビル3-B号室",
+    "website": "https://lor3nz.jp/",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [
+      {
+        "weekday": "月",
+        "start_time": "16:30",
+        "end_time": "17:15"
+      },
+      {
+        "weekday": "月",
+        "start_time": "17:30",
+        "end_time": "18:15"
+      },
+      {
+        "weekday": "火",
+        "start_time": "16:30",
+        "end_time": "17:15"
+      },
+      {
+        "weekday": "火",
+        "start_time": "17:30",
+        "end_time": "18:15"
+      },
+      {
+        "weekday": "水",
+        "start_time": "16:30",
+        "end_time": "17:15"
+      },
+      {
+        "weekday": "水",
+        "start_time": "17:30",
+        "end_time": "18:15"
+      },
+      {
+        "weekday": "金",
+        "start_time": "16:30",
+        "end_time": "17:15"
+      },
+      {
+        "weekday": "金",
+        "start_time": "17:30",
+        "end_time": "18:15"
+      },
+      {
+        "weekday": "土",
+        "start_time": "10:00",
+        "end_time": "10:45"
+      },
+      {
+        "weekday": "土",
+        "start_time": "11:00",
+        "end_time": "11:45"
+      }
+    ],
+    "price": null,
+    "source_url": "https://homepage-7yf.pages.dev/",
+    "organization_type": "individual",
+    "lat": 35.01744098092008,
+    "lng": 135.86964353562104
+  },
+  {
+    "name": "プロクラ 大津京校（KEC近畿教育学院併設）",
+    "category": "プログラミング",
+    "address": "滋賀県大津市皇子が丘3-13-31 大橋ビル",
+    "website": "https://www.programming-cloud.com/class/shiga-0009/",
+    "phone": "077-526-0226",
+    "target_age": "小学1年生〜小学6年生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.programming-cloud.com/class/shiga-0009/",
+    "organization_type": "regional_chain",
+    "lat": 35.01823792098081,
+    "lng": 135.8560154825723
+  },
+  {
+    "name": "プロクラ 石山校（KEC近畿教育学院併設）",
+    "category": "プログラミング",
+    "address": "滋賀県大津市栄町4-5",
+    "website": "https://www.programming-cloud.com/class/detail/?class_id=58",
+    "phone": "077-537-5861",
+    "target_age": "小学1年生〜小学6年生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://bestjuku.com/juku/2832/class/96330/",
+    "organization_type": "regional_chain",
+    "lat": 34.97797266275441,
+    "lng": 135.9066082846454
+  },
+  {
+    "name": "プロクラ 開成 石山教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市粟津町14-5 1階・2階",
+    "website": "https://www.programming-cloud.com/class/shiga-0005/",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.programming-cloud.com/class/shiga-0005/",
+    "organization_type": "regional_chain",
+    "lat": 34.9820206929776,
+    "lng": 135.89969828794366
+  },
+  {
+    "name": "プロクラ 開成 膳所教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市打出浜11-34 1〜3階",
+    "website": "https://www.programming-cloud.com/class/shiga-0006/",
+    "phone": "0120-04-1232",
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.programming-cloud.com/class/shiga-0006/",
+    "organization_type": "regional_chain",
+    "lat": 35.004831998742446,
+    "lng": 135.87332051124434
+  },
+  {
+    "name": "プロクラ 開成 瀬田教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市大将軍1-17-4 1階・2階",
+    "website": "https://www.programming-cloud.com/class/shiga-0015/",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.programming-cloud.com/class/shiga-0015/",
+    "organization_type": "regional_chain",
+    "lat": 34.97849597390428,
+    "lng": 135.91271234248646
+  },
+  {
+    "name": "プログラミング教育 HALLO Kids Duo 大津瀬田校",
+    "category": "プログラミング",
+    "address": "滋賀県大津市大萱7丁目12-33 クッキィー62階",
+    "website": "https://www.hallo.jp/classrooms/detail/1226/",
+    "phone": "0120-741-915",
+    "target_age": "年長・小学生",
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "11:00",
+        "end_time": "20:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.hallo.jp/classrooms/detail/1226/",
+    "organization_type": "national_chain",
+    "lat": 34.97581357626837,
+    "lng": 135.91089145515772
+  },
+  {
+    "name": "プログラミング教育 HALLO Kids Duo 膳所ときめき坂校",
+    "category": "プログラミング",
+    "address": "滋賀県大津市馬場1丁目11-10 2階",
+    "website": "https://www.hallo.jp/classrooms/detail/2940/",
+    "phone": "0800-100-6935",
+    "target_age": "3歳〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "月〜金",
+        "start_time": "11:00",
+        "end_time": "20:00"
+      }
+    ],
+    "price": null,
+    "source_url": "https://www.hallo.jp/classrooms/detail/2940/",
+    "organization_type": "national_chain",
+    "lat": 34.989808753546065,
+    "lng": 135.87867756680535
+  },
+  {
+    "name": "プログラミング教育 HALLO ビバスポーツアカデミー 瀬田校",
+    "category": "プログラミング",
+    "address": "滋賀県大津市一里山1丁目18-22",
+    "website": "https://www.hallo.jp/classrooms/detail/2476/",
+    "phone": "077-543-0887",
+    "target_age": "小学生・中学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.hallo.jp/classrooms/detail/2476/",
+    "organization_type": "national_chain",
+    "lat": 34.972692220783394,
+    "lng": 135.91299421498957
+  },
+  {
+    "name": "ヒューマンアカデミージュニア ロボット教室 大津京",
+    "category": "プログラミング",
+    "address": "滋賀県大津市御陵町6-18（あぐり進学西大津校内）",
+    "website": "https://kids.athuman.com/search/detail/?store_id=2931",
+    "phone": "0120-948-514",
+    "target_age": "年中・年長〜小学生",
+    "schedules": [],
+    "price": "月謝10,260円（税込）、入会金11,000円（税込）、ロボットキット33,000円（税込）",
+    "source_url": "https://tech-2.jp/classrooms/3808",
+    "organization_type": "national_chain",
+    "lat": 35.004184261561605,
+    "lng": 135.87193693257683
+  },
+  {
+    "name": "ヒューマンアカデミージュニア 大津堅田教室",
+    "category": "プログラミング",
+    "address": null,
+    "website": "https://kids.athuman.com/search/detail/?store_id=3195",
+    "phone": null,
+    "target_age": "年中・年長〜小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://kids.athuman.com/search/detail/?store_id=3195",
+    "organization_type": "national_chain",
+    "lat": 35.00792194195093,
+    "lng": 135.8778619815129
+  },
+  {
+    "name": "QUREOプログラミング教室 馬渕個別 石山校",
+    "category": "プログラミング",
+    "address": null,
+    "website": "https://qureo.jp/class/mabuchikobetsu_ishiyama",
+    "phone": null,
+    "target_age": "小学2年生〜小学6年生",
+    "schedules": [
+      {
+        "weekday": "平日",
+        "start_time": "17:00",
+        "end_time": "21:30"
+      },
+      {
+        "weekday": "土",
+        "start_time": "13:00",
+        "end_time": "21:30"
+      }
+    ],
+    "price": null,
+    "source_url": "https://qureo.jp/class/mabuchikobetsu_ishiyama",
+    "organization_type": "national_chain",
+    "lat": 34.995709848693,
+    "lng": 135.8710191556035
+  },
+  {
+    "name": "QUREOプログラミング教室 アップ学習会 プラコベ 大津中央教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市京町1丁目3-44 イイダビル3階",
+    "website": "https://qureo.jp/class/upgakushukai-prakobe_otsuchuo",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://coeteco.jp/brand/qureo/schools/2492265",
+    "organization_type": "national_chain",
+    "lat": 35.00512147237279,
+    "lng": 135.86633964383887
+  },
+  {
+    "name": "プロクラ 西大津校（KEC近畿教育学院併設）",
+    "category": "プログラミング",
+    "address": "滋賀県大津市皇子が丘3-13-31 大橋ビル",
+    "website": "https://www.programming-cloud.com/class/shiga-0009/",
+    "phone": "077-526-0226",
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://bestjuku.com/juku/2832/class/96329/",
+    "organization_type": "regional_chain",
+    "lat": 35.01746869303572,
+    "lng": 135.85822091436458
+  }
+]
