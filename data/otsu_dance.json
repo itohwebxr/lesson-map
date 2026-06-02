@@ -1,0 +1,70 @@
+[
+  {
+    "name": "DDPダンススクール（本堅田校）",
+    "category": "ダンス",
+    "address": "滋賀県大津市本堅田4丁目15-25 グラン・ドムール大津堅田B102号",
+    "website": "https://www.ddp-dance.com/",
+    "phone": null,
+    "target_age": "リトルキッズ・キッズ・レギュラー・大人",
+    "schedules": [
+      {"weekday": "火〜日", "start_time": null, "end_time": null}
+    ],
+    "price": "3クラス目以降1回1,650円（月謝制・月4回）詳細非公開",
+    "source_url": "https://www.ddp-dance.com/system",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "セイハダンスアカデミー フォレオ大津一里山校",
+    "category": "ダンス",
+    "address": "滋賀県大津市一里山7丁目1-1 フォレオ大津一里山2F",
+    "website": "https://www.seiha.com/dance-academy/class/83247/",
+    "phone": "0120-815-718",
+    "target_age": "3歳〜",
+    "schedules": [
+      {"weekday": "火", "start_time": null, "end_time": null},
+      {"weekday": "水", "start_time": null, "end_time": null},
+      {"weekday": "木", "start_time": null, "end_time": null},
+      {"weekday": "土", "start_time": null, "end_time": null},
+      {"weekday": "日", "start_time": null, "end_time": null}
+    ],
+    "price": null,
+    "source_url": "https://otsu.foleo.jp/shop/226/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "スポーツクラブNAS大津一里山（エイベックス・ダンスマスター）",
+    "category": "ダンス",
+    "address": "滋賀県大津市一里山7-1-1 フォレオ大津一里山内",
+    "website": "https://dancemaster.avex.jp/studios/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96nas%E5%A4%A7%E6%B4%A5%E4%B8%80%E9%87%8C%E5%B1%B1",
+    "phone": "077-547-0808",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.nas-club.co.jp/otsu/kids/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "リディアダンスアカデミー 津藤方校",
+    "category": "ダンス",
+    "address": null,
+    "website": "https://re-dia.jp/",
+    "phone": null,
+    "target_age": "3歳〜",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://ksn-japan.net/school/%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC-%E6%B4%A5%E8%97%A4%E6%96%B9%E6%A0%A1/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "JEUGIAミュージックセンター大津京（ダンス）",
+    "category": "ダンス",
+    "address": "滋賀県大津市皇子が丘2丁目10-31 西大津IS3ビル2-3F",
+    "website": "https://www.jeugia.co.jp/hall/mc-otsukyo.php",
+    "phone": "0120-948-937",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.jeugia.co.jp/hall_48/course-detail_1780.html",
+    "organization_type": "national_chain"
+  }
+]

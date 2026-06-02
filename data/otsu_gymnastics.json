@@ -1,0 +1,177 @@
+[
+  {
+    "name": "びわこクリーンJr体操クラブ 下阪本本校",
+    "category": "体操",
+    "address": "滋賀県大津市下阪本1丁目20-12",
+    "website": "https://biwako-gym.com/",
+    "phone": "077-579-3178",
+    "target_age": "2歳〜中学生・選手育成",
+    "schedules": [
+      {"weekday": "木", "start_time": null, "end_time": null}
+    ],
+    "price": "月会費5,000円、入会費5,000円、年会費3,000円",
+    "source_url": "https://biwako-gym.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "びわこクリーンJr体操クラブ 瀬田教室",
+    "category": "体操",
+    "address": "滋賀県大津市一里山6丁目9-1",
+    "website": "https://biwako-gym.com/",
+    "phone": "077-579-3178",
+    "target_age": "幼児〜小学生",
+    "schedules": [
+      {"weekday": "木", "start_time": null, "end_time": null}
+    ],
+    "price": "月会費5,000円、入会費5,000円、年会費3,000円",
+    "source_url": "http://biwako-gym.com/seta",
+    "organization_type": "individual"
+  },
+  {
+    "name": "アスリートスポーツクラブ 明日都体操クラブ（月曜）",
+    "category": "体操",
+    "address": "滋賀県大津市浜大津4丁目1-1 明日都浜大津1F大会議室",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": "3歳〜小学6年生",
+    "schedules": [
+      {"weekday": "月", "start_time": "15:30", "end_time": "18:20"}
+    ],
+    "price": "月謝5,280円（税込）月4回",
+    "source_url": "https://athlete-sc.com/club/monday/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "アスリートスポーツクラブ 皇子が丘体操クラブ（火曜）",
+    "category": "体操",
+    "address": "滋賀県大津市皇子が丘2丁目4-3 皇子が丘公園体育館",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": "2歳〜小学6年生",
+    "schedules": [
+      {"weekday": "火", "start_time": null, "end_time": null}
+    ],
+    "price": "月謝4,620円（税込）月3回",
+    "source_url": "https://athlete-sc.com/club/tuesday/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "アスリートスポーツクラブ 瀬田公園体操クラブ（水曜）",
+    "category": "体操",
+    "address": "滋賀県大津市一里山6丁目9-1 瀬田公園体育館 小アリーナ",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": null,
+    "schedules": [
+      {"weekday": "水", "start_time": null, "end_time": null}
+    ],
+    "price": "月謝3,960円（税込）月3回",
+    "source_url": "https://athlete-sc.com/club/wednesday/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "アスリートスポーツクラブ 勤労センター体操クラブ（木曜）",
+    "category": "体操",
+    "address": "滋賀県大津市打出浜1-6 勤労福祉センター3階軽スポーツ室",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": "2歳〜小学6年生",
+    "schedules": [
+      {"weekday": "木", "start_time": "14:00", "end_time": "16:50"}
+    ],
+    "price": "月謝5,280円（税込）月4回",
+    "source_url": "https://athlete-sc.com/club/thursday/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "アスリートスポーツクラブ 石山体操クラブ（土曜）",
+    "category": "体操",
+    "address": null,
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": null,
+    "schedules": [
+      {"weekday": "土", "start_time": null, "end_time": null}
+    ],
+    "price": "月謝5,280円（税込）月4回",
+    "source_url": "https://athlete-sc.com/club/saturday/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "サトウスポーツスクール",
+    "category": "体操",
+    "address": null,
+    "website": "https://www.sss3043.com/",
+    "phone": null,
+    "target_age": "幼稚園・保育園〜小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.sss3043.com/information/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "四幸スポーツクラブ 体操教室（大津・瀬田エリア）",
+    "category": "体操",
+    "address": "滋賀県草津市野路9丁目9-28 2階（本部）",
+    "website": "http://shikou-taisou.com/",
+    "phone": "077-564-2525",
+    "target_age": "親子・幼児・小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "http://shikou-taisou.com/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "大津イトマンスポーツクラブ 体操キッズクラス",
+    "category": "体操",
+    "address": "滋賀県大津市打出浜33-11",
+    "website": "https://ootsu-isc.izumi21.net/",
+    "phone": "077-525-7755",
+    "target_age": "4歳〜小学6年生",
+    "schedules": [
+      {"weekday": "木", "start_time": "16:00", "end_time": "17:00"}
+    ],
+    "price": "月謝7,480円（税込）月4回",
+    "source_url": "https://ootsu-isc.izumi21.net/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "スポーツクラブNAS大津一里山 キッズスクール（体操）",
+    "category": "体操",
+    "address": "滋賀県大津市一里山7-1-1 フォレオ大津一里山内",
+    "website": "https://www.nas-club.co.jp/otsu/kids/",
+    "phone": "077-547-0808",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.nas-club.co.jp/otsu/kids/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "biima sports 大津校",
+    "category": "体操",
+    "address": "滋賀県大津市二本松1-1 BRANCH大津京内 SG-Park",
+    "website": "https://biima.co.jp/sports/school/otsu/",
+    "phone": null,
+    "target_age": "3歳〜9歳",
+    "schedules": [
+      {"weekday": "月", "start_time": null, "end_time": null},
+      {"weekday": "土", "start_time": null, "end_time": null}
+    ],
+    "price": "月謝8,980円（小1〜小2コース）、入会費11,000円",
+    "source_url": "https://biima.co.jp/sports/school/otsu/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "マジョリティ新体操クラブ",
+    "category": "体操",
+    "address": null,
+    "website": "https://majority-rg.jp/",
+    "phone": null,
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://majority-rg.jp/",
+    "organization_type": "individual"
+  }
+]

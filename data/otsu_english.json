@@ -1,0 +1,195 @@
+[
+  {
+    "name": "ボブロペス英会話教室",
+    "category": "英会話",
+    "address": "滋賀県大津市浜大津4-9-16 エリセオびわこ201",
+    "website": "https://talkingbook.jp/",
+    "phone": "077-521-7780",
+    "target_age": "6ヶ月〜大人",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://townpage.goo.ne.jp/shopdetail.php?matomeid=255833915191151780",
+    "organization_type": "individual"
+  },
+  {
+    "name": "Lakeside英会話（レイクサイド英会話）",
+    "category": "英会話",
+    "address": "滋賀県大津市大物804-79",
+    "website": "http://www.lakeside-english.com/",
+    "phone": null,
+    "target_age": "子供〜大人",
+    "schedules": [],
+    "price": null,
+    "source_url": "http://www.lakeside-english.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "SONIC ENGLISH",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山（瀬田駅前）",
+    "website": "https://www.sonic-english.com/",
+    "phone": null,
+    "target_age": "3歳〜大人",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.sonic-english.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "HIRO英語教室",
+    "category": "英会話",
+    "address": "滋賀県大津市桜野町2丁目14-26",
+    "website": "https://hiro-eigo.com/",
+    "phone": "077-521-3647",
+    "target_age": "小学生〜高校生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://hiro-eigo.com/about/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "セイハ英語学院 フォレオ大津一里山教室",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山7丁目1番1号 フォレオ大津一里山内2F",
+    "website": "https://english-academy.seiha.com/classroom/80917/",
+    "phone": "0120-815-718",
+    "target_age": "0〜3歳（ハロークラブ）、3〜6歳（幼児コース）、小学生",
+    "schedules": [
+      {"weekday": null, "start_time": "10:20", "end_time": "11:00"},
+      {"weekday": null, "start_time": "13:20", "end_time": "14:00"},
+      {"weekday": null, "start_time": "16:15", "end_time": "17:00"},
+      {"weekday": null, "start_time": "17:10", "end_time": "18:00"},
+      {"weekday": null, "start_time": "18:10", "end_time": "19:00"}
+    ],
+    "price": null,
+    "source_url": "https://english-academy.seiha.com/classroom/80917/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "セイハ英語学院 バロー茶が崎教室",
+    "category": "英会話",
+    "address": null,
+    "website": "https://english-academy.seiha.com/classroom/914995/",
+    "phone": "080-4819-9932",
+    "target_age": "幼児・小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://english-academy.seiha.com/classroom/914995/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "アルクKiddy CAT英語教室 大津膳所校",
+    "category": "英会話",
+    "address": "滋賀県大津市馬場1丁目4-46",
+    "website": "https://wwb.jp/kidsenglish-otsu/",
+    "phone": "077-527-0220",
+    "target_age": "幼児・小学生",
+    "schedules": [],
+    "price": "月謝6,000円（月3回）／個別レッスン月3回10,000円",
+    "source_url": "https://wwb.jp/kidsenglish-otsu/course.htm",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "ペッピーキッズクラブ 大津中央教室",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山4丁目16-10 シャンポール一里山1階B",
+    "website": "https://www.peppy-kids.com/classroom/detail.php?kid=397",
+    "phone": "0120-95-2542",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.peppy-kids.com/classroom/detail.php?kid=397",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ペッピーキッズクラブ 大津瀬田教室",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山4丁目16-10 シャンポール",
+    "website": "https://www.peppy-kids.com/classroom/detail.php?kid=1978",
+    "phone": "0120-95-2542",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.peppy-kids.com/classroom/detail.php?kid=1978",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "キッズデュオ 膳所ときめき坂",
+    "category": "英会話",
+    "address": "滋賀県大津市馬場1丁目11-10 2階",
+    "website": "https://www.kidsduo.com/classrooms/detail/2940/",
+    "phone": "0800-100-6935",
+    "target_age": "3歳〜小学6年生",
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "11:00", "end_time": "20:00"}
+    ],
+    "price": null,
+    "source_url": "https://www.kidsduo.com/classrooms/detail/2940/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "キッズデュオ 大津瀬田",
+    "category": "英会話",
+    "address": "滋賀県大津市大萱7丁目12-33 クッキィー6 2階",
+    "website": "https://www.kidsduo.com/classrooms/detail/1226/",
+    "phone": "077-526-6300",
+    "target_age": "3歳〜小学6年生",
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "11:00", "end_time": "20:00"}
+    ],
+    "price": null,
+    "source_url": "https://www.kidsduo.com/classrooms/detail/1226/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "こども英会話イーオンキッズ 瀬田校",
+    "category": "英会話",
+    "address": "滋賀県大津市一里山1-9-22 昭建瀬田ビル1階",
+    "website": "https://www.aeonet.co.jp/school/kansai/shiga/2512/kids/",
+    "phone": "077-543-6400",
+    "target_age": "1・2歳〜小学5・6年生",
+    "schedules": [
+      {"weekday": "火〜金", "start_time": "12:00", "end_time": "21:00"},
+      {"weekday": "土", "start_time": "10:00", "end_time": "19:00"}
+    ],
+    "price": null,
+    "source_url": "https://www.aeonet.co.jp/school/kansai/shiga/2512/kids/course/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ECCジュニア 神領教室",
+    "category": "英会話",
+    "address": null,
+    "website": "https://eccjuniorbs.jp/ht250271/",
+    "phone": "050-5264-5647",
+    "target_age": "幼児・小学生・中学生",
+    "schedules": [],
+    "price": "月謝6,600円〜12,100円（年齢・コースによる）",
+    "source_url": "https://eccjuniorbs.jp/ht250271/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ヤマハ英語教室 ミュージックセンター大津京",
+    "category": "英会話",
+    "address": "滋賀県大津市皇子が丘2-10-31 西大津IS 2F・3F",
+    "website": "https://school.jp.yamaha.com/english_school/room/detail.php?shopcode=20300200&venuecode=050",
+    "phone": null,
+    "target_age": "幼児・小学生",
+    "schedules": [],
+    "price": "月謝7,300円〜",
+    "source_url": "https://school.jp.yamaha.com/english_school/room/detail.php?shopcode=20300200&venuecode=050",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ヤマハ英語教室 JEUGIAアル・プラザ堅田センター",
+    "category": "英会話",
+    "address": "滋賀県大津市本堅田5-20-10 アルプラザ堅田3F",
+    "website": "https://www.jeugia.co.jp/hall_49/service-top_3.html",
+    "phone": null,
+    "target_age": "幼児・小学生",
+    "schedules": [],
+    "price": "月謝7,300円〜",
+    "source_url": "https://www.jeugia.co.jp/hall_49/service-top_3.html",
+    "organization_type": "national_chain"
+  }
+]

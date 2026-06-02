@@ -1,0 +1,188 @@
+[
+  {
+    "name": "ラプリマ音楽教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市坂本6-26-10 フォレストビル1F",
+    "website": "https://www.laprimamusic.com/",
+    "phone": "077-576-1675",
+    "target_age": "6ヶ月〜音大受験生",
+    "schedules": [
+      {"weekday": null, "start_time": "10:00", "end_time": "20:00"}
+    ],
+    "price": "月謝4,000円〜7,980円",
+    "source_url": "https://www.music-school.net/web/detail/28101",
+    "organization_type": "individual"
+  },
+  {
+    "name": "五野ピアノ教室（大津教室）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市浜大津4丁目（詳細住所は体験レッスン時に案内）",
+    "website": "https://www.gonopiano.com/",
+    "phone": null,
+    "target_age": "0歳〜",
+    "schedules": [
+      {"weekday": "月", "start_time": "10:00", "end_time": "19:30"},
+      {"weekday": "火", "start_time": "10:00", "end_time": "19:30"},
+      {"weekday": "土", "start_time": "09:30", "end_time": "11:30"}
+    ],
+    "price": null,
+    "source_url": "https://www.gonopiano.com/p/2/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "いがたピアノ・リトミック教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市緑町（真野北小学校近く）",
+    "website": "https://igatapiano.com/",
+    "phone": null,
+    "target_age": "0歳〜シニア",
+    "schedules": [],
+    "price": "月謝制5,000円〜8,000円／回数制2,000円（30分）",
+    "source_url": "https://igatapiano.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "あいりすピアノ教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市唐橋町（JR石山駅・京阪石山駅より徒歩6分）",
+    "website": "https://airisupiano.com/",
+    "phone": null,
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://airisupiano.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "古矢ピアノ教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市富士見台17-41",
+    "website": "https://furuyapiano.com/",
+    "phone": "077-533-0385",
+    "target_age": null,
+    "schedules": [
+      {"weekday": "月〜土", "start_time": "09:00", "end_time": "21:00"}
+    ],
+    "price": "子ども6,000円〜（年間43回）",
+    "source_url": "https://furuyapiano.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "ポコアポコピアノ教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市湖城が丘31-39",
+    "website": "https://pocoapoco-ms.com/",
+    "phone": "090-2095-5251",
+    "target_age": "未就学児〜シニア",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://pocoapoco-ms.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "ピアノ教室 ゆめlabo",
+    "category": "ピアノ",
+    "address": "滋賀県大津市朝日が丘（予約後に案内）",
+    "website": "https://yume-labo.net/",
+    "phone": "050-3567-7207",
+    "target_age": null,
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "14:00", "end_time": "19:00"}
+    ],
+    "price": null,
+    "source_url": "https://yume-labo.net/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "いのうえ音楽教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市雄琴5丁目15-46",
+    "website": "https://inouemusic.net/",
+    "phone": "090-2107-5276",
+    "target_age": "2歳〜シニア",
+    "schedules": [],
+    "price": "月謝3,850円〜（月2回・30分）",
+    "source_url": "https://inouemusic.net/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "サウンズクラブ音楽教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市中庄1丁目10-2",
+    "website": "https://www.sounds-club.com/",
+    "phone": "077-522-6205",
+    "target_age": null,
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "14:00", "end_time": "20:00"},
+      {"weekday": "土", "start_time": "10:00", "end_time": "18:00"}
+    ],
+    "price": null,
+    "source_url": "https://www.sounds-club.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "大村夢ピアノ教室（大津京・唐崎教室）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市（大津京・唐崎エリア、詳細住所非公開）",
+    "website": "https://yumepianostudio.crayonsite.com/",
+    "phone": null,
+    "target_age": null,
+    "schedules": [],
+    "price": "大津京教室：月謝10,000円／唐崎教室：20分7,000円",
+    "source_url": "https://yumepianostudio.crayonsite.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "カワイ音楽教室 奏美ホール",
+    "category": "ピアノ",
+    "address": "滋賀県大津市御幸町6-9",
+    "website": "https://music.kawai.jp/search/detail/005276",
+    "phone": "077-562-9756",
+    "target_age": "年少〜小学6年生",
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "10:00", "end_time": "17:00"}
+    ],
+    "price": null,
+    "source_url": "https://music.kawai.jp/search/detail/005276",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "カワイ音楽教室 コジャック",
+    "category": "ピアノ",
+    "address": "滋賀県大津市本堅田5-11-21（スポーツクラブコジャック内3階）",
+    "website": "https://music.kawai.jp/search/detail/006617",
+    "phone": "077-562-9756",
+    "target_age": "3歳〜（ソルフェージュ3歳〜、ピアノ4歳〜）",
+    "schedules": [],
+    "price": "月謝3,780円〜7,560円",
+    "source_url": "https://music.kawai.jp/search/detail/006617",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ヤマハ音楽教室（JEUGIAミュージックセンター大津京）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市皇子が丘2丁目10-31 西大津IS3ビル2〜3F",
+    "website": "https://www.jeugia.co.jp/hall_48/service-top_1.html",
+    "phone": "0120-948-937",
+    "target_age": null,
+    "schedules": [
+      {"weekday": "月〜土", "start_time": "10:00", "end_time": "20:00"},
+      {"weekday": "日", "start_time": "10:00", "end_time": "17:00"}
+    ],
+    "price": null,
+    "source_url": "https://www.jeugia.co.jp/hall_48/service-top_1.html",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ヤマハ音楽教室（JEUGIA 大津テラス）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市打出浜14-30 Oh!Me大津テラス4F",
+    "website": "https://www.jeugia.co.jp/hall_85/service-top_1.html",
+    "phone": "077-510-2055",
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.jeugia.co.jp/hall_85/service-top_1.html",
+    "organization_type": "national_chain"
+  }
+]

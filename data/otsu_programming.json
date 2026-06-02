@@ -1,0 +1,200 @@
+[
+  {
+    "name": "アットスクール膳所教室（プログラミング）",
+    "category": "プログラミング",
+    "address": "滋賀県大津市打出浜14-30 Oh!Me大津テラス4F",
+    "website": "https://www.at-school.jp/zeze/",
+    "phone": "077-548-7822",
+    "target_age": "幼児・小学生・中学生・高校生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://school.iesk.net/22021003-1/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "どんぐりIT教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市におの浜3丁目3番3号 ヨシノビル3-B号室",
+    "website": "https://lor3nz.jp/",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [
+      {"weekday": "月", "start_time": "16:30", "end_time": "17:15"},
+      {"weekday": "月", "start_time": "17:30", "end_time": "18:15"},
+      {"weekday": "火", "start_time": "16:30", "end_time": "17:15"},
+      {"weekday": "火", "start_time": "17:30", "end_time": "18:15"},
+      {"weekday": "水", "start_time": "16:30", "end_time": "17:15"},
+      {"weekday": "水", "start_time": "17:30", "end_time": "18:15"},
+      {"weekday": "金", "start_time": "16:30", "end_time": "17:15"},
+      {"weekday": "金", "start_time": "17:30", "end_time": "18:15"},
+      {"weekday": "土", "start_time": "10:00", "end_time": "10:45"},
+      {"weekday": "土", "start_time": "11:00", "end_time": "11:45"}
+    ],
+    "price": null,
+    "source_url": "https://homepage-7yf.pages.dev/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "プロクラ 大津京校（KEC近畿教育学院併設）",
+    "category": "プログラミング",
+    "address": "滋賀県大津市皇子が丘3-13-31 大橋ビル",
+    "website": "https://www.programming-cloud.com/class/shiga-0009/",
+    "phone": "077-526-0226",
+    "target_age": "小学1年生〜小学6年生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.programming-cloud.com/class/shiga-0009/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "プロクラ 石山校（KEC近畿教育学院併設）",
+    "category": "プログラミング",
+    "address": "滋賀県大津市栄町4-5",
+    "website": "https://www.programming-cloud.com/class/detail/?class_id=58",
+    "phone": "077-537-5861",
+    "target_age": "小学1年生〜小学6年生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://bestjuku.com/juku/2832/class/96330/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "プロクラ 開成 石山教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市粟津町14-5 1階・2階",
+    "website": "https://www.programming-cloud.com/class/shiga-0005/",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.programming-cloud.com/class/shiga-0005/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "プロクラ 開成 膳所教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市打出浜11-34 1〜3階",
+    "website": "https://www.programming-cloud.com/class/shiga-0006/",
+    "phone": "0120-04-1232",
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.programming-cloud.com/class/shiga-0006/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "プロクラ 開成 瀬田教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市大将軍1-17-4 1階・2階",
+    "website": "https://www.programming-cloud.com/class/shiga-0015/",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.programming-cloud.com/class/shiga-0015/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "プログラミング教育 HALLO Kids Duo 大津瀬田校",
+    "category": "プログラミング",
+    "address": "滋賀県大津市大萱7丁目12-33 クッキィー62階",
+    "website": "https://www.hallo.jp/classrooms/detail/1226/",
+    "phone": "0120-741-915",
+    "target_age": "年長・小学生",
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "11:00", "end_time": "20:00"}
+    ],
+    "price": null,
+    "source_url": "https://www.hallo.jp/classrooms/detail/1226/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "プログラミング教育 HALLO Kids Duo 膳所ときめき坂校",
+    "category": "プログラミング",
+    "address": "滋賀県大津市馬場1丁目11-10 2階",
+    "website": "https://www.hallo.jp/classrooms/detail/2940/",
+    "phone": "0800-100-6935",
+    "target_age": "3歳〜小学6年生",
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "11:00", "end_time": "20:00"}
+    ],
+    "price": null,
+    "source_url": "https://www.hallo.jp/classrooms/detail/2940/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "プログラミング教育 HALLO ビバスポーツアカデミー 瀬田校",
+    "category": "プログラミング",
+    "address": "滋賀県大津市一里山1丁目18-22",
+    "website": "https://www.hallo.jp/classrooms/detail/2476/",
+    "phone": "077-543-0887",
+    "target_age": "小学生・中学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.hallo.jp/classrooms/detail/2476/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ヒューマンアカデミージュニア ロボット教室 大津京",
+    "category": "プログラミング",
+    "address": "滋賀県大津市御陵町6-18（あぐり進学西大津校内）",
+    "website": "https://kids.athuman.com/search/detail/?store_id=2931",
+    "phone": "0120-948-514",
+    "target_age": "年中・年長〜小学生",
+    "schedules": [],
+    "price": "月謝10,260円（税込）、入会金11,000円（税込）、ロボットキット33,000円（税込）",
+    "source_url": "https://tech-2.jp/classrooms/3808",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ヒューマンアカデミージュニア 大津堅田教室",
+    "category": "プログラミング",
+    "address": null,
+    "website": "https://kids.athuman.com/search/detail/?store_id=3195",
+    "phone": null,
+    "target_age": "年中・年長〜小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://kids.athuman.com/search/detail/?store_id=3195",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "QUREOプログラミング教室 馬渕個別 石山校",
+    "category": "プログラミング",
+    "address": null,
+    "website": "https://qureo.jp/class/mabuchikobetsu_ishiyama",
+    "phone": null,
+    "target_age": "小学2年生〜小学6年生",
+    "schedules": [
+      {"weekday": "平日", "start_time": "17:00", "end_time": "21:30"},
+      {"weekday": "土", "start_time": "13:00", "end_time": "21:30"}
+    ],
+    "price": null,
+    "source_url": "https://qureo.jp/class/mabuchikobetsu_ishiyama",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "QUREOプログラミング教室 アップ学習会 プラコベ 大津中央教室",
+    "category": "プログラミング",
+    "address": "滋賀県大津市京町1丁目3-44 イイダビル3階",
+    "website": "https://qureo.jp/class/upgakushukai-prakobe_otsuchuo",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://coeteco.jp/brand/qureo/schools/2492265",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "プロクラ 西大津校（KEC近畿教育学院併設）",
+    "category": "プログラミング",
+    "address": "滋賀県大津市皇子が丘3-13-31 大橋ビル",
+    "website": "https://www.programming-cloud.com/class/shiga-0009/",
+    "phone": "077-526-0226",
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://bestjuku.com/juku/2832/class/96329/",
+    "organization_type": "regional_chain"
+  }
+]

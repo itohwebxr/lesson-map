@@ -1,0 +1,225 @@
+[
+  {
+    "name": "自立型個別指導サクラ塾",
+    "category": "学習塾",
+    "address": null,
+    "website": "https://sucla-otsu.net/",
+    "phone": null,
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://sucla-otsu.net/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "サクラ塾 自立型個別指導 大津市役所前",
+    "category": "学習塾",
+    "address": null,
+    "website": "https://www.sucla-otsu.com/",
+    "phone": null,
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.sucla-otsu.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "個別指導アップ学習会 プラコベ大津中央教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市京町1丁目3-44 イイダビル3階",
+    "website": "https://personalsupport.co.jp/shiga/otushi/purakobeotsuchuou/",
+    "phone": "0078-600-566-891",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": "小学生：最大5科目19,800円/月（税込）〜",
+    "source_url": "https://personalsupport.co.jp/shiga/otushi/purakobeotsuchuou/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "自立学習塾RED 大津青山教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市青山5-13-21 2F",
+    "website": "https://www.jiritsu-red.jp/school/otsuaoyama/",
+    "phone": "077-532-0067",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [
+      {"weekday": "平日", "start_time": "16:40", "end_time": null},
+      {"weekday": "土", "start_time": "13:40", "end_time": null}
+    ],
+    "price": "小学生：月4,450円〜（週1回）",
+    "source_url": "https://www.jiritsu-red.jp/school/otsuaoyama/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "個別学習塾UPまの",
+    "category": "学習塾",
+    "address": "滋賀県大津市真野1-22-19",
+    "website": "https://up-mano.com/",
+    "phone": "077-573-5817",
+    "target_age": "小学生・中学生",
+    "schedules": [
+      {"weekday": "月・火・木・金", "start_time": "16:00", "end_time": "21:00"}
+    ],
+    "price": "中学1・2年生：1科目5,000円〜、入会金5,000円",
+    "source_url": "https://up-mano.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "スクールIE 瀬田北校",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱7丁目12-33 クッキィー6 1階",
+    "website": "https://www.schoolie-net.jp/classrooms/detail/2373/",
+    "phone": "077-547-5050",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "15:00", "end_time": "21:30"},
+      {"weekday": "土", "start_time": "10:00", "end_time": "13:00"}
+    ],
+    "price": "お試しパック3,300円（90分×4回）",
+    "source_url": "https://www.schoolie-net.jp/classrooms/detail/2373/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ITTO個別指導学院 大将軍校",
+    "category": "学習塾",
+    "address": "滋賀県大津市大将軍1丁目字菖蒲804-1",
+    "website": "https://www.itto.jp/schools/kinki/shiga/daishogun.html",
+    "phone": "077-545-9661",
+    "target_age": null,
+    "schedules": [
+      {"weekday": "月〜金", "start_time": "16:00", "end_time": "22:00"}
+    ],
+    "price": null,
+    "source_url": "https://www.itto.jp/schools/kinki/shiga/daishogun.html",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "個別指導塾サクラサクセス 大津おごと温泉駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市雄琴北2-3-19 TOHNOマンションテナント101",
+    "website": "https://www.sakusakura.jp/simulator/simulators/school/29",
+    "phone": null,
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": "入塾金不要、管理費2,300円/月",
+    "source_url": "https://www.sakusakura.jp/simulator/simulators/school/29",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "個別指導塾サクラサクセス 大津膳所駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市竜が丘3-6",
+    "website": "https://www.sakusakura.jp/simulator/simulators/school/27",
+    "phone": "077-523-2127",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": "入塾金不要、管理費2,300円/月",
+    "source_url": "https://www.sakusakura.jp/simulator/simulators/school/27",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "明光義塾 堅田教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田4-16-6 シャルマンコーポ大津堅田201",
+    "website": "https://www.meikogijuku.jp/school/shiga/otsu-shi/S3371/",
+    "phone": "0120-890-196",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [
+      {"weekday": "平日", "start_time": "14:00", "end_time": "21:30"}
+    ],
+    "price": null,
+    "source_url": "https://www.meikogijuku.jp/school/shiga/otsu-shi/S3371/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "学研教室 石山駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市粟津町12-15",
+    "website": "https://www.889100.com/classrooms/13151",
+    "phone": null,
+    "target_age": "幼児・小学生・中学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.889100.com/classrooms/13151",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "ナビ個別指導学院 堅田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田5-16-22 辻ビル2F",
+    "website": "https://www.navi-school.com/school/shiga/katata/",
+    "phone": "0120-941-967",
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [
+      {"weekday": "火〜土", "start_time": "15:30", "end_time": "21:20"}
+    ],
+    "price": "中1・中2（週1回）12,600円〜（税込）",
+    "source_url": "https://www.navi-school.com/school/shiga/katata/",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "まんてんスクール 堅田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田5-16-22 ナビ個別指導学院 堅田校内",
+    "website": "https://www.manten-school.com/school/shiga/sc-katata.html",
+    "phone": "077-573-8251",
+    "target_age": "小学生",
+    "schedules": [
+      {"weekday": "水・金", "start_time": "16:20", "end_time": "18:20"}
+    ],
+    "price": "月4回3,300円（税込）〜",
+    "source_url": "https://www.manten-school.com/school/shiga/sc-katata.html",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "個別指導キャンパス 堅田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田5丁目16-7 コーポカタタ2階",
+    "website": "https://www.canpass-kobetsu.com/school/katata/",
+    "phone": null,
+    "target_age": "小学生・中学生・高校生",
+    "schedules": [],
+    "price": "月額4,320円〜",
+    "source_url": "https://www.canpass-kobetsu.com/school/katata/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "ゴールフリー 大津中央教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市春日町2-1 COCOLAS大津2F",
+    "website": "https://www.goalfree.co.jp/classroom/otsuchuo/",
+    "phone": null,
+    "target_age": "小学1年生〜高校生",
+    "schedules": [],
+    "price": "入学金14,300円（税込）、登録料5,500円（税込）",
+    "source_url": "https://www.goalfree.co.jp/classroom/otsuchuo/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "KEC近畿教育学院 大津京校",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘3-13-31",
+    "website": "https://www.prep.kec.ne.jp/otsukyo/",
+    "phone": "077-526-0226",
+    "target_age": "小学1年生〜高校生",
+    "schedules": [
+      {"weekday": "月〜土", "start_time": "14:00", "end_time": "22:00"},
+      {"weekday": "日・祝", "start_time": "12:00", "end_time": "22:00"}
+    ],
+    "price": "小学4〜6年生：12,100円（税込）〜",
+    "source_url": "https://www.prep.kec.ne.jp/otsukyo/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "学習塾シャローム",
+    "category": "学習塾",
+    "address": "滋賀県大津市和邇中281-8",
+    "website": "https://shalom.crayonsite.net/",
+    "phone": null,
+    "target_age": null,
+    "schedules": [],
+    "price": null,
+    "source_url": "https://shalom.crayonsite.net/",
+    "organization_type": "individual"
+  }
+]

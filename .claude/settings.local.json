@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:kodomo-booster.com)",
+      "WebFetch(domain:roveciata.com)",
+      "WebFetch(domain:fceffort.com)",
+      "WebFetch(domain:s-lake-selecao.com)",
+      "WebFetch(domain:kids-school.msta.co.jp)",
+      "WebFetch(domain:liberta.sport-school.com)",
+      "WebFetch(domain:otsujsb.jp)",
+      "WebFetch(domain:sakasuku-shiga.com)",
+      "WebFetch(domain:uchide-fc.com)",
+      "WebFetch(domain:suposuku.jp)"
+    ]
+  }
+}

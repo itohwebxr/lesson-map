@@ -1,0 +1,77 @@
+[
+  {
+    "name": "大津イトマンスポーツクラブ",
+    "category": "スイミング",
+    "address": "滋賀県大津市打出浜33-11",
+    "website": "https://ootsu-isc.izumi21.net/",
+    "phone": "077-525-7755",
+    "target_age": "生後7ヶ月〜中学生",
+    "schedules": [
+      {"weekday": "木", "start_time": "16:00", "end_time": "17:00"},
+      {"weekday": "木", "start_time": "17:15", "end_time": "18:15"}
+    ],
+    "price": "週1回8,250円〜、週2回12,100円〜、週3回13,750円〜（税込）",
+    "source_url": "https://ootsu-isc.izumi21.net/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "スポーツクラブ コジャック",
+    "category": "スイミング",
+    "address": "滋賀県大津市本堅田5丁目11-21",
+    "website": "https://sports-kojak.co.jp/",
+    "phone": "077-573-7373",
+    "target_age": "2歳〜",
+    "schedules": [],
+    "price": "週1回7,700円、週2回9,900円、週3回10,670円（税込）",
+    "source_url": "https://sports-kojak.co.jp/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "大津市富士見市民温水プール（スポック富士見） キッズスイミング",
+    "category": "スイミング",
+    "address": "滋賀県大津市富士見台54番46号",
+    "website": "https://fujimi-pool.com/kids-swim/",
+    "phone": "077-533-3113",
+    "target_age": "生後6ヶ月〜",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://fujimi-pool.com/kids-swim/",
+    "organization_type": "public"
+  },
+  {
+    "name": "皇子が丘公園プール キッズスイミング",
+    "category": "スイミング",
+    "address": "滋賀県大津市皇子が丘一丁目1-1",
+    "website": "https://www.cospa-wellness.co.jp/corp/ojigaoka-pool/kids_school/",
+    "phone": "077-526-3085",
+    "target_age": "ベビー〜",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.cospa-wellness.co.jp/corp/ojigaoka-pool/kids_school/",
+    "organization_type": "public"
+  },
+  {
+    "name": "ニスポ・スイムクラブ 西大津",
+    "category": "スイミング",
+    "address": "滋賀県大津市松山町1-10",
+    "website": "http://www.nispo.jp/nishiotsu/",
+    "phone": "077-527-0556",
+    "target_age": "生後6ヶ月〜",
+    "schedules": [],
+    "price": "入会費6,600円、月会費7,150〜11,000円（税込）",
+    "source_url": "http://www.nispo.jp/nishiotsu/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "ビバスポーツアカデミー瀬田 びばっこスイミング",
+    "category": "スイミング",
+    "address": "滋賀県大津市一里山1丁目18-22",
+    "website": "https://www.viva-sa.com/seta-kids/swimming",
+    "phone": "077-543-0887",
+    "target_age": "幼児〜小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://www.viva-sa.com/seta-kids/",
+    "organization_type": "individual"
+  }
+]

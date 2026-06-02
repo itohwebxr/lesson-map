@@ -1,0 +1,328 @@
+[
+  {
+    "name": "ロベッシャータサッカークラブ 一里山スクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市一里山3-16-1",
+    "website": "https://roveciata.com/",
+    "phone": "075-755-4889",
+    "target_age": "2歳〜12歳",
+    "schedules": [
+      {"weekday": "木", "start_time": "15:30", "end_time": "16:30"},
+      {"weekday": "木", "start_time": "16:30", "end_time": "17:45"},
+      {"weekday": "木", "start_time": "17:30", "end_time": "19:00"}
+    ],
+    "price": "月額5,000円（入会金なし）",
+    "source_url": "https://roveciata.com/school/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "ロベッシャータサッカークラブ 青山スクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市青山5丁目（詳細番地不明）",
+    "website": "https://roveciata.com/",
+    "phone": "075-755-4889",
+    "target_age": "2歳〜12歳",
+    "schedules": [
+      {"weekday": "水", "start_time": "15:30", "end_time": "16:30"},
+      {"weekday": "水", "start_time": "16:30", "end_time": "18:00"}
+    ],
+    "price": "月額5,000円（入会金なし）",
+    "source_url": "https://roveciata.com/school/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "ロベッシャータサッカークラブ 唐橋スクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市瀬田1丁目（詳細番地不明）",
+    "website": "https://roveciata.com/",
+    "phone": "075-755-4889",
+    "target_age": "2歳〜12歳",
+    "schedules": [
+      {"weekday": "金", "start_time": "15:30", "end_time": "17:00"},
+      {"weekday": "金", "start_time": "16:30", "end_time": "18:00"}
+    ],
+    "price": "月額5,000円（入会金なし）",
+    "source_url": "https://roveciata.com/school/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "リベルタサッカースクール 瀬田",
+    "category": "サッカー",
+    "address": "滋賀県大津市大江4丁目2-1（瀬田小学校グラウンド）",
+    "website": "https://liberta.sport-school.com/school/%E7%80%AC%E7%94%B0",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {"weekday": "金", "start_time": "15:10", "end_time": "16:00"},
+      {"weekday": "金", "start_time": "17:00", "end_time": "18:10"},
+      {"weekday": "金", "start_time": "18:20", "end_time": "19:30"}
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school/%E7%80%AC%E7%94%B0",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "リベルタサッカースクール 南郷",
+    "category": "サッカー",
+    "address": "滋賀県大津市南郷1丁目15-9（南郷小学校グラウンド）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {"weekday": "月", "start_time": "16:30", "end_time": "17:40"},
+      {"weekday": "月", "start_time": "17:50", "end_time": "19:00"}
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "リベルタサッカースクール 茶臼山",
+    "category": "サッカー",
+    "address": "滋賀県大津市富士見台42-16付近（富士見小学校グラウンド）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {"weekday": "木", "start_time": "16:50", "end_time": "18:00"},
+      {"weekday": "木", "start_time": "18:10", "end_time": "19:20"}
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "リベルタサッカースクール 青山中央",
+    "category": "サッカー",
+    "address": "滋賀県大津市青山5丁目12（青山中央公園）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {"weekday": "火", "start_time": "16:30", "end_time": "17:40"}
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "リベルタサッカースクール 仰木の里東",
+    "category": "サッカー",
+    "address": "滋賀県大津市（仰木の里東小学校グラウンド）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {"weekday": "火", "start_time": "17:00", "end_time": "18:10"},
+      {"weekday": "水", "start_time": "17:00", "end_time": "18:10"},
+      {"weekday": "水", "start_time": "18:20", "end_time": "19:30"}
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "リベルタサッカースクール におの浜",
+    "category": "サッカー",
+    "address": "滋賀県大津市木下町2-24（滋賀朝鮮初中級学校グラウンド）",
+    "website": "https://liberta.sport-school.com/",
+    "phone": "0120-735-410",
+    "target_age": "未就園児〜小学6年生",
+    "schedules": [
+      {"weekday": "木", "start_time": "15:30", "end_time": "16:20"},
+      {"weekday": "木", "start_time": "16:30", "end_time": "17:40"},
+      {"weekday": "木", "start_time": "17:50", "end_time": "19:00"},
+      {"weekday": "金", "start_time": "16:30", "end_time": "17:40"},
+      {"weekday": "金", "start_time": "17:50", "end_time": "19:00"}
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "リベルタサッカースクール ブランチ大津京（月）",
+    "category": "サッカー",
+    "address": "滋賀県大津市二本松1-1 ブランチ大津京",
+    "website": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%88%EF%BC%89",
+    "phone": "0120-735-410",
+    "target_age": "小学1年生〜小学6年生（キッズは幼児〜）",
+    "schedules": [
+      {"weekday": "月", "start_time": "16:00", "end_time": "16:50"},
+      {"weekday": "月", "start_time": "17:00", "end_time": "18:10"}
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%88%EF%BC%89",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "リベルタサッカースクール ブランチ大津京（木）",
+    "category": "サッカー",
+    "address": "滋賀県大津市二本松1-1 ブランチ大津京",
+    "website": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%A8%EF%BC%89",
+    "phone": "0120-735-410",
+    "target_age": "小学1年生〜小学6年生（キッズは幼児〜）",
+    "schedules": [
+      {"weekday": "木", "start_time": "17:30", "end_time": "18:40"}
+    ],
+    "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
+    "source_url": "https://liberta.sport-school.com/school/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%EF%BC%88%E6%9C%A8%EF%BC%89",
+    "organization_type": "national_chain"
+  },
+  {
+    "name": "エフォートフットボールクラブ（MINOBE FOOTBALL ACADEMY）",
+    "category": "サッカー",
+    "address": "滋賀県大津市御陵町4丁目1（皇子山総合運動公園）",
+    "website": "https://fceffort.com/",
+    "phone": "080-1463-6598",
+    "target_age": "ジュニア（小学生）・U-13〜U-15（中学生）",
+    "schedules": [
+      {"weekday": "火", "start_time": "18:00", "end_time": "20:00"},
+      {"weekday": "金", "start_time": "18:00", "end_time": "20:00"}
+    ],
+    "price": null,
+    "source_url": "https://fceffort.com/",
+    "organization_type": "individual"
+  },
+  {
+    "name": "滋賀レイクセレソン セレスク キッズU-6",
+    "category": "サッカー",
+    "address": "滋賀県大津市御陵町4-1（皇子山校）／志賀小校（住所不明）",
+    "website": "https://s-lake-selecao.com/",
+    "phone": null,
+    "target_age": "年長まで（〜6歳）",
+    "schedules": [
+      {"weekday": "水", "start_time": "18:30", "end_time": "19:30"},
+      {"weekday": "木", "start_time": "17:00", "end_time": "18:00"},
+      {"weekday": "金", "start_time": "18:30", "end_time": "19:30"},
+      {"weekday": "日", "start_time": "17:00", "end_time": "18:00"}
+    ],
+    "price": "月額3,800円（最大4回）＋年会費7,600円",
+    "source_url": "https://s-lake-selecao.com/about-club/school/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "滋賀レイクセレソン セレスク ジュニアU-12",
+    "category": "サッカー",
+    "address": "滋賀県大津市御陵町4-1（皇子山校）／志賀小校（住所不明）",
+    "website": "https://s-lake-selecao.com/",
+    "phone": null,
+    "target_age": "小学1年生〜小学6年生",
+    "schedules": [
+      {"weekday": "火", "start_time": "18:30", "end_time": "20:00"},
+      {"weekday": "水", "start_time": "18:30", "end_time": "19:30"},
+      {"weekday": "木", "start_time": "18:30", "end_time": "20:00"},
+      {"weekday": "金", "start_time": "18:30", "end_time": "20:00"},
+      {"weekday": "日", "start_time": "18:00", "end_time": "19:00"}
+    ],
+    "price": "月額6,000円（最大5回）＋年会費7,600円＋指定着7,000円（入会時）",
+    "source_url": "https://s-lake-selecao.com/about-club/school/",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "サカスク滋賀 大津校",
+    "category": "サッカー",
+    "address": "滋賀県大津市御陵町4-1（皇子山総合運動公園）",
+    "website": "https://sakasuku-shiga.com/",
+    "phone": "080-1415-7037",
+    "target_age": "年中〜中学3年生",
+    "schedules": [
+      {"weekday": "木", "start_time": "16:00", "end_time": "16:50"},
+      {"weekday": "木", "start_time": "17:00", "end_time": "18:00"},
+      {"weekday": "木", "start_time": "18:10", "end_time": "19:20"},
+      {"weekday": "木", "start_time": "19:30", "end_time": "20:30"}
+    ],
+    "price": "入会金5,400円 / Kids週1：5,400円 / Junior U9週1：6,480円 / Junior U12週1：7,560円 ＋年会費8,000円",
+    "source_url": "https://suposuku.jp/venues/3458/fees",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "打出FC",
+    "category": "サッカー",
+    "address": "滋賀県大津市打出浜15-1（大津市立中央小学校グラウンド）",
+    "website": "https://uchide-fc.com/",
+    "phone": null,
+    "target_age": "小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://uchide-fc.com/",
+    "organization_type": "community"
+  },
+  {
+    "name": "晴嵐スポーツ少年団サッカー部",
+    "category": "サッカー",
+    "address": "滋賀県大津市光が丘町4-70（大津市立晴嵐小学校グラウンド）",
+    "website": null,
+    "phone": null,
+    "target_age": "小学1年生〜6年生",
+    "schedules": [
+      {"weekday": "土", "start_time": null, "end_time": null},
+      {"weekday": "日", "start_time": null, "end_time": null}
+    ],
+    "price": null,
+    "source_url": "https://kids-school.msta.co.jp/group-sports/cat-soccer/feature-saturday-soccer/p-shiga/c-25201",
+    "organization_type": "community"
+  },
+  {
+    "name": "里東FC",
+    "category": "サッカー",
+    "address": "滋賀県大津市仰木の里東（大津市立仰木の里東小学校グラウンド）",
+    "website": "https://satohigashi-fc.com/",
+    "phone": null,
+    "target_age": "年長〜小学6年生",
+    "schedules": [
+      {"weekday": "土", "start_time": "14:00", "end_time": "16:30"},
+      {"weekday": "日", "start_time": "09:00", "end_time": "11:30"}
+    ],
+    "price": "入会金2,000円 / 月会費：年長500円・1〜3年1,000円・4〜6年1,500円",
+    "source_url": "https://satohigashi-fc.com/",
+    "organization_type": "community"
+  },
+  {
+    "name": "SHIGA CITY サッカースクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市森領町4-1（皇子山総合運動公園）",
+    "website": "https://shigacity-fc.jp/school/",
+    "phone": null,
+    "target_age": "4歳〜小学6年生",
+    "schedules": [],
+    "price": "月謝6,500円〜",
+    "source_url": "https://p-ground.com/s/?id=A1154-001",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "レイラック滋賀FC サッカースクール 大津校",
+    "category": "サッカー",
+    "address": "滋賀県大津市上田上中野町779",
+    "website": "https://reilac-shiga.co.jp/school",
+    "phone": "077-564-6646",
+    "target_age": "小学1〜6年生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://reilac-shiga.co.jp/school/location",
+    "organization_type": "regional_chain"
+  },
+  {
+    "name": "FC.SETA 2002 SHIGA ジュニア",
+    "category": "サッカー",
+    "address": "滋賀県大津市瀬田地区（瀬田東小学校グラウンド）",
+    "website": "https://fc-seta-jr.com/",
+    "phone": null,
+    "target_age": "小学生（U-12）",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://fc-seta-jr.com/",
+    "organization_type": "community"
+  },
+  {
+    "name": "びわこスポーツクラブ サッカースクール",
+    "category": "サッカー",
+    "address": "滋賀県大津市北比良977-6",
+    "website": "https://biwako-sc.jp/",
+    "phone": null,
+    "target_age": "幼児〜小学生",
+    "schedules": [],
+    "price": null,
+    "source_url": "https://biwako-sc.jp/?page_id=257",
+    "organization_type": "regional_chain"
+  }
+]
