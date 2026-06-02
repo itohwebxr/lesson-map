@@ -329,7 +329,13 @@
     "organization_type": "individual",
     "lat": 35.0189411,
     "lng": 135.8570512,
-    "geocode_accuracy": "GEOMETRIC_CENTER"
+    "geocode_accuracy": "GEOMETRIC_CENTER",
+    "lesson_days_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "滋賀レイクセレソン セレスク キッズU-6",
@@ -365,7 +371,14 @@
     "organization_type": "regional_chain",
     "lat": 35.021557,
     "lng": 135.8558483,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "滋賀レイクセレソン セレスク ジュニアU-12",
@@ -406,7 +419,14 @@
     "organization_type": "regional_chain",
     "lat": 35.021557,
     "lng": 135.8558483,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "サカスク滋賀 大津校",
@@ -457,7 +477,11 @@
     "organization_type": "community",
     "lat": 35.007061,
     "lng": 135.8768701,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "晴嵐スポーツ少年団サッカー部",
@@ -483,7 +507,9 @@
     "organization_type": "community",
     "lat": 34.9723048,
     "lng": 135.8991005,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "里東FC",
@@ -509,7 +535,14 @@
     "organization_type": "community",
     "lat": 35.107118,
     "lng": 135.8980274,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "SHIGA CITY サッカースクール",
@@ -524,7 +557,13 @@
     "organization_type": "regional_chain",
     "lat": 34.9384964,
     "lng": 135.9432011,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "レイラック滋賀FC サッカースクール 大津校",
@@ -539,7 +578,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9707501,
     "lng": 135.9510663,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "FC.SETA 2002 SHIGA ジュニア",
@@ -554,7 +598,12 @@
     "organization_type": "community",
     "lat": 34.9656842,
     "lng": 135.9099111,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "びわこスポーツクラブ サッカースクール",
@@ -569,7 +618,11 @@
     "organization_type": "regional_chain",
     "lat": 35.2269735,
     "lng": 135.9447685,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "大津イトマンスポーツクラブ",
@@ -610,7 +663,13 @@
     "organization_type": "individual",
     "lat": 35.1166113,
     "lng": 135.9141289,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "high",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "大津市富士見市民温水プール（スポック富士見） キッズスイミング",
@@ -625,7 +684,23 @@
     "organization_type": "public",
     "lat": 34.9820243,
     "lng": 135.8857177,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days": [
+      "火",
+      "水",
+      "木",
+      "金",
+      "土",
+      "日"
+    ],
+    "lesson_days_confidence": "medium",
+    "monthly_fee": 5500,
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "皇子が丘公園プール キッズスイミング",
@@ -640,7 +715,26 @@
     "organization_type": "public",
     "lat": 35.0238557,
     "lng": 135.8545814,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days": [
+      "月",
+      "水",
+      "木",
+      "金",
+      "土"
+    ],
+    "lesson_days_confidence": "medium",
+    "lesson_times": [
+      "15:30-16:30",
+      "16:30-17:30",
+      "17:30-18:30"
+    ],
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ニスポ・スイムクラブ 西大津",
@@ -655,7 +749,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0254914,
     "lng": 135.8621295,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ビバスポーツアカデミー瀬田 びばっこスイミング",
@@ -670,14 +769,19 @@
     "organization_type": "individual",
     "lat": 34.9866441,
     "lng": 135.9296788,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "DDPダンススクール（本堅田校）",
     "category": "ダンス",
     "address": "滋賀県大津市本堅田4丁目15-25 グラン・ドムール大津堅田B102号",
     "website": "https://www.ddp-dance.com/",
-    "phone": null,
+    "phone": "077-548-6283",
     "target_age": "リトルキッズ・キッズ・レギュラー・大人",
     "schedules": [
       {
@@ -691,7 +795,18 @@
     "organization_type": "regional_chain",
     "lat": 35.1188805,
     "lng": 135.9182686,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times": [
+      "10:10-11:00",
+      "11:00-12:00"
+    ],
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "セイハダンスアカデミー フォレオ大津一里山校",
@@ -732,7 +847,13 @@
     "organization_type": "national_chain",
     "lat": 34.974236,
     "lng": 135.9333022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "スポーツクラブNAS大津一里山（エイベックス・ダンスマスター）",
@@ -747,7 +868,11 @@
     "organization_type": "national_chain",
     "lat": 34.974236,
     "lng": 135.9333022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "リディアダンスアカデミー 津藤方校",
@@ -761,7 +886,12 @@
     "source_url": "https://ksn-japan.net/school/%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC-%E6%B4%A5%E8%97%A4%E6%96%B9%E6%A0%A1/",
     "organization_type": "regional_chain",
     "lat": 34.99559733439491,
-    "lng": 135.8728824884898
+    "lng": 135.8728824884898,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "JEUGIAミュージックセンター大津京（ダンス）",
@@ -776,7 +906,11 @@
     "organization_type": "national_chain",
     "lat": 35.0245593,
     "lng": 135.8580176,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "びわこクリーンJr体操クラブ 下阪本本校",
@@ -868,7 +1002,7 @@
     "address": "滋賀県大津市一里山6丁目9-1 瀬田公園体育館 小アリーナ",
     "website": "https://athlete-sc.com/",
     "phone": "077-525-7357",
-    "target_age": null,
+    "target_age": "1歳〜小学6年生",
     "schedules": [
       {
         "weekday": "水",
@@ -881,7 +1015,21 @@
     "organization_type": "individual",
     "lat": 34.9766574,
     "lng": 135.9385156,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times": [
+      "13:10-13:50",
+      "14:00-14:50",
+      "15:00-15:50",
+      "16:00-16:50"
+    ],
+    "lesson_times_confidence": "high",
+    "monthly_fee_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "アスリートスポーツクラブ 勤労センター体操クラブ（木曜）",
@@ -922,7 +1070,13 @@
     "source_url": "https://athlete-sc.com/club/saturday/",
     "organization_type": "individual",
     "lat": 35.007101347207936,
-    "lng": 135.8736710078278
+    "lng": 135.8736710078278,
+    "lesson_days_confidence": "high",
+    "monthly_fee_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "サトウスポーツスクール",
@@ -936,7 +1090,11 @@
     "source_url": "https://www.sss3043.com/information/",
     "organization_type": "individual",
     "lat": 35.00577618299744,
-    "lng": 135.87217088324644
+    "lng": 135.87217088324644,
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "四幸スポーツクラブ 体操教室（大津・瀬田エリア）",
@@ -951,7 +1109,21 @@
     "organization_type": "regional_chain",
     "lat": 34.9948574,
     "lng": 135.949881,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days": [
+      "水"
+    ],
+    "lesson_days_confidence": "medium",
+    "lesson_times": [
+      "16:00-16:50",
+      "17:00-17:50"
+    ],
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "大津イトマンスポーツクラブ 体操キッズクラス",
@@ -987,7 +1159,11 @@
     "organization_type": "national_chain",
     "lat": 34.974236,
     "lng": 135.9333022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "biima sports 大津校",
@@ -1013,21 +1189,32 @@
     "organization_type": "national_chain",
     "lat": 35.0290393,
     "lng": 135.864418,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "マジョリティ新体操クラブ",
     "category": "体操",
     "address": null,
     "website": "https://majority-rg.jp/",
-    "phone": null,
+    "phone": "090-8577-2792",
     "target_age": null,
     "schedules": [],
     "price": null,
     "source_url": "https://majority-rg.jp/",
     "organization_type": "individual",
     "lat": 35.008593483775115,
-    "lng": 135.87806334571525
+    "lng": 135.87806334571525,
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ボブロペス英会話教室",
@@ -1042,7 +1229,12 @@
     "organization_type": "individual",
     "lat": 35.0139211,
     "lng": 135.8630174,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "Lakeside英会話（レイクサイド英会話）",
@@ -1057,7 +1249,12 @@
     "organization_type": "individual",
     "lat": 35.2199892,
     "lng": 135.9249517,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "SONIC ENGLISH",
@@ -1072,7 +1269,12 @@
     "organization_type": "individual",
     "lat": 34.9787246,
     "lng": 135.9336873,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "HIRO英語教室",
@@ -1087,7 +1289,12 @@
     "organization_type": "individual",
     "lat": 35.0277677,
     "lng": 135.8617359,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "セイハ英語学院 フォレオ大津一里山教室",
@@ -1128,7 +1335,13 @@
     "organization_type": "national_chain",
     "lat": 34.974236,
     "lng": 135.9333022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "セイハ英語学院 バロー茶が崎教室",
@@ -1142,7 +1355,12 @@
     "source_url": "https://english-academy.seiha.com/classroom/914995/",
     "organization_type": "national_chain",
     "lat": 35.003403279869794,
-    "lng": 135.86214041253703
+    "lng": 135.86214041253703,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "アルクKiddy CAT英語教室 大津膳所校",
@@ -1157,7 +1375,13 @@
     "organization_type": "regional_chain",
     "lat": 35.0022559,
     "lng": 135.8801673,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ペッピーキッズクラブ 大津中央教室",
@@ -1172,7 +1396,11 @@
     "organization_type": "national_chain",
     "lat": 34.9801057,
     "lng": 135.9314054,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ペッピーキッズクラブ 大津瀬田教室",
@@ -1187,7 +1415,11 @@
     "organization_type": "national_chain",
     "lat": 34.9801057,
     "lng": 135.9314054,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "キッズデュオ 膳所ときめき坂",
@@ -1208,7 +1440,14 @@
     "organization_type": "national_chain",
     "lat": 35.0029225,
     "lng": 135.880894,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "キッズデュオ 大津瀬田",
@@ -1229,7 +1468,14 @@
     "organization_type": "national_chain",
     "lat": 34.9940622,
     "lng": 135.9204789,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "こども英会話イーオンキッズ 瀬田校",
@@ -1255,7 +1501,14 @@
     "organization_type": "national_chain",
     "lat": 34.985272,
     "lng": 135.9266982,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ECCジュニア 神領教室",
@@ -1269,7 +1522,13 @@
     "source_url": "https://eccjuniorbs.jp/ht250271/",
     "organization_type": "national_chain",
     "lat": 35.00372987262264,
-    "lng": 135.87557315575745
+    "lng": 135.87557315575745,
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヤマハ英語教室 ミュージックセンター大津京",
@@ -1284,7 +1543,13 @@
     "organization_type": "national_chain",
     "lat": 35.0244384,
     "lng": 135.8578552,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヤマハ英語教室 JEUGIAアル・プラザ堅田センター",
@@ -1299,7 +1564,13 @@
     "organization_type": "national_chain",
     "lat": 35.1192398,
     "lng": 135.9156585,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "自立型個別指導サクラ塾",
@@ -1313,7 +1584,12 @@
     "source_url": "https://sucla-otsu.net/",
     "organization_type": "individual",
     "lat": 34.99536964044968,
-    "lng": 135.86940639206054
+    "lng": 135.86940639206054,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "サクラ塾 自立型個別指導 大津市役所前",
@@ -1327,7 +1603,12 @@
     "source_url": "https://www.sucla-otsu.com/",
     "organization_type": "individual",
     "lat": 34.999900919358446,
-    "lng": 135.87168848955653
+    "lng": 135.87168848955653,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "個別指導アップ学習会 プラコベ大津中央教室",
@@ -1342,7 +1623,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0066931,
     "lng": 135.8640718,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "自立学習塾RED 大津青山教室",
@@ -1436,7 +1722,13 @@
     "organization_type": "national_chain",
     "lat": 34.9932944,
     "lng": 135.9265532,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "個別指導塾サクラサクセス 大津おごと温泉駅前教室",
@@ -1451,7 +1743,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0980364,
     "lng": 135.8934,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "個別指導塾サクラサクセス 大津膳所駅前教室",
@@ -1466,7 +1763,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9984823,
     "lng": 135.8801028,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "明光義塾 堅田教室",
@@ -1487,7 +1789,14 @@
     "organization_type": "national_chain",
     "lat": 35.12025270000001,
     "lng": 135.9175022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "学研教室 石山駅前教室",
@@ -1502,7 +1811,12 @@
     "organization_type": "national_chain",
     "lat": 34.9792852,
     "lng": 135.8996068,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ナビ個別指導学院 堅田校",
@@ -1559,7 +1873,13 @@
     "organization_type": "regional_chain",
     "lat": 35.1199491,
     "lng": 135.915062,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ゴールフリー 大津中央教室",
@@ -1574,7 +1894,12 @@
     "organization_type": "regional_chain",
     "lat": 35.003408,
     "lng": 135.8632927,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "KEC近畿教育学院 大津京校",
@@ -1615,7 +1940,11 @@
     "organization_type": "individual",
     "lat": 35.1576743,
     "lng": 135.9170755,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ラプリマ音楽教室",
@@ -1636,7 +1965,13 @@
     "organization_type": "individual",
     "lat": 35.0724417,
     "lng": 135.8724679,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "五野ピアノ教室（大津教室）",
@@ -1667,7 +2002,14 @@
     "organization_type": "individual",
     "lat": 35.0131606,
     "lng": 135.8626088,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "いがたピアノ・リトミック教室",
@@ -1682,7 +2024,12 @@
     "organization_type": "individual",
     "lat": 35.14505219999999,
     "lng": 135.9093168,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "あいりすピアノ教室",
@@ -1697,7 +2044,11 @@
     "organization_type": "individual",
     "lat": 34.9746541,
     "lng": 135.9051573,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "古矢ピアノ教室",
@@ -1718,7 +2069,13 @@
     "organization_type": "individual",
     "lat": 34.985551,
     "lng": 135.8839515,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ポコアポコピアノ教室",
@@ -1733,7 +2090,12 @@
     "organization_type": "individual",
     "lat": 34.9940927,
     "lng": 135.8790474,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ピアノ教室 ゆめlabo",
@@ -1754,7 +2116,13 @@
     "organization_type": "individual",
     "lat": 34.9987717,
     "lng": 135.8689247,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "いのうえ音楽教室",
@@ -1769,7 +2137,13 @@
     "organization_type": "individual",
     "lat": 35.0950138,
     "lng": 135.9044581,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "サウンズクラブ音楽教室",
@@ -1795,7 +2169,13 @@
     "organization_type": "individual",
     "lat": 34.9891438,
     "lng": 135.8943396,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "大村夢ピアノ教室（大津京・唐崎教室）",
@@ -1810,7 +2190,12 @@
     "organization_type": "individual",
     "lat": 35.0178371,
     "lng": 135.8552084,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "monthly_fee_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "カワイ音楽教室 奏美ホール",
@@ -1831,7 +2216,14 @@
     "organization_type": "national_chain",
     "lat": 35.005869,
     "lng": 135.8618361,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "カワイ音楽教室 コジャック",
@@ -1846,7 +2238,13 @@
     "organization_type": "national_chain",
     "lat": 35.1166113,
     "lng": 135.9141289,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヤマハ音楽教室（JEUGIAミュージックセンター大津京）",
@@ -1872,7 +2270,13 @@
     "organization_type": "national_chain",
     "lat": 35.0245593,
     "lng": 135.8580176,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヤマハ音楽教室（JEUGIA 大津テラス）",
@@ -1887,7 +2291,11 @@
     "organization_type": "national_chain",
     "lat": 35.0043069,
     "lng": 135.879797,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "アットスクール膳所教室（プログラミング）",
@@ -1902,7 +2310,12 @@
     "organization_type": "individual",
     "lat": 35.0043069,
     "lng": 135.879797,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "どんぐりIT教室",
@@ -1968,7 +2381,14 @@
     "organization_type": "individual",
     "lat": 35.0054396,
     "lng": 135.8840565,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 大津京校（KEC近畿教育学院併設）",
@@ -1983,7 +2403,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0249388,
     "lng": 135.8596689,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 石山校（KEC近畿教育学院併設）",
@@ -1998,7 +2423,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9770749,
     "lng": 135.9018836,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 開成 石山教室",
@@ -2013,7 +2443,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9781183,
     "lng": 135.9007742,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 開成 膳所教室",
@@ -2028,7 +2463,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0035962,
     "lng": 135.878764,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 開成 瀬田教室",
@@ -2043,7 +2483,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9922237,
     "lng": 135.9270207,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プログラミング教育 HALLO Kids Duo 大津瀬田校",
@@ -2064,7 +2509,14 @@
     "organization_type": "national_chain",
     "lat": 34.9940622,
     "lng": 135.9204789,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プログラミング教育 HALLO Kids Duo 膳所ときめき坂校",
@@ -2085,7 +2537,14 @@
     "organization_type": "national_chain",
     "lat": 35.0029225,
     "lng": 135.880894,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プログラミング教育 HALLO ビバスポーツアカデミー 瀬田校",
@@ -2100,7 +2559,12 @@
     "organization_type": "national_chain",
     "lat": 34.9866441,
     "lng": 135.9296788,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヒューマンアカデミージュニア ロボット教室 大津京",
@@ -2115,7 +2579,13 @@
     "organization_type": "national_chain",
     "lat": 35.0216534,
     "lng": 135.8553335,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヒューマンアカデミージュニア 大津堅田教室",
@@ -2129,7 +2599,12 @@
     "source_url": "https://kids.athuman.com/search/detail/?store_id=3195",
     "organization_type": "national_chain",
     "lat": 35.01258694367453,
-    "lng": 135.86358988270604
+    "lng": 135.86358988270604,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "QUREOプログラミング教室 馬渕個別 石山校",
@@ -2154,7 +2629,14 @@
     "source_url": "https://qureo.jp/class/mabuchikobetsu_ishiyama",
     "organization_type": "national_chain",
     "lat": 35.0088962535271,
-    "lng": 135.8712138404657
+    "lng": 135.8712138404657,
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "QUREOプログラミング教室 アップ学習会 プラコベ 大津中央教室",
@@ -2169,7 +2651,12 @@
     "organization_type": "national_chain",
     "lat": 35.0066931,
     "lng": 135.8640718,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 西大津校（KEC近畿教育学院併設）",
@@ -2184,6 +2671,11 @@
     "organization_type": "regional_chain",
     "lat": 35.0249388,
     "lng": 135.8596689,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   }
 ]
