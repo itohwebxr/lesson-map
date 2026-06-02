@@ -29,6 +29,11 @@ export const mapInstance = {
     _onMoveEnd = cb
   },
   flyTo: (lat: number, lng: number, zoom = 15) => {
-    _map?.flyTo([lat, lng], zoom, { duration: 0.5 })
+    if (!_map) return
+    // アニメーションなしの setView で確実に移動させる
+    _map.setView([lat, lng], zoom)
+    // setView は同期的なので、直後に中心座標を取得できる
+    const c = _map.getCenter()
+    if (_onMoveEnd) _onMoveEnd(c.lat, c.lng, _map.getZoom())
   },
 }

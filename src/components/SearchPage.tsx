@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useEffect } from 'react'
 import type { Lesson, FilterState } from '@/types/lesson'
 import { filterLessons } from '@/lib/filterLessons'
 import { mapInstance } from '@/lib/mapInstance'
@@ -27,12 +27,12 @@ export default function SearchPage({ lessons }: Props) {
   const [debugInfo, setDebugInfo] = useState<string | null>(null)
   const [actualCenter, setActualCenter] = useState<string | null>(null)
 
-  // 地図がマウントされたら moveend イベントを登録
-  useState(() => {
+  // useEffect で正しくコールバックを登録
+  useEffect(() => {
     mapInstance.setMoveEndCallback((lat, lng, zoom) => {
       setActualCenter(`実際の移動先: lat=${lat.toFixed(5)}, lng=${lng.toFixed(5)}, zoom=${zoom}`)
     })
-  })
+  }, [])
 
   const filtered = filterLessons(lessons, filter)
   // 住所あり＆座標あり → 地図に表示
