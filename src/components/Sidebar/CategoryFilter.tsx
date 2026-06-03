@@ -59,13 +59,6 @@ export default function CategoryFilter({ selected, onChange }: Props) {
           カテゴリ
           <span className="text-gray-400 text-sm leading-none">{open ? '−' : '+'}</span>
         </button>
-        {open && (
-          <div className="flex gap-2 text-xs text-blue-500">
-            <button onClick={() => onChange(CATEGORIES)}>全選択</button>
-            <span className="text-gray-300">|</span>
-            <button onClick={() => onChange([])}>全解除</button>
-          </div>
-        )}
       </div>
       {open && (
         <>
