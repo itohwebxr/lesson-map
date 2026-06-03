@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { loadLessons } from '@/lib/loadLessons'
 import { withDataQuality } from '@/lib/dataQuality'
 import SearchPage from '@/components/SearchPage'
@@ -9,7 +10,8 @@ export default function Home() {
     <div className="flex flex-col h-screen">
       <header className="bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between shrink-0">
         <div className="flex items-center gap-2">
-          <span className="text-xl font-bold text-blue-600">🗺 LessonMap</span>
+          <Image src="/logo.png" alt="LessonMap" width={36} height={36} className="rounded-lg" />
+          <span className="text-xl font-bold text-blue-600">LessonMap</span>
           <span className="text-sm text-gray-500 hidden sm:inline">
             滋賀県の習い事を探す
           </span>

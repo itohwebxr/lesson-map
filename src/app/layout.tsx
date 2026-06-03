@@ -16,6 +16,9 @@ const SITE_URL = "https://www.lessonmap.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  icons: {
+    icon: "/favicon.ico",
+  },
   title: "大津市・草津市の習い事検索｜地図で探せるLessonMap",
   description:
     "大津市・草津市の習い事を地図で検索。サッカー、スイミング、英会話、ピアノ、ダンスなどの教室情報をまとめて掲載。曜日・時間・対象年齢で比較しながら探せます。",
