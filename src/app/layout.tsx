@@ -44,12 +44,21 @@ export const metadata: Metadata = {
     locale: "ja_JP",
     type: "website",
     url: SITE_URL,
+    images: [
+      {
+        url: `${SITE_URL}/ogp.png`,
+        width: 1200,
+        height: 630,
+        alt: "大津市・草津市の習い事検索｜LessonMap",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "大津市・草津市の習い事検索｜LessonMap",
     description:
       "地図から探せる習い事検索サービス。曜日・時間・対象年齢で比較できます。",
+    images: [`${SITE_URL}/ogp.png`],
   },
 };
 
