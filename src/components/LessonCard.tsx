@@ -1,7 +1,6 @@
 'use client'
 
 import type { Lesson } from '@/types/lesson'
-import DataQualityBadge from '@/components/DataQualityBadge'
 
 const CATEGORY_ICONS: Record<string, string> = {
   'サッカー': '⚽', 'スイミング': '🏊', 'ダンス': '💃', '体操': '🤸',
@@ -59,14 +58,13 @@ export default function LessonCard({ lesson, isActive, onClick }: Props) {
         </p>
       )}
 
-      <div className="flex items-center gap-1.5 mt-1">
-        {lesson.data_quality && <DataQualityBadge quality={lesson.data_quality} />}
-        {!hasLocation && (
+      {!hasLocation && (
+        <div className="mt-1">
           <span className="text-xs bg-gray-100 text-gray-400 px-1.5 py-0.5 rounded border border-gray-200">
             地図表示なし
           </span>
-        )}
-      </div>
+        </div>
+      )}
     </div>
   )
 }

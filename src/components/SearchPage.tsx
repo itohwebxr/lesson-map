@@ -169,10 +169,7 @@ export default function SearchPage({ lessons }: Props) {
                   <LessonCard
                     lesson={lesson}
                     isActive={activeLesson?.name === lesson.name}
-                    onClick={() => {
-                      handleSelectLesson(lesson)
-                      setModalLesson(lesson)
-                    }}
+                    onClick={() => handleSelectLesson(lesson)}
                   />
                 </div>
               ))}
