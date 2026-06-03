@@ -9,26 +9,54 @@ import type { Lesson } from '@/types/lesson'
 import type { NavTarget } from '@/components/SearchPage'
 import LessonMarker from './LessonMarker'
 
-function makeIcon(fill: string) {
+// カテゴリ → [絵文字, 背景色]
+const CATEGORY_STYLE: Record<string, [string, string]> = {
+  'サッカー':         ['⚽', '#16a34a'],
+  'スイミング':       ['🏊', '#0284c7'],
+  'ダンス':           ['💃', '#db2777'],
+  'バレエ':           ['🩰', '#9333ea'],
+  '体操':             ['🤸', '#ea580c'],
+  '新体操':           ['🎀', '#ec4899'],
+  'チアダンス':       ['📣', '#f59e0b'],
+  '英会話':           ['🌏', '#0891b2'],
+  '学習塾':           ['📚', '#4f46e5'],
+  'ピアノ':           ['🎹', '#7c3aed'],
+  'プログラミング':   ['💻', '#0f766e'],
+  '武道':             ['🥋', '#b45309'],
+  'テニス':           ['🎾', '#65a30d'],
+  'バスケットボール': ['🏀', '#c2410c'],
+  '野球':             ['⚾', '#1d4ed8'],
+  '習字':             ['🖌️', '#6b7280'],
+  'そろばん':         ['🧮', '#92400e'],
+  '幼児教室':         ['🧸', '#be185d'],
+}
+
+const DEFAULT_STYLE: [string, string] = ['📍', '#6b7280']
+
+function makeCategoryIcon(category: string, isActive: boolean) {
+  const [emoji, color] = CATEGORY_STYLE[category] ?? DEFAULT_STYLE
+  const bg = isActive ? '#f97316' : color
+  const size = isActive ? 36 : 30
+  const html = `
+    <div style="
+      width:${size}px; height:${size}px;
+      background:${bg};
+      border-radius:50% 50% 50% 0;
+      transform:rotate(-45deg);
+      border:2px solid white;
+      box-shadow:0 2px 6px rgba(0,0,0,0.35);
+      display:flex; align-items:center; justify-content:center;
+    ">
+      <span style="transform:rotate(45deg); font-size:${isActive ? 17 : 14}px; line-height:1;">${emoji}</span>
+    </div>`
   return L.divIcon({
-    html: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 41" width="25" height="41">
-      <path d="M12.5 0C5.6 0 0 5.6 0 12.5c0 9.4 12.5 28.5 12.5 28.5S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0z" fill="${fill}"/>
-      <circle cx="12.5" cy="12.5" r="5" fill="white"/>
-    </svg>`,
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
+    html,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size],
+    popupAnchor: [0, -(size + 4)],
     className: '',
   })
 }
-
-const qualityIcons = {
-  high:   makeIcon('#22c55e'),
-  medium: makeIcon('#eab308'),
-  low:    makeIcon('#9ca3af'),
-}
-
-const activeIcon = makeIcon('#f97316')
 
 type Props = {
   lessons: Lesson[]
@@ -71,12 +99,11 @@ export default function MapView({ lessons, activeLesson, navTarget, onSelectLess
       />
       {lessons.filter((l) => l.lat != null && l.lng != null).map((lesson) => {
         const isActive = activeLesson?.name === lesson.name
-        const qualityIcon = qualityIcons[lesson.data_quality ?? 'low']
         return (
           <LessonMarker
             key={lesson.name}
             lesson={lesson}
-            icon={isActive ? activeIcon : qualityIcon}
+            icon={makeCategoryIcon(lesson.category, isActive)}
             isActive={isActive}
             onSelect={onSelectLesson ?? (() => {})}
             markerRef={(m) => {
