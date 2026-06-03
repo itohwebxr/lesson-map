@@ -34,6 +34,7 @@ type Props = {
 
 export default function CategoryFilter({ selected, onChange }: Props) {
   const [expanded, setExpanded] = useState(false)
+  const [open, setOpen] = useState(true)
 
   function toggle(cat: string) {
     const next = selected.includes(cat)
@@ -50,43 +51,42 @@ export default function CategoryFilter({ selected, onChange }: Props) {
 
   return (
     <div>
-      <div className="flex items-center justify-between mb-2">
-        <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">カテゴリ</span>
-        <div className="flex gap-2 text-xs text-blue-500">
-          <button onClick={() => onChange(CATEGORIES)}>全選択</button>
-          <span className="text-gray-300">|</span>
-          <button onClick={() => onChange([])}>全解除</button>
-        </div>
-      </div>
-      <div className="grid grid-cols-2 gap-1">
-        {visible.map((cat) => {
-          const active = selected.includes(cat)
-          return (
-            <button
-              key={cat}
-              onClick={() => toggle(cat)}
-              className={`flex items-center gap-1.5 px-2 py-1.5 rounded text-xs font-medium border transition-colors ${
-                active
-                  ? 'bg-blue-50 border-blue-300 text-blue-700'
-                  : 'bg-white border-gray-200 text-gray-500 hover:border-gray-300'
-              }`}
-            >
-              <span>{CATEGORY_ICONS[cat] ?? '📍'}</span>
-              <span>{cat}</span>
-            </button>
-          )
-        })}
-      </div>
       <button
-        onClick={() => setExpanded((v) => !v)}
-        className="mt-1.5 w-full text-xs text-gray-400 hover:text-gray-600 flex items-center justify-center gap-1"
+        onClick={() => setOpen((v) => !v)}
+        className="flex items-center justify-between w-full text-xs font-semibold text-gray-500 uppercase tracking-wide"
       >
-        {expanded ? (
-          <>▲ 閉じる</>
-        ) : (
-          <>▼ さらに{hiddenCount}件を表示</>
-        )}
+        カテゴリ
+        <span className="text-gray-400 text-sm leading-none">{open ? '−' : '+'}</span>
       </button>
+      {open && (
+        <>
+          <div className="grid grid-cols-2 gap-1 mt-2">
+            {visible.map((cat) => {
+              const active = selected.includes(cat)
+              return (
+                <button
+                  key={cat}
+                  onClick={() => toggle(cat)}
+                  className={`flex items-center gap-1.5 px-2 py-1.5 rounded text-xs font-medium border transition-colors ${
+                    active
+                      ? 'bg-blue-50 border-blue-300 text-blue-700'
+                      : 'bg-white border-gray-200 text-gray-500 hover:border-gray-300'
+                  }`}
+                >
+                  <span>{CATEGORY_ICONS[cat] ?? '📍'}</span>
+                  <span>{cat}</span>
+                </button>
+              )
+            })}
+          </div>
+          <button
+            onClick={() => setExpanded((v) => !v)}
+            className="mt-1.5 w-full text-xs text-gray-400 hover:text-gray-600 flex items-center justify-center gap-1"
+          >
+            {expanded ? <>▲ 閉じる</> : <>▼ さらに{hiddenCount}件を表示</>}
+          </button>
+        </>
+      )}
     </div>
   )
 }

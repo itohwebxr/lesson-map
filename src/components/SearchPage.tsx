@@ -125,33 +125,43 @@ export default function SearchPage({ lessons }: Props) {
         >
           <div className="flex flex-col flex-1 min-h-0 overflow-hidden">
             {/* フィルタパネル */}
-            <div className="p-3 border-b border-gray-200 space-y-4 shrink-0 overflow-y-auto max-h-[55vh] sm:max-h-none">
-              <CategoryFilter
-                selected={filter.categories}
-                onChange={(v) => updateFilter('categories', v)}
-              />
-              <AgeFilter
-                selected={filter.targetAge}
-                onChange={(v) => updateFilter('targetAge', v)}
-              />
-              <WeekdayFilter
-                selected={filter.weekdays}
-                onChange={(v) => updateFilter('weekdays', v)}
-              />
-              <TimeFilter
-                timeStart={filter.timeStart}
-                timeEnd={filter.timeEnd}
-                onChange={(start, end) => {
-                  setFilter((prev) => ({ ...prev, timeStart: start, timeEnd: end }))
-                }}
-              />
+            <div className="border-b border-gray-200 shrink-0 divide-y divide-gray-200">
+              <div className="p-3">
+                <CategoryFilter
+                  selected={filter.categories}
+                  onChange={(v) => updateFilter('categories', v)}
+                />
+              </div>
+              <div className="p-3">
+                <AgeFilter
+                  selected={filter.targetAge}
+                  onChange={(v) => updateFilter('targetAge', v)}
+                />
+              </div>
+              <div className="p-3">
+                <WeekdayFilter
+                  selected={filter.weekdays}
+                  onChange={(v) => updateFilter('weekdays', v)}
+                />
+              </div>
+              <div className="p-3">
+                <TimeFilter
+                  timeStart={filter.timeStart}
+                  timeEnd={filter.timeEnd}
+                  onChange={(start, end) => {
+                    setFilter((prev) => ({ ...prev, timeStart: start, timeEnd: end }))
+                  }}
+                />
+              </div>
               {isFiltered && (
-                <button
-                  onClick={resetFilter}
-                  className="w-full text-xs text-gray-500 hover:text-gray-700 underline text-center"
-                >
-                  🔄 フィルターをリセット
-                </button>
+                <div className="p-3">
+                  <button
+                    onClick={resetFilter}
+                    className="w-full text-xs text-gray-500 hover:text-gray-700 underline text-center"
+                  >
+                    🔄 フィルターをリセット
+                  </button>
+                </div>
               )}
             </div>
 
