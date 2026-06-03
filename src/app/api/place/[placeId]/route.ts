@@ -14,32 +14,34 @@ interface PlaceDetailsResponse {
   }
 }
 
-// Place Details を 24h キャッシュ
-const fetchPlaceDetails = unstable_cache(
-  async (placeId: string): Promise<PlaceRating> => {
-    const key = process.env.GOOGLE_MAPS_API_KEY
-    if (!key) return { rating: null, user_ratings_total: null }
+// Place Details を 24h キャッシュ（Place ID ごとに個別キャッシュ）
+function fetchPlaceDetails(placeId: string): Promise<PlaceRating> {
+  return unstable_cache(
+    async (): Promise<PlaceRating> => {
+      const key = process.env.GOOGLE_MAPS_API_KEY
+      if (!key) return { rating: null, user_ratings_total: null }
 
-    const url =
-      `https://maps.googleapis.com/maps/api/place/details/json` +
-      `?place_id=${placeId}&fields=rating,user_ratings_total&language=ja&key=${key}`
+      const url =
+        `https://maps.googleapis.com/maps/api/place/details/json` +
+        `?place_id=${placeId}&fields=rating,user_ratings_total&language=ja&key=${key}`
 
-    const res = await fetch(url)
-    if (!res.ok) return { rating: null, user_ratings_total: null }
+      const res = await fetch(url)
+      if (!res.ok) return { rating: null, user_ratings_total: null }
 
-    const json = (await res.json()) as PlaceDetailsResponse
-    if (json.status !== 'OK' || !json.result) {
-      return { rating: null, user_ratings_total: null }
-    }
+      const json = (await res.json()) as PlaceDetailsResponse
+      if (json.status !== 'OK' || !json.result) {
+        return { rating: null, user_ratings_total: null }
+      }
 
-    return {
-      rating: json.result.rating ?? null,
-      user_ratings_total: json.result.user_ratings_total ?? null,
-    }
-  },
-  ['google-place-details'],
-  { revalidate: 60 * 60 * 24 } // 24 hours
-)
+      return {
+        rating: json.result.rating ?? null,
+        user_ratings_total: json.result.user_ratings_total ?? null,
+      }
+    },
+    [`google-place-details-${placeId}`],  // Place ID ごとに一意なキー
+    { revalidate: 60 * 60 * 24 }
+  )()
+}
 
 export async function GET(
   _req: Request,
