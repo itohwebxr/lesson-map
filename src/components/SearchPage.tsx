@@ -74,13 +74,16 @@ export default function SearchPage({ lessons }: Props) {
     }, 100)
   }, [])
 
-  // マーカークリック時: カードハイライト＋スクロール（モバイルはサイドバーも開く）
+  // マーカークリック時: カードハイライト（モバイルはサイドバーを開かない）
   const handleMarkerClick = useCallback((lesson: Lesson) => {
     setActiveLesson(lesson)
-    setSidebarOpen(true)
-    setTimeout(() => {
-      cardRefs.current[lesson.name]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
-    }, 200)
+    const isMobile = window.innerWidth < 640
+    if (!isMobile) {
+      setSidebarOpen(true)
+      setTimeout(() => {
+        cardRefs.current[lesson.name]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+      }, 200)
+    }
   }, [])
 
   const resetFilter = () => {
@@ -102,7 +105,7 @@ export default function SearchPage({ lessons }: Props) {
         {/* モバイル用オーバーレイ（サイドバー表示中に地図側をタップで閉じる） */}
         {sidebarOpen && (
           <div
-            className="sm:hidden absolute inset-0 z-[900] bg-black/20"
+            className="sm:hidden absolute inset-0 z-[1050] bg-black/20"
             onClick={() => setSidebarOpen(false)}
           />
         )}
@@ -111,7 +114,7 @@ export default function SearchPage({ lessons }: Props) {
           className={`
             flex flex-col bg-gray-50 border-r border-gray-200 transition-all duration-200 overflow-hidden
             sm:relative sm:z-auto
-            absolute z-[950] top-0 bottom-0 left-0
+            absolute z-[1100] top-0 bottom-0 left-0
             ${sidebarOpen ? 'w-72 min-w-[18rem]' : 'w-0'}
           `}
         >
@@ -160,7 +163,7 @@ export default function SearchPage({ lessons }: Props) {
             </div>
 
             {/* カードリスト */}
-            <div className="flex-1 overflow-y-auto p-2 space-y-1.5">
+            <div className="flex-1 overflow-y-auto overscroll-contain p-2 space-y-1.5">
               {mappable.map((lesson) => (
                 <div
                   key={lesson.name}
