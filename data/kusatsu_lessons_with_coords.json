@@ -22,7 +22,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "レイラック滋賀FCサッカースクール",
@@ -47,7 +48,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0115572,
     "lng": 135.9401086,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール 老上",
@@ -73,7 +75,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.004185,
     "lng": 135.9364642,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール 草津",
@@ -98,7 +101,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール 笠縫",
@@ -123,7 +127,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "ロベッシャータサッカークラブ（草津校）",
@@ -148,7 +153,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "キッズ・ガールズサッカー教室（草津市スポーツ協会）",
@@ -173,7 +179,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0311984,
     "lng": 135.9363565,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "Banboo Shoot FC（バンブーシュート）",
@@ -198,7 +205,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "草津イトマンフィットネスクラブ（スイミング）",
@@ -223,7 +231,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0276502,
     "lng": 135.9648875,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJzTq6njlyAWARrUEL7OEOv74"
   },
   {
     "name": "グンゼスポーツ南草津レイクブルー（スイミングスクール）",
@@ -248,7 +257,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0039491,
     "lng": 135.9433894,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ-_mY82JyAWARB9NPiTwerLk"
   },
   {
     "name": "ビバスポーツアカデミー南草津（スイミング）",
@@ -273,7 +283,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0029909,
     "lng": 135.9477654,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJRUoVlpZzAWAR0JIzjDpFBxc"
   },
   {
     "name": "インフロニア草津アクアティクスセンター（スイミング）",
@@ -298,7 +309,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0224999,
     "lng": 135.9557027,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJMaBuQgBzAWARzACuoMsnCyQ"
   },
   {
     "name": "セイハダンスアカデミー イオンモール草津",
@@ -329,7 +341,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9980046,
     "lng": 135.9123457,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJc1qZHmdzAWAR6bn6MBoYbvY"
   },
   {
     "name": "B-TRIBE（ビートライブ）南草津校",
@@ -354,7 +367,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0029909,
     "lng": 135.9477654,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJG-q1LJBzAWAR0snMOe0FeQY"
   },
   {
     "name": "Studio Olive（スタジオオリーブ）草津",
@@ -379,7 +393,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "SLASH DANCE STUDIO 草津校",
@@ -404,7 +419,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0183293,
     "lng": 135.9621854,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "エイベックス・ダンスマスター 草津（ゴールドジム草津滋賀）",
@@ -434,7 +450,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.023883,
     "lng": 135.9588056,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJm89WEFhzAWARurNsvJqOUGI"
   },
   {
     "name": "プリーチェキッズダンス教室（草津市）",
@@ -459,7 +476,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "大伴ちなみバレエ教室",
@@ -484,7 +502,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0011177,
     "lng": 135.9566447,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJJ5RY0XVyAWARYSO-7lNQ8cU"
   },
   {
     "name": "下田春美バレエ教室",
@@ -509,7 +528,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0195353,
     "lng": 135.9627169,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJrx8LYxVyAWARAsimztSFl5Y"
   },
   {
     "name": "Belle Ballet Studio（ベルバレエスタジオ）草津芦浦",
@@ -534,7 +554,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0595687,
     "lng": 135.9528681,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJQf0i9F9zAWAR5yJfSroWqZc"
   },
   {
     "name": "清香Ballet Art",
@@ -559,7 +580,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": "ChIJpQDZnD5zAWARGpQsZxR6VbE"
   },
   {
     "name": "NOVAバイリンガルKIDS 草津校",
@@ -584,7 +606,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0210135,
     "lng": 135.9619534,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "ECCキッズ 草津エイスクエア校",
@@ -609,7 +632,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0242045,
     "lng": 135.960682,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "アミティー 草津校",
@@ -634,7 +658,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0268395,
     "lng": 135.9533771,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJYwpCUk5yAWAR5RgwWKfTnlM"
   },
   {
     "name": "セイハ英語学院 イオンモール草津教室",
@@ -659,7 +684,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9980046,
     "lng": 135.9123457,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJTWdaRLZzAWAR-yFkMXDH5hQ"
   },
   {
     "name": "ペッピーキッズクラブ 南草津教室",
@@ -684,7 +710,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0012087,
     "lng": 135.9495355,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ37pKLXpyAWARb0QSMD81rvQ"
   },
   {
     "name": "ペッピーキッズクラブ アル・プラザ草津教室",
@@ -709,7 +736,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0255006,
     "lng": 135.9585163,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJN6KLdk5yAWARPFhFZEFk5pg"
   },
   {
     "name": "Kids Duo（キッズデュオ）南草津",
@@ -734,7 +762,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9981586,
     "lng": 135.9580702,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "google_place_id": "ChIJ3Zh9tNxtAWARJY6ARQiHP5E"
   },
   {
     "name": "ECCジュニア 老上教室",
@@ -759,7 +788,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "カワイ音楽教室 草津センター",
@@ -784,7 +814,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0212454,
     "lng": 135.9614881,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJb98Pgz9yAWARXrHq3CuPzUg"
   },
   {
     "name": "ヤマハ音楽教室 JEUGIA草津A・SQUAREミュージックサロン",
@@ -809,7 +840,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.024238,
     "lng": 135.9597075,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ96IXgzhyAWARfqzz2p8bOxs"
   },
   {
     "name": "ヤマハ音楽教室 JEUGIA若草教室",
@@ -834,7 +866,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.986277,
     "lng": 135.9704522,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ__-voedtAWARNDRcU2l76WE"
   },
   {
     "name": "松尾ピアノ教室",
@@ -868,7 +901,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9913247,
     "lng": 135.9663837,
-    "geocode_accuracy": "GEOMETRIC_CENTER"
+    "geocode_accuracy": "GEOMETRIC_CENTER",
+    "google_place_id": null
   },
   {
     "name": "じんないピアノ教室",
@@ -893,7 +927,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9991651,
     "lng": 135.9508935,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJJxnnc35zAWARW-YK1zkB0dg"
   },
   {
     "name": "CodeCampKIDS SORA草津教室",
@@ -918,7 +953,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0183138,
     "lng": 135.9693354,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ65dBdgBzAWARtik0oG6tuE8"
   },
   {
     "name": "ミラポ（ENSO KIDS LABORATORY）",
@@ -943,7 +979,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0209503,
     "lng": 135.9678546,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ6SsmFUlzAWARORjgYRImTAk"
   },
   {
     "name": "草津GUTS体操スクール",
@@ -968,7 +1005,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0289347,
     "lng": 135.9606232,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJS9tXIkhyAWARQHda4demhOU"
   },
   {
     "name": "ネイス体操教室 イオンモール草津校",
@@ -993,7 +1031,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9980046,
     "lng": 135.9123457,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ_YavGYVzAWAR9TO4vf548jE"
   },
   {
     "name": "ファイブM 南草津校（こども器械体操）",
@@ -1018,7 +1057,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0027016,
     "lng": 135.9489252,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ-YQCz5RzAWARg7a3Db0hceQ"
   },
   {
     "name": "JPCスポーツ教室草津店",
@@ -1043,7 +1083,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.005458,
     "lng": 135.944744,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJF1rrewJzAWAR7TkVwv2h3-4"
   },
   {
     "name": "公文式 草津駅前東教室",
@@ -1075,7 +1116,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0194108,
     "lng": 135.9628181,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJv3u4putzAWARd4HRIikPLRg"
   },
   {
     "name": "公文式 草津若竹教室",
@@ -1100,7 +1142,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0220968,
     "lng": 135.9660595,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJZQNk4T1yAWARW1da6XoB2mk"
   },
   {
     "name": "公文式 矢倉教室",
@@ -1125,7 +1168,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.009723,
     "lng": 135.9524713,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJzWY7lRNzAWARp45q8tAs7ko"
   },
   {
     "name": "公文式 草津野村教室",
@@ -1155,7 +1199,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.029877,
     "lng": 135.9549128,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJibJGGk9yAWARbcbhgbvdCg4"
   },
   {
     "name": "公文式 草津南笠東教室",
@@ -1180,7 +1225,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9891379,
     "lng": 135.9461149,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJx9XWIf1tAWARUF-rqIv4HJY"
   },
   {
     "name": "公文式 東矢倉教室",
@@ -1205,7 +1251,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0056412,
     "lng": 135.957921,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJWak97mNzAWARIcR751gN2Lw"
   },
   {
     "name": "公文式 JR南草津駅西口教室",
@@ -1230,7 +1277,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.003019,
     "lng": 135.9453827,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJVVXFNGNyAWARlFZU7vwZukU"
   },
   {
     "name": "公文式 草津上笠教室",
@@ -1255,7 +1303,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0299303,
     "lng": 135.9482088,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJB__cEXxzAWARf7UA5HOapQw"
   },
   {
     "name": "成基の個別教育ゴールフリー 草津教室",
@@ -1280,7 +1329,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0203373,
     "lng": 135.9624516,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "成基の個別教育ゴールフリー 南草津教室",
@@ -1311,7 +1361,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0033981,
     "lng": 135.944761,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "個別指導の明光義塾 草津教室",
@@ -1336,7 +1387,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0230281,
     "lng": 135.9603414,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJVX-vOwVzAWAROJuYWBTw7sQ"
   },
   {
     "name": "個別指導の明光義塾 南草津教室",
@@ -1361,7 +1413,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0040323,
     "lng": 135.9503893,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJa4YvlXpyAWARail2toGWjoc"
   },
   {
     "name": "馬渕教室 草津本部校（高校受験コース）",
@@ -1386,7 +1439,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0225289,
     "lng": 135.9629753,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJF83UHD9yAWARqVoMGb9RVw8"
   },
   {
     "name": "馬渕教室 南草津校（高校受験コース）",
@@ -1411,7 +1465,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0029909,
     "lng": 135.9477654,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJD0nJQXtyAWAR4muCdHVf_tc"
   },
   {
     "name": "馬渕個別 南草津校",
@@ -1436,7 +1491,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0029909,
     "lng": 135.9477654,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJBeoW9bNzAWAR2RkVak5xQ8Q"
   },
   {
     "name": "個別指導学院フリーステップ 草津駅前教室",
@@ -1461,7 +1517,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0234736,
     "lng": 135.9607094,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJj3GcrUByAWARpTsVlWVNiYc"
   },
   {
     "name": "個別指導学院フリーステップ 南草津教室",
@@ -1486,7 +1543,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.00268,
     "lng": 135.9447064,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJsTdWqnxyAWARN8GnuHktsXM"
   },
   {
     "name": "個別指導キャンパス 草津校",
@@ -1511,7 +1569,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0220968,
     "lng": 135.9660595,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJLQhWQT5yAWARKGOkvtI3JKc"
   },
   {
     "name": "個別指導キャンパス 草津西校",
@@ -1536,7 +1595,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0269473,
     "lng": 135.9531996,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJYUdTTk5yAWARq0kbMV9eS8A"
   },
   {
     "name": "個別指導キャンパス 南草津校",
@@ -1561,7 +1621,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0034685,
     "lng": 135.948409,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJaQH1NHtyAWARE-LYXqwaZPc"
   },
   {
     "name": "日本空手協会 びわ湖草津支部「湖空道場」",
@@ -1586,7 +1647,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "正剛館 湖東草津道場",
@@ -1610,7 +1672,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0027173,
     "lng": 135.9405177,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "草津下笠道場（国際空手道連盟極真会館）",
@@ -1635,7 +1698,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "こども合気道教室（JEUGIAカルチャーセンター くさつ平和堂）",
@@ -1659,7 +1723,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0211651,
     "lng": 135.9624766,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJAzyKuz9yAWARfSIzK176pbs"
   },
   {
     "name": "合気道錬身会滋賀道場",
@@ -1689,7 +1754,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "合気道滋賀 草津道場",
@@ -1716,7 +1782,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "世界に広がるこども空手道教室（JEUGIAカルチャーセンター くさつ平和堂）",
@@ -1742,7 +1809,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0211651,
     "lng": 135.9624766,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJAzyKuz9yAWARfSIzK176pbs"
   },
   {
     "name": "草津柔道協会",
@@ -1771,7 +1839,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "草津尚武館（剣道）",
@@ -1796,7 +1865,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "老上少年野球スポーツ少年団",
@@ -1821,7 +1891,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "テニスアカデミー クレセント草津校",
@@ -1845,7 +1916,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0148792,
     "lng": 135.9626957,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJCzxWZBNyAWARVY9Uo3lo0vA"
   },
   {
     "name": "テニスアカデミー クレセント草津駅前校",
@@ -1869,7 +1941,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0200099,
     "lng": 135.9643071,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJq6p6jhVyAWARnCci1ksnUrQ"
   },
   {
     "name": "ミナミ草津テニスガーデン クレセント",
@@ -1893,7 +1966,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0045078,
     "lng": 135.9570743,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJR5vX-XNyAWAR1b2XUJyddwI"
   },
   {
     "name": "ARROWS TENNIS SCHOOL（アローズテニススクール）草津校",
@@ -1918,7 +1992,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9942572,
     "lng": 135.9768711,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJc7DObuFtAWARgEi8pnL-y4k"
   },
   {
     "name": "滋賀レイクスアカデミー バスケスクール 草津校",
@@ -1949,7 +2024,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "レインボーミニバスケットボールクラブ",
@@ -1974,7 +2050,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "草津書道教室",
@@ -1999,7 +2076,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "公文書写 南草津駅前教室",
@@ -2024,7 +2102,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.003019,
     "lng": 135.9453827,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "永野珠算塾 草津教室",
@@ -2053,7 +2132,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0127485,
     "lng": 135.9575174,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJy_JGv5FzAWARsi0eICOvfVc"
   },
   {
     "name": "永野珠算塾 東草津教室",
@@ -2084,7 +2164,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0154586,
     "lng": 135.9688624,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJy_JGv5FzAWARsi0eICOvfVc"
   },
   {
     "name": "中村珠算塾",
@@ -2114,7 +2195,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0256312,
     "lng": 135.9649687,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "中野珠算塾（野路・青地）",
@@ -2138,7 +2220,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 34.9982086,
     "lng": 135.95265,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJKw0h6ndyAWAR2E_0rndWj3s"
   },
   {
     "name": "穴村公民館そろばん教室",
@@ -2163,7 +2246,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0480896,
     "lng": 135.9493448,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "EQWELチャイルドアカデミー 草津エストピア教室",
@@ -2188,7 +2272,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "EQWELチャイルドアカデミー 草津ペリーテ教室",
@@ -2213,7 +2298,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0221181,
     "lng": 135.9592441,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "チャイルド・アイズ 南草津校",
@@ -2238,7 +2324,8 @@
     "last_verified_at": "2026-06-03",
     "lat": 35.0027948,
     "lng": 135.9474043,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJf7TVapNzAWARQu9YsdMzBoo"
   },
   {
     "name": "ベビーパーク 草津教室",
@@ -2263,7 +2350,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "滋賀レイクスアカデミー チアスクール 草津校",
@@ -2288,7 +2376,8 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "プリーチェキッズダンス教室（草津会場）",
@@ -2313,6 +2402,7 @@
     "last_verified_at": "2026-06-03",
     "lat": null,
     "lng": null,
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   }
 ]

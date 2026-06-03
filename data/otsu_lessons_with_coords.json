@@ -28,7 +28,8 @@
     "organization_type": "regional_chain",
     "lat": 34.984729,
     "lng": 135.9344064,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "ロベッシャータサッカークラブ 青山スクール",
@@ -54,7 +55,8 @@
     "organization_type": "regional_chain",
     "lat": 34.9786639,
     "lng": 135.9684813,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "google_place_id": null
   },
   {
     "name": "ロベッシャータサッカークラブ 唐橋スクール",
@@ -80,7 +82,8 @@
     "organization_type": "regional_chain",
     "lat": 34.9768173,
     "lng": 135.9099111,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール 瀬田",
@@ -111,7 +114,8 @@
     "organization_type": "national_chain",
     "lat": 34.9816399,
     "lng": 135.9211425,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール 南郷",
@@ -137,7 +141,8 @@
     "organization_type": "national_chain",
     "lat": 34.940588,
     "lng": 135.906933,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール 茶臼山",
@@ -163,7 +168,8 @@
     "organization_type": "national_chain",
     "lat": 34.979331,
     "lng": 135.88253,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール 青山中央",
@@ -184,7 +190,8 @@
     "organization_type": "national_chain",
     "lat": 34.9786839,
     "lng": 135.9678704,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール 仰木の里東",
@@ -215,7 +222,8 @@
     "organization_type": "national_chain",
     "lat": 35.1092435,
     "lng": 135.9003785,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール におの浜",
@@ -256,7 +264,8 @@
     "organization_type": "national_chain",
     "lat": 34.9989724,
     "lng": 135.8892287,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "リベルタサッカースクール ブランチ大津京（月）",
@@ -282,7 +291,8 @@
     "organization_type": "national_chain",
     "lat": 35.029861,
     "lng": 135.8639169,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJSxVeeKcLAWARA8uBeHKh1YU"
   },
   {
     "name": "リベルタサッカースクール ブランチ大津京（木）",
@@ -303,7 +313,8 @@
     "organization_type": "national_chain",
     "lat": 35.029861,
     "lng": 135.8639169,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJSxVeeKcLAWARA8uBeHKh1YU"
   },
   {
     "name": "エフォートフットボールクラブ（MINOBE FOOTBALL ACADEMY）",
@@ -335,7 +346,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "滋賀レイクセレソン セレスク キッズU-6",
@@ -378,7 +390,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJuc7tCqENAWARamLlxnetUIE"
   },
   {
     "name": "滋賀レイクセレソン セレスク ジュニアU-12",
@@ -426,7 +439,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJuc7tCqENAWARamLlxnetUIE"
   },
   {
     "name": "サカスク滋賀 大津校",
@@ -462,7 +476,8 @@
     "organization_type": "regional_chain",
     "lat": 35.0189926,
     "lng": 135.856854,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "打出FC",
@@ -481,7 +496,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "晴嵐スポーツ少年団サッカー部",
@@ -509,7 +525,8 @@
     "lng": 135.8977032,
     "geocode_accuracy": "ROOFTOP",
     "data_sources": [],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "里東FC",
@@ -542,7 +559,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "SHIGA CITY サッカースクール",
@@ -563,7 +581,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJSxVeeKcLAWARA8uBeHKh1YU"
   },
   {
     "name": "レイラック滋賀FC サッカースクール 大津校",
@@ -583,7 +602,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "FC.SETA 2002 SHIGA ジュニア",
@@ -603,7 +623,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "びわこスポーツクラブ サッカースクール",
@@ -622,7 +643,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "大津イトマンスポーツクラブ",
@@ -648,7 +670,8 @@
     "organization_type": "regional_chain",
     "lat": 35.0059725,
     "lng": 135.8766746,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJu6CKFeUMAWARGMAV5TavOa8"
   },
   {
     "name": "スポーツクラブ コジャック",
@@ -669,7 +692,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJvzhEbVp1AWARYo7Mv-f9vjk"
   },
   {
     "name": "大津市富士見市民温水プール（スポック富士見） キッズスイミング",
@@ -700,7 +724,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJP9pTgmsNAWAR3EkswWgC8VE"
   },
   {
     "name": "皇子が丘公園プール キッズスイミング",
@@ -734,7 +759,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJrcaR_IkLAWARGb45AwhnzbU"
   },
   {
     "name": "ニスポ・スイムクラブ 西大津",
@@ -754,7 +780,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ1bUKJH8MAWARzQNIu5iHbQw"
   },
   {
     "name": "ビバスポーツアカデミー瀬田 びばっこスイミング",
@@ -774,7 +801,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJC6XSe2JtAWARsv1pETB5Kiw"
   },
   {
     "name": "DDPダンススクール（本堅田校）",
@@ -806,7 +834,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJDx1VUNd1AWARuz5mEn7LgTE"
   },
   {
     "name": "セイハダンスアカデミー フォレオ大津一里山校",
@@ -853,7 +882,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJPd2DEnJtAWAR9CpvvYXpBAQ"
   },
   {
     "name": "スポーツクラブNAS大津一里山（エイベックス・ダンスマスター）",
@@ -872,7 +902,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJWQcaEnJtAWARmh7kge1weRg"
   },
   {
     "name": "リディアダンスアカデミー 津藤方校",
@@ -892,7 +923,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "JEUGIAミュージックセンター大津京（ダンス）",
@@ -911,7 +943,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJQ7CQ-3gMAWARzJjhKL-etvI"
   },
   {
     "name": "びわこクリーンJr体操クラブ 下阪本本校",
@@ -932,7 +965,8 @@
     "organization_type": "individual",
     "lat": 35.05595,
     "lng": 135.8737142,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJezpraA4LAWAR71qrPKONcmM"
   },
   {
     "name": "びわこクリーンJr体操クラブ 瀬田教室",
@@ -953,7 +987,8 @@
     "organization_type": "individual",
     "lat": 34.9724536,
     "lng": 135.9371488,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJezpraA4LAWAR71qrPKONcmM"
   },
   {
     "name": "アスリートスポーツクラブ 明日都体操クラブ（月曜）",
@@ -974,7 +1009,8 @@
     "organization_type": "individual",
     "lat": 35.012266,
     "lng": 135.8628392,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "アスリートスポーツクラブ 皇子が丘体操クラブ（火曜）",
@@ -995,7 +1031,8 @@
     "organization_type": "individual",
     "lat": 35.0224788,
     "lng": 135.8568472,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJL8mU13cMAWAR8a-XtI_sd2w"
   },
   {
     "name": "アスリートスポーツクラブ 瀬田公園体操クラブ（水曜）",
@@ -1030,7 +1067,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJSWj3PXRtAWARsHNGV3VDOMY"
   },
   {
     "name": "アスリートスポーツクラブ 勤労センター体操クラブ（木曜）",
@@ -1051,7 +1089,8 @@
     "organization_type": "individual",
     "lat": 35.0068196,
     "lng": 135.8752424,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "アスリートスポーツクラブ 石山体操クラブ（土曜）",
@@ -1078,7 +1117,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "サトウスポーツスクール",
@@ -1097,7 +1137,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "四幸スポーツクラブ 体操教室（大津・瀬田エリア）",
@@ -1126,7 +1167,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ36gF23xtAWARBn3HgrcqcSE"
   },
   {
     "name": "大津イトマンスポーツクラブ 体操キッズクラス",
@@ -1147,7 +1189,8 @@
     "organization_type": "regional_chain",
     "lat": 35.0059725,
     "lng": 135.8766746,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJu6CKFeUMAWARGMAV5TavOa8"
   },
   {
     "name": "スポーツクラブNAS大津一里山 キッズスクール（体操）",
@@ -1166,7 +1209,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJWQcaEnJtAWARmh7kge1weRg"
   },
   {
     "name": "biima sports 大津校",
@@ -1199,7 +1243,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "マジョリティ新体操クラブ",
@@ -1218,7 +1263,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "ボブロペス英会話教室",
@@ -1238,7 +1284,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJa-C2emEMAWARwn3QK_DPqAk"
   },
   {
     "name": "Lakeside英会話（レイクサイド英会話）",
@@ -1258,7 +1305,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ64oVtz-ZAWARZeA-8O7tyHU"
   },
   {
     "name": "SONIC ENGLISH",
@@ -1278,7 +1326,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJpeenVrNtAWARu_uoeClBgB4"
   },
   {
     "name": "HIRO英語教室",
@@ -1298,7 +1347,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJXXoZsIALAWAR4CLE9Unp9UE"
   },
   {
     "name": "セイハ英語学院 フォレオ大津一里山教室",
@@ -1345,7 +1395,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJNXbyFdFtAWARuJjoPNzMrwY"
   },
   {
     "name": "セイハ英語学院 バロー茶が崎教室",
@@ -1365,7 +1416,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "アルクKiddy CAT英語教室 大津膳所校",
@@ -1386,7 +1438,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "ペッピーキッズクラブ 大津中央教室",
@@ -1405,7 +1458,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJy43zFWVtAWART4Iu5672vU8"
   },
   {
     "name": "ペッピーキッズクラブ 大津瀬田教室",
@@ -1424,7 +1478,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJy43zFWVtAWART4Iu5672vU8"
   },
   {
     "name": "キッズデュオ 膳所ときめき坂",
@@ -1452,7 +1507,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "キッズデュオ 大津瀬田",
@@ -1480,7 +1536,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "こども英会話イーオンキッズ 瀬田校",
@@ -1513,7 +1570,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJXzLX5mFtAWAR-mmZST9q6ZE"
   },
   {
     "name": "ECCジュニア 神領教室",
@@ -1534,7 +1592,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "ヤマハ英語教室 ミュージックセンター大津京",
@@ -1555,7 +1614,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "ヤマハ英語教室 JEUGIAアル・プラザ堅田センター",
@@ -1576,7 +1636,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJL_whnFl1AWARuMtPUEKoYdY"
   },
   {
     "name": "自立型個別指導サクラ塾",
@@ -1596,7 +1657,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "サクラ塾 自立型個別指導 大津市役所前",
@@ -1616,7 +1678,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "個別指導アップ学習会 プラコベ大津中央教室",
@@ -1636,7 +1699,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ9xFBrnANAWARSBbaxAswSnY"
   },
   {
     "name": "自立学習塾RED 大津青山教室",
@@ -1662,7 +1726,8 @@
     "organization_type": "national_chain",
     "lat": 34.9786268,
     "lng": 135.9699401,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": null
   },
   {
     "name": "個別学習塾UPまの",
@@ -1683,7 +1748,8 @@
     "organization_type": "individual",
     "lat": 35.1251378,
     "lng": 135.9126281,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJV9JnufyfAWARaQFdCcLB_Hc"
   },
   {
     "name": "スクールIE 瀬田北校",
@@ -1709,7 +1775,8 @@
     "organization_type": "national_chain",
     "lat": 34.9940622,
     "lng": 135.9204789,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJ53Ttn1BzAWARmLYj4uRIY4Q"
   },
   {
     "name": "ITTO個別指導学院 大将軍校",
@@ -1736,7 +1803,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJQ5-x4rxyAWARZOkf7aLPnQ4"
   },
   {
     "name": "個別指導塾サクラサクセス 大津おごと温泉駅前教室",
@@ -1756,7 +1824,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJCegx6lULAWAR28E6G1D8LyE"
   },
   {
     "name": "個別指導塾サクラサクセス 大津膳所駅前教室",
@@ -1776,7 +1845,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJG5fao-wNAWARyafl_SoQ0Sk"
   },
   {
     "name": "明光義塾 堅田教室",
@@ -1804,7 +1874,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ7eJaRll1AWARnWWWhxR0y6I"
   },
   {
     "name": "学研教室 石山駅前教室",
@@ -1824,7 +1895,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "ナビ個別指導学院 堅田校",
@@ -1845,7 +1917,8 @@
     "organization_type": "national_chain",
     "lat": 35.1187472,
     "lng": 135.9141268,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJpUbz6Fl1AWARbnlA3KyQILA"
   },
   {
     "name": "まんてんスクール 堅田校",
@@ -1866,7 +1939,8 @@
     "organization_type": "national_chain",
     "lat": 35.1187538,
     "lng": 135.9141487,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJuyPtz7p1AWARmD7RDFhXmO4"
   },
   {
     "name": "個別指導キャンパス 堅田校",
@@ -1887,7 +1961,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJX0flsFl1AWARZLlbGzRbiK4"
   },
   {
     "name": "ゴールフリー 大津中央教室",
@@ -1907,7 +1982,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJs3I5EWINAWARUsJctvFPux8"
   },
   {
     "name": "KEC近畿教育学院 大津京校",
@@ -1933,7 +2009,8 @@
     "organization_type": "regional_chain",
     "lat": 35.0249388,
     "lng": 135.8596689,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "google_place_id": "ChIJY51u7HgMAWARnJZAltPTZgQ"
   },
   {
     "name": "学習塾シャローム",
@@ -1952,7 +2029,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJL844YO2fAWARt_2CdkiLvvk"
   },
   {
     "name": "ラプリマ音楽教室",
@@ -1979,7 +2057,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJAerrX0QLAWAR5aLMcWTeAQA"
   },
   {
     "name": "五野ピアノ教室（大津教室）",
@@ -2017,7 +2096,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJfVmWtPUNAWARZDlxXhwS45k"
   },
   {
     "name": "いがたピアノ・リトミック教室",
@@ -2037,7 +2117,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "あいりすピアノ教室",
@@ -2056,7 +2137,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "古矢ピアノ教室",
@@ -2083,7 +2165,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJg1KObRUNAWARBTWTErxe404"
   },
   {
     "name": "ポコアポコピアノ教室",
@@ -2103,7 +2186,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "ピアノ教室 ゆめlabo",
@@ -2130,7 +2214,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJyS_89sINAWARAq8NK-ZfoLo"
   },
   {
     "name": "いのうえ音楽教室",
@@ -2151,7 +2236,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJi9b5YA51AWAR2m__zjKw3-w"
   },
   {
     "name": "サウンズクラブ音楽教室",
@@ -2183,7 +2269,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJv2cmAzgNAWAR6z03CpbNX1E"
   },
   {
     "name": "大村夢ピアノ教室（大津京・唐崎教室）",
@@ -2203,7 +2290,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJyS_89sINAWARAq8NK-ZfoLo"
   },
   {
     "name": "カワイ音楽教室 奏美ホール",
@@ -2231,7 +2319,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJybxOo14MAWARCaTYL9lrTmI"
   },
   {
     "name": "カワイ音楽教室 コジャック",
@@ -2252,7 +2341,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "ヤマハ音楽教室（JEUGIAミュージックセンター大津京）",
@@ -2284,7 +2374,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJQ7CQ-3gMAWARzJjhKL-etvI"
   },
   {
     "name": "ヤマハ音楽教室（JEUGIA 大津テラス）",
@@ -2303,7 +2394,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJBQrdGesNAWARX-9Ty8TgT-Y"
   },
   {
     "name": "アットスクール膳所教室（プログラミング）",
@@ -2323,7 +2415,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJdS1fSeEMAWAR-rnU4_o0b9Y"
   },
   {
     "name": "どんぐりIT教室",
@@ -2396,7 +2489,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "プロクラ 大津京校（KEC近畿教育学院併設）",
@@ -2416,7 +2510,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJTd98XZQNAWAR3yRL0DDHLp8"
   },
   {
     "name": "プロクラ 石山校（KEC近畿教育学院併設）",
@@ -2436,7 +2531,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJTd98XZQNAWAR3yRL0DDHLp8"
   },
   {
     "name": "プロクラ 開成 石山教室",
@@ -2456,7 +2552,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ3brJmkUNAWARJPhubDTwtcM"
   },
   {
     "name": "プロクラ 開成 膳所教室",
@@ -2476,7 +2573,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJbXJqGrUNAWARggY305FI0NU"
   },
   {
     "name": "プロクラ 開成 瀬田教室",
@@ -2496,7 +2594,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "プログラミング教育 HALLO Kids Duo 大津瀬田校",
@@ -2524,7 +2623,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJte9uJuFzAWARQ7x0FPg7JgY"
   },
   {
     "name": "プログラミング教育 HALLO Kids Duo 膳所ときめき坂校",
@@ -2552,7 +2652,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJv3JmW4ENAWARS7MxaKK9V2M"
   },
   {
     "name": "プログラミング教育 HALLO ビバスポーツアカデミー 瀬田校",
@@ -2572,7 +2673,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJo7NOrIBtAWARq0Op9fhExYk"
   },
   {
     "name": "ヒューマンアカデミージュニア ロボット教室 大津京",
@@ -2593,7 +2695,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJBxusSXANAWARGn5kDueVQPw"
   },
   {
     "name": "ヒューマンアカデミージュニア 大津堅田教室",
@@ -2613,7 +2716,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "QUREOプログラミング教室 馬渕個別 石山校",
@@ -2646,7 +2750,8 @@
       "official_site"
     ],
     "last_verified_at": "2026-06-02",
-    "geocode_accuracy": null
+    "geocode_accuracy": null,
+    "google_place_id": null
   },
   {
     "name": "QUREOプログラミング教室 アップ学習会 プラコベ 大津中央教室",
@@ -2666,7 +2771,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "プロクラ 西大津校（KEC近畿教育学院併設）",
@@ -2686,7 +2792,8 @@
     "data_sources": [
       "official_site"
     ],
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJTd98XZQNAWAR3yRL0DDHLp8"
   },
   {
     "name": "谷口バレエスタジオ",
@@ -2710,7 +2817,8 @@
     "price": null,
     "source_url": "https://taniguchiballet.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJPyQLNGVtAWARriCPDiZSj18"
   },
   {
     "name": "きたむらバレエスタジオ",
@@ -2733,7 +2841,8 @@
     "price": null,
     "source_url": "https://kitamura-ballet-studio.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ9U1T0iENAWARbQgdMPkM2NI"
   },
   {
     "name": "左近幸子バレエスタジオ",
@@ -2756,7 +2865,8 @@
     "price": null,
     "source_url": "http://sakonballet.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "チカモダンバレエ・スタジオ",
@@ -2779,7 +2889,8 @@
     "price": null,
     "source_url": "https://chika-mballet-studio.net/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ36FSJEANAWARy5pVYAFMXYs"
   },
   {
     "name": "宮下バレエ学園 大津教室",
@@ -2802,7 +2913,8 @@
     "price": null,
     "source_url": "https://www.miyashita-ballet.com/sc-school04/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "真美バレエ・カンパニー",
@@ -2825,7 +2937,8 @@
     "price": null,
     "source_url": "https://www.mami-ballet-company.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJWcRPIFQNAWARwcFT0Sc78TM"
   },
   {
     "name": "永田バレエスクール 堅田教室",
@@ -2848,7 +2961,8 @@
     "price": null,
     "source_url": "https://nagataballet-1996.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ1a63nfF1AWARK1C9wJt-cH8"
   },
   {
     "name": "永田バレエスクール 大津京教室",
@@ -2871,7 +2985,8 @@
     "price": null,
     "source_url": "https://nagataballet-1996.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "Ballet Studio Lecrin（バレエスタジオ レクラン）",
@@ -2894,7 +3009,8 @@
     "price": null,
     "source_url": "https://lecrinballet.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJbfNyo55yAWARKLX7Btd5-Ow"
   },
   {
     "name": "中田佳美バレエ教室",
@@ -2917,7 +3033,8 @@
     "price": null,
     "source_url": "http://www.nakata-asayama-ballet.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJT43iO9RsAWARGJ2qwHJuA94"
   },
   {
     "name": "司延子モダンバレエ 大津教室",
@@ -2944,7 +3061,8 @@
     "price": null,
     "source_url": "https://www.tsukasa-ballet.com/shiga/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "畠中三枝バレエ教室",
@@ -2967,7 +3085,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ4z47JyANAWARSBDU3iQVwFQ"
   },
   {
     "name": "JEUGIAカルチャーセンター大津テラス クラシックバレエ",
@@ -2990,7 +3109,8 @@
     "price": null,
     "source_url": "https://culture.jeugia.co.jp/lesson_detail_13-2439.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJBQrdGesNAWARX-9Ty8TgT-Y"
   },
   {
     "name": "岡寿子モダンバレエ",
@@ -3013,7 +3133,8 @@
     "price": null,
     "source_url": "https://happy-nonnon.wixsite.com/nozomimodernballet-1",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ0Wj_vSkNAWARKnFUgGarzho"
   },
   {
     "name": "バレエスタジオ ルルベ",
@@ -3036,7 +3157,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJJ8WgmyttAWARGrtmkv84R-8"
   },
   {
     "name": "西川書道教室",
@@ -3059,7 +3181,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJn_goamYMAWARjEIhnpIQJF4"
   },
   {
     "name": "酒井幸園書道・ペン字教室",
@@ -3086,7 +3209,8 @@
     "price": null,
     "source_url": "https://sakaikouen.wixsite.com/syodou-otsu",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "三原書道教室",
@@ -3109,7 +3233,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJwxW0BvYMAWARJANix2Sivhk"
   },
   {
     "name": "大津ファミリー教室（書道）",
@@ -3132,7 +3257,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJozXWV1QNAWARRD4jupN7XA0"
   },
   {
     "name": "CAI湖西塾【習字・書道】本堅田教室",
@@ -3155,7 +3281,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJgQh4NFt1AWARN7qZzfHef6s"
   },
   {
     "name": "公文書写 大津石山教室",
@@ -3178,7 +3305,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/lil/search/classroom.php?no=7501465",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJtxhPc_ANAWARfuFQC9EhzjA"
   },
   {
     "name": "公文書写 蓮池町教室",
@@ -3201,7 +3329,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/lil/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ-ZkdA2EMAWARXzh0xU4ToY8"
   },
   {
     "name": "書道教室（国分）",
@@ -3224,7 +3353,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "書道教室（栄町）",
@@ -3247,7 +3377,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "書道教室（真野）",
@@ -3270,7 +3401,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJZcrYaFh1AWAR84IhVnPTn60"
   },
   {
     "name": "そろタッチ ぜぜ校",
@@ -3293,7 +3425,8 @@
     "price": null,
     "source_url": "https://sorotouch-zeze.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJe-EP7QQNAWAR-haxqp_OAFs"
   },
   {
     "name": "そろばん塾ピコ 膳所校",
@@ -3324,7 +3457,8 @@
     "price": null,
     "source_url": "https://picosoroban.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ81KsCM1zAWARbWQFPPi0Hi0"
   },
   {
     "name": "そろばん塾ピコ 仰木の里校",
@@ -3347,7 +3481,8 @@
     "price": null,
     "source_url": "https://pico-ohginosato.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJgyCcuyN1AWARI43iTG-kl9Y"
   },
   {
     "name": "そろばん塾ピコ あぐり進学西大津教室",
@@ -3370,7 +3505,8 @@
     "price": null,
     "source_url": "https://picosoroban.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJZ5CutHwNAWAR4AgAsaTmZ7E"
   },
   {
     "name": "石黒珠算学院",
@@ -3393,7 +3529,8 @@
     "price": null,
     "source_url": "http://www.eonet.ne.jp/~ishiguro8/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJu9szEVx1AWARa16Ec79Wal0"
   },
   {
     "name": "大津学習研究所 そろばん教室",
@@ -3420,7 +3557,8 @@
     "price": null,
     "source_url": "https://www.otsu-study.jp/contents/category/soroban/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJlTEb8eQMAWAR39FXjBPKi4E"
   },
   {
     "name": "高穂珠算教室",
@@ -3443,7 +3581,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJRdQjDKcLAWARD0z3uwenGhw"
   },
   {
     "name": "平安速算会 和邇教場",
@@ -3466,7 +3605,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJcVdIrQqfAWARJi0TYvG3DpQ"
   },
   {
     "name": "日本珠算連盟大津支部",
@@ -3489,7 +3629,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJJR-eU-UMAWAR9PQhQNHPPYY"
   },
   {
     "name": "上田そろあんスクール 青山教室",
@@ -3512,7 +3653,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "しばた珠算塾",
@@ -3535,7 +3677,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "全国珠算教育連盟大津教室（島の関）",
@@ -3558,7 +3701,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "全日本空手道連盟 和道会・大津フィジカルクラブ",
@@ -3582,7 +3726,8 @@
     "price": null,
     "source_url": "http://meikugijuku.com/otsu/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJW4NncV4MAWARrx-1YpTPd40"
   },
   {
     "name": "新極真会 大津堅田道場",
@@ -3613,7 +3758,8 @@
     "price": null,
     "source_url": "http://shigatoedojo.com/katata/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJYTpH1S91AWARnGtn3F1fzMo"
   },
   {
     "name": "新極真会 浜大津道場",
@@ -3636,7 +3782,8 @@
     "price": null,
     "source_url": "https://www.shinkyokushinkai.co.jp/dojo/branches/kinki/shiga/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJtyxETacNAWARmGGW5a5vzlY"
   },
   {
     "name": "国際空手道円心会館 大津道場",
@@ -3663,7 +3810,8 @@
     "price": null,
     "source_url": "https://enshin-shiga.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "日本正剛館空手道士会 大津本部道場",
@@ -3686,7 +3834,8 @@
     "price": null,
     "source_url": "https://seigokan-japan.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "大津柔道協会",
@@ -3719,7 +3868,8 @@
     "price": null,
     "source_url": "https://www.otsujukyo.info/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "清心館（柔道）",
@@ -3743,7 +3893,8 @@
     "price": null,
     "source_url": "https://seishinkan-dojo.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "志道館柔道教室",
@@ -3774,7 +3925,8 @@
     "price": null,
     "source_url": "https://shidoukan-judo.jimdofree.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "晴嵐スポーツ少年団 剣道部",
@@ -3797,7 +3949,8 @@
     "price": null,
     "source_url": "https://seirankendo.wixsite.com/mysite",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "滋賀県立武道館 剣道教室",
@@ -3820,7 +3973,8 @@
     "price": null,
     "source_url": "https://www.bsn.or.jp/budo/%E5%89%A3%E9%81%93%E6%95%99%E5%AE%A4/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJCclcSd4MAWARbpQZVoF1K0g"
   },
   {
     "name": "武道館剣道クラブ",
@@ -3843,7 +3997,8 @@
     "price": null,
     "source_url": "https://budokan-kendo-club-web.jimdosite.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "合気道大津スポーツ少年団",
@@ -3866,7 +4021,8 @@
     "price": null,
     "source_url": "https://www.rikoujuku.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "合気道 入江道場 大津石山教室",
@@ -3894,7 +4050,8 @@
     "price": null,
     "source_url": "https://iriedojo.wixsite.com/website",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJJ7tL3gcNAWARJ49hDW-aihc"
   },
   {
     "name": "合気道夕照会",
@@ -3917,7 +4074,8 @@
     "price": null,
     "source_url": "http://www.sekishokai.net/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "合気道平成会 坂本道場",
@@ -3944,7 +4102,8 @@
     "price": null,
     "source_url": "https://heiseikai.xsrv.jp/sakamoto/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "合気道滋賀 大津道場",
@@ -3967,7 +4126,8 @@
     "price": null,
     "source_url": "https://www.aikido-shiga.jp/products/otsu/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "長等スポーツ少年団 野球部",
@@ -3994,7 +4154,8 @@
     "price": null,
     "source_url": "https://nagarabaseballteam.jimdofree.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "瀬田南スポーツ少年団 野球部",
@@ -4023,7 +4184,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "坂本スポーツ少年団 野球部",
@@ -4050,7 +4212,8 @@
     "price": null,
     "source_url": "https://sakamotossbb.89dream.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "滋賀大津ボーイズ",
@@ -4073,7 +4236,8 @@
     "price": null,
     "source_url": "http://otsu0021.stars.ne.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "大津瀬田ボーイズ（レイカーズ）",
@@ -4096,7 +4260,8 @@
     "price": null,
     "source_url": "https://www.netto.jp/otsuseta-boys/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "麒麟児（きりんじ）少年野球クラブ",
@@ -4119,7 +4284,8 @@
     "price": null,
     "source_url": "https://kirinji.info/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "田上スポーツ少年団 野球部",
@@ -4142,7 +4308,8 @@
     "price": null,
     "source_url": "https://www.eonet.ne.jp/~tanakami/CCP008.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "テニスラウンジ大津",
@@ -4166,7 +4333,8 @@
     "price": null,
     "source_url": "https://tennislounge.com/otsu/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ9-sLzUYNAWARxzTAspVP4ws"
   },
   {
     "name": "瀬田グリーンテニスクラブ",
@@ -4197,7 +4365,8 @@
     "price": null,
     "source_url": "https://www.seta-gtc.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJs0hkv09sAWARxbDcoYT_zqk"
   },
   {
     "name": "テニスカンパニー真野浜テニスクラブ",
@@ -4221,7 +4390,8 @@
     "price": null,
     "source_url": "https://www.tennis-company.net/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJEdtOr92fAWAR_n9L0rfLAUk"
   },
   {
     "name": "ARROWS TENNIS SCHOOL 堅田校",
@@ -4251,7 +4421,8 @@
     "price": null,
     "source_url": "https://www.arrows-tennis.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "スポーツクラブ コジャック（テニス）",
@@ -4274,7 +4445,8 @@
     "price": null,
     "source_url": "https://sports-kojak.co.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJvzhEbVp1AWARYo7Mv-f9vjk"
   },
   {
     "name": "滋賀レイクスアカデミー バスケスクール 大津校（におの浜）",
@@ -4298,7 +4470,8 @@
     "price": null,
     "source_url": "https://academy.lakestars.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "滋賀レイクスアカデミー バスケスクール 皇子が丘校",
@@ -4322,7 +4495,8 @@
     "price": null,
     "source_url": "https://academy.lakestars.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "におの浜ふれあいスポーツセンター バスケットボール教室",
@@ -4347,7 +4521,8 @@
     "price": null,
     "source_url": "https://www.nionohama-sfc.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ-cxxOd4MAWARttOpY973w3I"
   },
   {
     "name": "JUMPバスケットボールスクール（大津・ウカルちゃんアリーナ）",
@@ -4371,7 +4546,8 @@
     "price": null,
     "source_url": "https://jump-shiga.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "NINJA AIRS ACADEMY（バスケ3x3スクール）",
@@ -4394,7 +4570,8 @@
     "price": null,
     "source_url": "https://seventhgeneration.co.jp/project/detail/20200819115525/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "真野北ミニバスケットボール",
@@ -4418,7 +4595,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "JEUGIAカルチャーセンター大津テラス Smile☆チアダンス",
@@ -4445,7 +4623,8 @@
     "price": null,
     "source_url": "https://culture.jeugia.co.jp/lesson_detail_13-41908.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJBQrdGesNAWARX-9Ty8TgT-Y"
   },
   {
     "name": "ユニバースチアダンススクール 大津校",
@@ -4471,7 +4650,8 @@
     "price": null,
     "source_url": "https://universecheer.com/place/otsu_school/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJldxHBycNAWARxyypH9bPWhM"
   },
   {
     "name": "滋賀レイクスアカデミー チアスクール 大津一里山校",
@@ -4495,7 +4675,8 @@
     "price": null,
     "source_url": "https://academy.lakestars.jp/cheer/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "滋賀レイクスアカデミー チアスクール 大津校",
@@ -4519,7 +4700,8 @@
     "price": null,
     "source_url": "https://academy.lakestars.jp/cheer/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "ベビーパーク フォレオ大津一里山教室",
@@ -4543,7 +4725,8 @@
     "price": null,
     "source_url": "https://www.babypark.jp/preschool/all/detail/foleo-otsuichiriyama-classroom/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJR1o4e2JtAWARTgAZsH24oSk"
   },
   {
     "name": "七田式びわ湖大津教室",
@@ -4572,7 +4755,8 @@
     "price": null,
     "source_url": "https://shichida-shiga.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJFa6NExUNAWARGFQzcK1DKxU"
   },
   {
     "name": "EQWELチャイルドアカデミー 大津教室",
@@ -4596,7 +4780,8 @@
     "price": null,
     "source_url": "https://www.eqwel.jp/school/064108.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "こどもの庭 ききいろは（一里山教室）",
@@ -4620,7 +4805,8 @@
     "price": null,
     "source_url": "https://kikiiroha.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ6TQIDPNtAWARe4d6GZZRmL0"
   },
   {
     "name": "こどもの庭 ききいろは（下在地町教室）",
@@ -4644,7 +4830,8 @@
     "price": null,
     "source_url": "https://kikiiroha.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "忍者ナイン ベラビスタ膳所ラボ",
@@ -4674,7 +4861,8 @@
     "price": null,
     "source_url": "https://www.ninja9.jp/classrooms/detail/2393/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJnRVcYx4NAWARYupq6NlF7i0"
   },
   {
     "name": "忍者ナイン 滋賀ボールルームラボ",
@@ -4703,7 +4891,8 @@
     "price": null,
     "source_url": "https://www.ninja9.jp/classrooms/detail/2395/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "アスリートスポーツクラブ 体操クラブ（勤労センター）",
@@ -4733,7 +4922,8 @@
     "price": null,
     "source_url": "https://athlete-sc.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "スポーツクラブ コジャック（体操・ジュニア）",
@@ -4756,7 +4946,8 @@
     "price": null,
     "source_url": "https://sports-kojak.co.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJvzhEbVp1AWARYo7Mv-f9vjk"
   },
   {
     "name": "アスリートスポーツクラブ 体操クラブ（各会場）",
@@ -4787,7 +4978,8 @@
     "price": null,
     "source_url": "https://athlete-sc.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "比叡山＋ONEサッカースクール（一隅クラブ）",
@@ -4811,7 +5003,8 @@
     "price": null,
     "source_url": "https://www.ichigu.org/oneschool",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "SOLCIDO SOCCER ACADEMY（ソルシードサッカーアカデミー）",
@@ -4835,7 +5028,8 @@
     "price": null,
     "source_url": "https://rencontre-sports.or.jp/Solcido-soccer-academy",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJSxVeeKcLAWARA8uBeHKh1YU"
   },
   {
     "name": "におの浜ふれあいスポーツセンター キッズスイミング",
@@ -4864,7 +5058,8 @@
     "price": null,
     "source_url": "https://www.nionohama-sfc.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ-cxxOd4MAWARttOpY973w3I"
   },
   {
     "name": "Ballet Studio L'ecrin（バレエスタジオ レクラン）",
@@ -4888,7 +5083,8 @@
     "price": null,
     "source_url": "https://lecrinballet.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJbfNyo55yAWARKLX7Btd5-Ow"
   },
   {
     "name": "司延子モダンバレエ 大津京教室",
@@ -4916,7 +5112,8 @@
     "price": null,
     "source_url": "https://www.tsukasa-ballet.com/shiga/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "髙橋バレエスタジオ",
@@ -4939,7 +5136,8 @@
     "price": null,
     "source_url": "https://www.takahashi-ballet.net/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJN33Dnx0LAWARo6TvV39T9pA"
   },
   {
     "name": "小林早紀バレエ教室",
@@ -4963,7 +5161,8 @@
     "price": null,
     "source_url": "http://sp.ksb-ballet.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ1a6XhuGfAWAR-cLl4Fo6RU0"
   },
   {
     "name": "永田バレエスクール（本部教室・大津京教室）",
@@ -4987,7 +5186,8 @@
     "price": null,
     "source_url": "https://nagataballet-1996.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ1a63nfF1AWARK1C9wJt-cH8"
   },
   {
     "name": "studioALPHA（スタジオアルファ）",
@@ -5018,7 +5218,8 @@
     "price": null,
     "source_url": "https://studioalpha.net/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJaaBn5eEMAWAR2kbyOEDiS04"
   },
   {
     "name": "Dance Space Bound Up（ダンススペースバウンドアップ）",
@@ -5048,7 +5249,8 @@
     "price": null,
     "source_url": "https://boundup.wixsite.com/dancespaceueda",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "スタジオ ダンス トライブ（Studio Dance Tribe）",
@@ -5075,7 +5277,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJaaKvHgALAWAR-EH1ub7fqLk"
   },
   {
     "name": "NOVAバイリンガルKIDS 坂本校",
@@ -5099,7 +5302,8 @@
     "price": null,
     "source_url": "https://www.nova.co.jp/junior/schools/kinki/shiga/sakamoto.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJBRSNxCELAWARg-H1lCjtCFM"
   },
   {
     "name": "京進の英会話ユニバーサルキャンパス 大津校",
@@ -5123,7 +5327,8 @@
     "price": null,
     "source_url": "https://uc.kyoshin.co.jp/school/421/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ-VdHF9QNAWARzNhTAYRjepY"
   },
   {
     "name": "京進の英会話ユニバーサルキャンパス 瀬田校",
@@ -5147,7 +5352,8 @@
     "price": null,
     "source_url": "https://uc.kyoshin.co.jp/school/454/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJQcwIOvhzAWARB_sPlTrCEbs"
   },
   {
     "name": "ECCジュニア 萱野浦教室",
@@ -5170,7 +5376,8 @@
     "price": null,
     "source_url": "https://eccjuniorbs.jp/ht250413/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJi6V5UC1zAWARJMdn_654aW4"
   },
   {
     "name": "ECCジュニア 唐崎駅前教室",
@@ -5193,7 +5400,8 @@
     "price": null,
     "source_url": "https://eccjuniorbs.jp/ht250554/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ9SssAZELAWAR2m7fUPOQaGs"
   },
   {
     "name": "ECCジュニア 月輪教室",
@@ -5217,7 +5425,8 @@
     "price": null,
     "source_url": "https://eccjuniorbs.jp/ht250561/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJBZoDjettAWAREal7A4LPZ48"
   },
   {
     "name": "ECCジュニア 見世1丁目教室",
@@ -5240,7 +5449,8 @@
     "price": null,
     "source_url": "https://eccjr-mise-icchome.hp.peraichi.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJncd0BdQLAWARq0DZ7reWKMg"
   },
   {
     "name": "ECCジュニア 本堅田2丁目教室",
@@ -5263,7 +5473,8 @@
     "price": null,
     "source_url": "https://www.biwakosei.com/member/eccjr-honkatata/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "ECCジュニア ローズタウン清和教室",
@@ -5286,7 +5497,8 @@
     "price": null,
     "source_url": "https://eccjuniorbs.jp/ht250120/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ_b4py0yfAWARUvdf7FpcobY"
   },
   {
     "name": "ワーニャランゲージスクール 大津校",
@@ -5309,7 +5521,8 @@
     "price": null,
     "source_url": "https://www.vanya-language.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ05XN_FgMAWARz4RBaTCv3hw"
   },
   {
     "name": "宝田音楽教室",
@@ -5333,7 +5546,8 @@
     "price": null,
     "source_url": "https://takarada-piano.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJT5y9hzoLAWARGMm1sPQ1rSM"
   },
   {
     "name": "越智ピアノ教室",
@@ -5357,7 +5571,8 @@
     "price": null,
     "source_url": "https://www.ochipiano.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJyS_89sINAWARAq8NK-ZfoLo"
   },
   {
     "name": "田中淳子ピアノ教室",
@@ -5380,7 +5595,8 @@
     "price": null,
     "source_url": "https://pnet.kawai.jp/509205/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "音楽教室ドレミ",
@@ -5404,7 +5620,8 @@
     "price": null,
     "source_url": null,
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "ヤマハ音楽教室 瀬田センター（ロマン楽器）",
@@ -5428,7 +5645,8 @@
     "price": null,
     "source_url": "https://www.roman-gakki.co.jp/shop_classroom/lessonroom/seta/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJR9qNAWJtAWARFapyEvooXhs"
   },
   {
     "name": "アーテック自考力キッズ フレンズインターナショナル瀬田校",
@@ -5452,7 +5670,8 @@
     "price": null,
     "source_url": "https://www.artec-kk.co.jp/school/jkids/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJnzDJDaRtAWARC19Vu_VrMhA"
   },
   {
     "name": "個別指導学院フリーステップ 石山駅前教室",
@@ -5476,7 +5695,8 @@
     "price": null,
     "source_url": "https://www.kaisei-group.co.jp/freestep/school/310585/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJxU1tolMNAWARGU3GJ2TMcZ0"
   },
   {
     "name": "個別指導学院フリーステップ 瀬田駅前教室",
@@ -5499,7 +5719,8 @@
     "price": null,
     "source_url": "https://www.kaisei-group.co.jp/freestep/school/310565/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJw4IrZp5yAWARsUzKz40wGSQ"
   },
   {
     "name": "個別指導学院フリーステップ 比叡山坂本教室",
@@ -5522,7 +5743,8 @@
     "price": null,
     "source_url": "https://www.kaisei-group.co.jp/freestep/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ0bPb9B0LAWARYq9pBmAHSNs"
   },
   {
     "name": "個別指導学院フリーステップ 堅田駅前教室",
@@ -5546,7 +5768,8 @@
     "price": null,
     "source_url": "https://www.kaisei-group.co.jp/freestep/school/311265/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJqxpvodx1AWARNfkzcJXwpTo"
   },
   {
     "name": "個別指導学院フリーステップ 大津京駅前教室",
@@ -5570,7 +5793,8 @@
     "price": null,
     "source_url": "https://www.kaisei-group.co.jp/freestep/school/310575/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJHUKCDHgMAWARuW98vVyIACg"
   },
   {
     "name": "個別指導学院フリーステップ 膳所駅前教室",
@@ -5593,7 +5817,8 @@
     "price": null,
     "source_url": "https://www.kaisei-group.co.jp/freestep/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ3fzzieMMAWARO2wMQAxnB48"
   },
   {
     "name": "個別教室のトライ 堅田駅前校",
@@ -5616,7 +5841,8 @@
     "price": null,
     "source_url": "https://www.kobekyo.com/around/shiga/katata/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJx6R_VRB1AWARalW1iLHaGmQ"
   },
   {
     "name": "ゴールフリー 堅田教室",
@@ -5640,7 +5866,8 @@
     "price": null,
     "source_url": "https://www.goalfree.co.jp/classroom/katata/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ00sVCFl1AWARoJ49TbNGTnU"
   },
   {
     "name": "ゴールフリー 大津京教室",
@@ -5664,7 +5891,8 @@
     "price": null,
     "source_url": "https://www.goalfree.co.jp/classroom/gf_ohtsukyo/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJiZlmaXgMAWARU7WzIgIq2k8"
   },
   {
     "name": "ゴールフリー 瀬田教室",
@@ -5688,7 +5916,8 @@
     "price": null,
     "source_url": "https://www.goalfree.co.jp/classroom/seta/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJVVWh159yAWAROy9lng1cQLE"
   },
   {
     "name": "ゴールフリー 膳所教室",
@@ -5711,7 +5940,8 @@
     "price": null,
     "source_url": "https://www.goalfree.co.jp/classroom/gf_zeze/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJo0F7UB4NAWARVqVMRlpuZII"
   },
   {
     "name": "個別指導Axis（アクシス）膳所校",
@@ -5735,7 +5965,8 @@
     "price": null,
     "source_url": "https://axis-kobetsu.jp/schools/id/755/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJAQD8fuQMAWARBq96T24z06o"
   },
   {
     "name": "個別指導Axis（アクシス）瀬田校",
@@ -5759,7 +5990,8 @@
     "price": null,
     "source_url": "https://axis-kobetsu.jp/schools/id/166/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJzww6IJ5yAWARDCRiH7gEAEg"
   },
   {
     "name": "馬渕教室 高校受験コース 大津京校",
@@ -5783,7 +6015,8 @@
     "price": null,
     "source_url": "https://kouju.mabuchi.co.jp/shiga/school/otsukyo/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJV57pSngMAWARe7H22Mif5P8"
   },
   {
     "name": "馬渕教室 高校受験コース 膳所校",
@@ -5807,7 +6040,8 @@
     "price": null,
     "source_url": "https://kouju.mabuchi.co.jp/shiga/school/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJA1-MbAANAWARisY1sOBIX00"
   },
   {
     "name": "馬渕教室 個別指導 膳所校",
@@ -5830,7 +6064,8 @@
     "price": null,
     "source_url": "https://personal.mabuchi.co.jp/m/school/zeze/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "馬渕教室 個別指導 石山校",
@@ -5853,7 +6088,8 @@
     "price": null,
     "source_url": "https://personal.mabuchi.co.jp/m/school/ishiyama/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ2ygJgVENAWARIUAiU4WBQZM"
   },
   {
     "name": "KEC近畿予備校・KEC近畿教育学院 大津京校",
@@ -5877,7 +6113,8 @@
     "price": null,
     "source_url": "https://www.prep.kec.ne.jp/otsukyo/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJY51u7HgMAWARnJZAltPTZgQ"
   },
   {
     "name": "KEC近畿予備校・KEC近畿教育学院 石山本校",
@@ -5900,7 +6137,8 @@
     "price": null,
     "source_url": "https://www.prep.kec.ne.jp/ishiyama/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJPZdS91QNAWAR55eeSf-ERus"
   },
   {
     "name": "明光義塾 和邇教室",
@@ -5923,7 +6161,8 @@
     "price": null,
     "source_url": "https://www.meikogijuku.jp/school/shiga/otsu-shi/S3870/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJzw9PqwqfAWARwwf4VROZJtY"
   },
   {
     "name": "明光義塾 瀬田教室",
@@ -5947,7 +6186,8 @@
     "price": null,
     "source_url": "https://www.meikogijuku.jp/school/shiga/otsu-shi/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJp51W81NtAWARBKKDImTNWNA"
   },
   {
     "name": "学研教室 学研スクエア 大津京イオンスタイル教室",
@@ -5971,7 +6211,8 @@
     "price": null,
     "source_url": "https://www.889100.com/classrooms/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "学研教室 浜大津教室",
@@ -5994,7 +6235,8 @@
     "price": null,
     "source_url": "https://www.889100.com/classrooms/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "学研教室 皇子山教室",
@@ -6017,7 +6259,8 @@
     "price": null,
     "source_url": "https://www.889100.com/classrooms/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "東進衛星予備校 大津石山校",
@@ -6041,7 +6284,8 @@
     "price": null,
     "source_url": "https://www.toshin.com/es/map/2519.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJmZDpElQNAWARwuJGZmWYysg"
   },
   {
     "name": "東進衛星予備校 大津京駅前校",
@@ -6065,7 +6309,8 @@
     "price": null,
     "source_url": "https://www.toshin.com/es/map/2525.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJq6peaXgMAWAR3mXzh9-ZWUc"
   },
   {
     "name": "東進衛星予備校 膳所校",
@@ -6089,7 +6334,8 @@
     "price": null,
     "source_url": "https://www.toshin.com/es/map/2517.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJV8Na5FQNAWARSZtAF16qi24"
   },
   {
     "name": "ITTO個別指導学院 大津大江校",
@@ -6113,7 +6359,8 @@
     "price": null,
     "source_url": "https://www.itto.jp/schools/kinki/shiga/otsuoe.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJS-VYJp1tAWAR0U95YgAADqc"
   },
   {
     "name": "個別指導塾スタンダード 膳所教室",
@@ -6137,7 +6384,8 @@
     "price": null,
     "source_url": "https://std-ie.jp/map/kansai/shiga/zeze/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJFcCqQR4NAWARQg6B40poHaM"
   },
   {
     "name": "個別指導塾スタンダード 瀬田教室",
@@ -6161,7 +6409,8 @@
     "price": null,
     "source_url": "https://std-ie.jp/map/kansai/shiga/seta/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJoY4dap5yAWARsaZU1366OB0"
   },
   {
     "name": "ナビ個別指導学院 膳所校",
@@ -6184,7 +6433,8 @@
     "price": null,
     "source_url": "https://www.navi-school.com/school/shiga/zeze/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ1RDimDUNAWARoEba9wRI4ww"
   },
   {
     "name": "ナビ個別指導学院 瀬田校",
@@ -6207,7 +6457,8 @@
     "price": null,
     "source_url": "https://www.navi-school.com/school/shiga/seta/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJF4ExEZ5yAWARwn9HaXhbLRI"
   },
   {
     "name": "まんてんスクール 瀬田校",
@@ -6230,7 +6481,8 @@
     "price": null,
     "source_url": "https://www.manten-school.com/school/shiga/sc-seta.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJg3VGQKpzAWARtDh6ZKgzWUI"
   },
   {
     "name": "個別指導キャンパス 瀬田校",
@@ -6254,7 +6506,8 @@
     "price": null,
     "source_url": "https://www.canpass-kobetsu.com/school/seta/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJXX5ZKp5yAWARNYs6y_u9dzs"
   },
   {
     "name": "京進の中学・高校受験TOPΣ 瀬田校",
@@ -6278,7 +6531,8 @@
     "price": null,
     "source_url": "https://tyuko.kyoshin.co.jp/school/6/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ-ctXJpxyAWARGxuz3s0d_bw"
   },
   {
     "name": "成基学園 瀬田教室（高校受験コース）",
@@ -6302,7 +6556,8 @@
     "price": null,
     "source_url": "https://www.seiki.jp/sap/classroom/seta/detail.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJMZpw159yAWAR8sSS7Qkq6wA"
   },
   {
     "name": "個別指導塾 ステップ",
@@ -6326,7 +6581,8 @@
     "price": null,
     "source_url": "https://step-shiga.com/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJKxAW3D4LAWARqQtqBASFrPI"
   },
   {
     "name": "公文式 石山駅前教室",
@@ -6349,7 +6605,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1278410855/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ12urBbwNAWARPcRwbBKqUdc"
   },
   {
     "name": "公文式 大津富士見教室",
@@ -6372,7 +6629,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1628270846/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJU1fqrloNAWARtamaUhngAkw"
   },
   {
     "name": "公文式 大津建部教室",
@@ -6395,7 +6653,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1695322132/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJPykXxCFtAWARREI_oLIUTbg"
   },
   {
     "name": "公文式 馬場1丁目教室",
@@ -6418,7 +6677,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1942250802/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJQ6WtGQANAWARpjjc1JYZQc8"
   },
   {
     "name": "公文式 真野教室",
@@ -6441,7 +6701,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1281200232/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJsTIMQcafAWARn9ApB-ewaTw"
   },
   {
     "name": "公文式 下阪本教室",
@@ -6464,7 +6725,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1642640105/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJz8Es3OwLAWARkC04fWuQos8"
   },
   {
     "name": "公文式 大津島の関教室",
@@ -6487,7 +6749,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1339550043/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJPb5tRXsNAWARBqDhyFS5Tnw"
   },
   {
     "name": "公文式 衣川町教室",
@@ -6510,7 +6773,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1353350244/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJYy9Zd4N1AWARYlqKFcwctz0"
   },
   {
     "name": "公文式 大津京駅前教室",
@@ -6534,7 +6798,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1910390025/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJszhIfdgNAWARWRixx5FnMng"
   },
   {
     "name": "公文式 大津穴太教室",
@@ -6558,7 +6823,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1939520114/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJFa2TNwgLAWARMGc_YHyt6mw"
   },
   {
     "name": "公文式 大津逢坂教室",
@@ -6581,7 +6847,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1079750052/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJnZdfZYcNAWAREMT1li5g6ac"
   },
   {
     "name": "公文式 坂本教室",
@@ -6604,7 +6871,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1666190113/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJO5_15kMLAWARp8h7dBJaerM"
   },
   {
     "name": "公文式 おごと教室",
@@ -6627,7 +6895,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1778840101/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJTy0XGbYLAWAR0rMa9TpoIK4"
   },
   {
     "name": "公文式 堅田南教室",
@@ -6650,7 +6919,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1960580243/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJq2dUctd1AWARE-u7kTa-ses"
   },
   {
     "name": "公文式 堅田小学校前教室",
@@ -6673,7 +6943,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1615580242/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJn0fiDsp1AWARsOVSCuWZmvI"
   },
   {
     "name": "公文式 今堅田2丁目教室",
@@ -6696,7 +6967,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1866920241/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJowY6G5V1AWARw-AtRJP5woQ"
   },
   {
     "name": "公文式 大津瀬田一里山教室",
@@ -6720,7 +6992,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1358842153/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": null
   },
   {
     "name": "公文式 石山寺教室",
@@ -6743,7 +7016,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1269470861/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJAQBMtDZtAWARWgyR55CFfVE"
   },
   {
     "name": "公文式 ウィル瀬田北教室",
@@ -6766,7 +7040,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1068862145/index.html",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJM8HDgMZzAWARAyGgddEIXm4"
   },
   {
     "name": "公文式 におの浜教室",
@@ -6789,7 +7064,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJ58YiOqINAWARSdkeC6bSzI8"
   },
   {
     "name": "公文式 大津三井寺駅前教室",
@@ -6812,7 +7088,8 @@
     "price": null,
     "source_url": "https://www.kumon.ne.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJU1XGGB4NAWARIyfEg8oZQh4"
   },
   {
     "name": "スポーツクラブ コジャック 体操教室",
@@ -6842,6 +7119,7 @@
     "price": null,
     "source_url": "https://sports-kojak.co.jp/",
     "organization_type": null,
-    "last_verified_at": "2026-06-02"
+    "last_verified_at": "2026-06-02",
+    "google_place_id": "ChIJvzhEbVp1AWARYo7Mv-f9vjk"
   }
 ]
