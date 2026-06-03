@@ -18,8 +18,9 @@ type Props = {
   activeLesson?: Lesson | null
   navTarget?: NavTarget | null
   onSelectLesson?: (lesson: Lesson) => void
+  sidebarOpen?: boolean
 }
 
-export default function DynamicMap({ lessons, activeLesson, navTarget, onSelectLesson }: Props) {
-  return <MapView lessons={lessons} activeLesson={activeLesson} navTarget={navTarget} onSelectLesson={onSelectLesson} />
+export default function DynamicMap({ lessons, activeLesson, navTarget, onSelectLesson, sidebarOpen }: Props) {
+  return <MapView lessons={lessons} activeLesson={activeLesson} navTarget={navTarget} onSelectLesson={onSelectLesson} sidebarOpen={sidebarOpen} />
 }
