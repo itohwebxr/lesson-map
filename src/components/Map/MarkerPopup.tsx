@@ -78,6 +78,16 @@ export default function MarkerPopup({ lesson }: Props) {
           👶 {lesson.target_age}
         </div>
       )}
+      {lesson.schedules?.some((s) => s.weekday) && (
+        <div className="text-gray-600 mb-1">
+          🗓{' '}
+          {lesson.schedules
+            .filter((s) => s.weekday)
+            .slice(0, 3)
+            .map((s) => s.start_time ? `${s.weekday} ${s.start_time}〜` : s.weekday)
+            .join('　')}
+        </div>
+      )}
       {lesson.phone && (
         <div className="text-gray-600 mb-1">
           📞 {lesson.phone}
