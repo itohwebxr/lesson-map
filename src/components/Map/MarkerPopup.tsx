@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import type { Lesson } from '@/types/lesson'
 import type { PlaceRating } from '@/app/api/place/[placeId]/route'
 
@@ -54,13 +54,42 @@ function GoogleRating({ placeId }: { placeId: string }) {
   )
 }
 
+const SCHEDULE_INITIAL = 3
+
+function ScheduleList({ lesson }: { lesson: Lesson }) {
+  const [expanded, setExpanded] = useState(false)
+  const schedules = lesson.schedules?.filter((s) => s.weekday) ?? []
+  if (schedules.length === 0) return null
+  const visible = expanded ? schedules : schedules.slice(0, SCHEDULE_INITIAL)
+  return (
+    <div className="text-gray-600 mb-1">
+      <div>
+        {visible.map((s, i) => (
+          <span key={i} className="mr-2 whitespace-nowrap">
+            🗓 {s.start_time ? `${s.weekday} ${s.start_time}〜` : s.weekday}
+          </span>
+        ))}
+      </div>
+      {schedules.length > SCHEDULE_INITIAL && (
+        <button
+          onClick={() => setExpanded((v) => !v)}
+          className="text-xs text-blue-500 hover:underline mt-0.5"
+        >
+          {expanded ? '▲ 閉じる' : `▼ 他${schedules.length - SCHEDULE_INITIAL}件を表示`}
+        </button>
+      )}
+    </div>
+  )
+}
+
 type Props = {
   lesson: Lesson
 }
 
 export default function MarkerPopup({ lesson }: Props) {
+  const scrollRef = useRef<HTMLDivElement>(null)
   return (
-    <div className="min-w-[220px] text-sm">
+    <div ref={scrollRef} className="min-w-[220px] max-h-[320px] overflow-y-auto text-sm">
       <div className="font-bold text-base mb-1">{lesson.name}</div>
       <div className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-0.5 rounded mb-1">
         {lesson.category}
@@ -78,6 +107,7 @@ export default function MarkerPopup({ lesson }: Props) {
           👶 {lesson.target_age}
         </div>
       )}
+      <ScheduleList lesson={lesson} />
       {lesson.phone && (
         <div className="text-gray-600 mb-1">
           📞 {lesson.phone}
