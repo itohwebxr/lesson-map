@@ -16,7 +16,7 @@ export default function AgeFilter({ selected, onChange }: Props) {
     <div>
       <button
         onClick={() => setOpen((v) => !v)}
-        className="flex items-center gap-1 text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2"
+        className="flex items-center justify-between w-full text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2"
       >
         対象年齢
         <span className="text-gray-400 text-sm leading-none">{open ? '−' : '+'}</span>

@@ -54,7 +54,7 @@ export default function CategoryFilter({ selected, onChange }: Props) {
       <div className="flex items-center justify-between mb-2">
         <button
           onClick={() => setOpen((v) => !v)}
-          className="flex items-center gap-1 text-xs font-semibold text-gray-500 uppercase tracking-wide"
+          className="flex items-center justify-between w-full text-xs font-semibold text-gray-500 uppercase tracking-wide"
         >
           カテゴリ
           <span className="text-gray-400 text-sm leading-none">{open ? '−' : '+'}</span>
