@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import { CATEGORIES } from '@/lib/filterLessons'
+import { trackEvent, GA_EVENTS } from '@/lib/gtm'
 
 const CATEGORY_ICONS: Record<string, string> = {
   'サッカー': '⚽',
@@ -35,11 +36,13 @@ export default function CategoryFilter({ selected, onChange }: Props) {
   const [expanded, setExpanded] = useState(false)
 
   function toggle(cat: string) {
-    onChange(
-      selected.includes(cat)
-        ? selected.filter((c) => c !== cat)
-        : [...selected, cat]
-    )
+    const next = selected.includes(cat)
+      ? selected.filter((c) => c !== cat)
+      : [...selected, cat]
+    onChange(next)
+    if (!selected.includes(cat)) {
+      trackEvent(GA_EVENTS.CATEGORY_FILTER, { category: cat })
+    }
   }
 
   const visible = expanded ? CATEGORIES : CATEGORIES.slice(0, INITIAL_COUNT)

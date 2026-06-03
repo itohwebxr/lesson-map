@@ -1,6 +1,7 @@
 'use client'
 
 import { AGE_OPTIONS } from '@/lib/filterLessons'
+import { trackEvent, GA_EVENTS } from '@/lib/gtm'
 
 type Props = {
   selected: string | null
@@ -15,7 +16,11 @@ export default function AgeFilter({ selected, onChange }: Props) {
       </span>
       <select
         value={selected ?? ''}
-        onChange={(e) => onChange(e.target.value || null)}
+        onChange={(e) => {
+          const val = e.target.value || null
+          onChange(val)
+          if (val) trackEvent(GA_EVENTS.AGE_FILTER, { age_group: val })
+        }}
         className="w-full text-sm border border-gray-200 rounded px-2 py-1.5 bg-white text-gray-700 focus:outline-none focus:border-blue-400"
       >
         <option value="">すべての年齢</option>

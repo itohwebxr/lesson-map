@@ -1,6 +1,13 @@
 'use client'
 
+import { trackEvent, GA_EVENTS } from '@/lib/gtm'
+
 const WEEKDAYS = ['月', '火', '水', '木', '金', '土', '日']
+
+const WEEKDAY_EN: Record<string, string> = {
+  月: 'monday', 火: 'tuesday', 水: 'wednesday', 木: 'thursday',
+  金: 'friday', 土: 'saturday', 日: 'sunday',
+}
 
 type Props = {
   selected: string[]
@@ -9,9 +16,9 @@ type Props = {
 
 export default function WeekdayFilter({ selected, onChange }: Props) {
   const toggle = (day: string) => {
-    onChange(
-      selected.includes(day) ? selected.filter((d) => d !== day) : [...selected, day]
-    )
+    const adding = !selected.includes(day)
+    onChange(adding ? [...selected, day] : selected.filter((d) => d !== day))
+    if (adding) trackEvent(GA_EVENTS.DAY_FILTER, { day: WEEKDAY_EN[day] ?? day })
   }
 
   return (
