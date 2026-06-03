@@ -51,7 +51,7 @@ function GoogleRating({ placeId }: { placeId: string }) {
         <span className="text-xs text-gray-500">口コミ {data.user_ratings_total.toLocaleString()}件</span>
       )}
       <a
-        href={`https://www.google.com/maps/place/?q=place_id:${placeId}`}
+        href={`https://www.google.com/maps/search/?api=1&query_place_id=${placeId}&query=Google+Maps`}
         target="_blank"
         rel="noopener noreferrer"
         className="text-xs text-blue-500 hover:underline ml-1"
