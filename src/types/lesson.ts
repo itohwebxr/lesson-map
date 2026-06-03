@@ -22,6 +22,7 @@ export type Lesson = {
   lat?: number
   lng?: number
   data_quality?: DataQuality
+  google_place_id?: string | null
 }
 
 export type FilterState = {

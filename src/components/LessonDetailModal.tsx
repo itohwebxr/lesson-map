@@ -1,13 +1,65 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import type { Lesson } from '@/types/lesson'
+import type { PlaceRating } from '@/app/api/place/[placeId]/route'
 import DataQualityBadge from '@/components/DataQualityBadge'
 import { trackEvent, GA_EVENTS } from '@/lib/gtm'
 
 const CATEGORY_ICONS: Record<string, string> = {
   'サッカー': '⚽', 'スイミング': '🏊', 'ダンス': '💃', '体操': '🤸',
   '英会話': '🌏', '学習塾': '📚', 'ピアノ': '🎹', 'プログラミング': '💻',
+}
+
+function StarRating({ rating }: { rating: number }) {
+  const full = Math.floor(rating)
+  const half = rating - full >= 0.5
+  return (
+    <span className="text-yellow-400 text-sm" aria-label={`${rating}点`}>
+      {'★'.repeat(full)}
+      {half ? '½' : ''}
+      {'☆'.repeat(5 - full - (half ? 1 : 0))}
+    </span>
+  )
+}
+
+function GoogleRating({ placeId }: { placeId: string }) {
+  const [data, setData] = useState<PlaceRating | null>(null)
+  const [loading, setLoading] = useState(true)
+
+  useEffect(() => {
+    fetch(`/api/place/${placeId}`)
+      .then((r) => r.json())
+      .then((d: PlaceRating) => setData(d))
+      .catch(() => setData({ rating: null, user_ratings_total: null }))
+      .finally(() => setLoading(false))
+  }, [placeId])
+
+  if (loading) {
+    return <span className="text-xs text-gray-400 animate-pulse">評価を取得中...</span>
+  }
+
+  if (!data?.rating) {
+    return <span className="text-xs text-gray-400">評価情報なし</span>
+  }
+
+  return (
+    <div className="flex items-center gap-1.5 flex-wrap">
+      <StarRating rating={data.rating} />
+      <span className="text-sm font-semibold text-gray-700">{data.rating.toFixed(1)}</span>
+      {data.user_ratings_total != null && (
+        <span className="text-xs text-gray-500">口コミ {data.user_ratings_total.toLocaleString()}件</span>
+      )}
+      <a
+        href={`https://www.google.com/maps/place/?q=place_id:${placeId}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-xs text-blue-500 hover:underline ml-1"
+      >
+        Googleマップで口コミを見る →
+      </a>
+    </div>
+  )
 }
 
 type Props = {
@@ -75,6 +127,15 @@ export default function LessonDetailModal({ lesson, onClose }: Props) {
 
         {/* 詳細内容 */}
         <div className="px-4 py-4 space-y-3 text-sm">
+          {/* Google評価 */}
+          <div className="flex gap-2 items-start">
+            <span className="shrink-0">⭐</span>
+            {lesson.google_place_id
+              ? <GoogleRating placeId={lesson.google_place_id} />
+              : <span className="text-xs text-gray-400">評価情報なし</span>
+            }
+          </div>
+
           {lesson.address && (
             <div className="flex gap-2">
               <span className="shrink-0">📍</span>
