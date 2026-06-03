@@ -125,7 +125,7 @@ export default function SearchPage({ lessons }: Props) {
         >
           <div className="flex flex-col flex-1 min-h-0 overflow-hidden">
             {/* フィルタパネル */}
-            <div className="border-b border-gray-200 shrink-0 overflow-y-auto max-h-[55vh] sm:max-h-none divide-y divide-gray-200">
+            <div className="border-b border-gray-200 shrink-0 divide-y divide-gray-200">
               <div className="p-3">
                 <CategoryFilter
                   selected={filter.categories}
