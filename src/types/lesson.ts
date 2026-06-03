@@ -9,6 +9,8 @@ export type Schedule = {
 export type Lesson = {
   name: string
   category: string
+  city?: string
+  prefecture?: string
   address: string | null
   website: string | null
   phone: string | null

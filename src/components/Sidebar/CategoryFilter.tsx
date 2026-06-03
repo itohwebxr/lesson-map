@@ -1,11 +1,30 @@
 'use client'
 
+import { useState } from 'react'
 import { CATEGORIES } from '@/lib/filterLessons'
 
 const CATEGORY_ICONS: Record<string, string> = {
-  'サッカー': '⚽', 'スイミング': '🏊', 'ダンス': '💃', '体操': '🤸',
-  '英会話': '🌏', '学習塾': '📚', 'ピアノ': '🎹', 'プログラミング': '💻',
+  'サッカー': '⚽',
+  'スイミング': '🏊',
+  'ダンス': '💃',
+  'バレエ': '🩰',
+  '体操': '🤸',
+  '新体操': '🎀',
+  'チアダンス': '📣',
+  '英会話': '🌏',
+  '学習塾': '📚',
+  'ピアノ': '🎹',
+  'プログラミング': '💻',
+  '武道': '🥋',
+  'テニス': '🎾',
+  'バスケ': '🏀',
+  '野球': '⚾',
+  '習字': '🖌️',
+  'そろばん': '🧮',
+  '幼児教室': '🧸',
 }
+
+const INITIAL_COUNT = 8
 
 type Props = {
   selected: string[]
@@ -13,6 +32,8 @@ type Props = {
 }
 
 export default function CategoryFilter({ selected, onChange }: Props) {
+  const [expanded, setExpanded] = useState(false)
+
   function toggle(cat: string) {
     onChange(
       selected.includes(cat)
@@ -20,6 +41,9 @@ export default function CategoryFilter({ selected, onChange }: Props) {
         : [...selected, cat]
     )
   }
+
+  const visible = expanded ? CATEGORIES : CATEGORIES.slice(0, INITIAL_COUNT)
+  const hiddenCount = CATEGORIES.length - INITIAL_COUNT
 
   return (
     <div>
@@ -32,7 +56,7 @@ export default function CategoryFilter({ selected, onChange }: Props) {
         </div>
       </div>
       <div className="grid grid-cols-2 gap-1">
-        {CATEGORIES.map((cat) => {
+        {visible.map((cat) => {
           const active = selected.includes(cat)
           return (
             <button
@@ -44,12 +68,23 @@ export default function CategoryFilter({ selected, onChange }: Props) {
                   : 'bg-white border-gray-200 text-gray-500 hover:border-gray-300'
               }`}
             >
-              <span>{CATEGORY_ICONS[cat]}</span>
+              <span>{CATEGORY_ICONS[cat] ?? '📍'}</span>
               <span>{cat}</span>
             </button>
           )
         })}
       </div>
+      <button
+        onClick={() => setExpanded((v) => !v)}
+        className="mt-1.5 w-full text-xs text-gray-400 hover:text-gray-600 flex items-center justify-center gap-1"
+      >
+        {expanded ? (
+          <>▲ 閉じる</>
+        ) : (
+          <>▼ さらに{hiddenCount}件を表示</>
+        )}
+      </button>
     </div>
   )
 }
+

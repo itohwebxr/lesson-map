@@ -1,9 +1,13 @@
 import type { Lesson, FilterState } from '@/types/lesson'
 
 export const CATEGORIES = [
-  'サッカー', 'スイミング', 'ダンス', '体操',
+  'サッカー', 'スイミング', 'ダンス', 'バレエ', '体操', '新体操', 'チアダンス',
   '英会話', '学習塾', 'ピアノ', 'プログラミング',
+  '武道', 'テニス', 'バスケ', '野球',
+  '習字', 'そろばん', '幼児教室',
 ]
+
+export const CITIES = ['大津市', '草津市']
 
 export const AGE_OPTIONS = [
   { label: '未就園児（〜2歳）', value: 'baby' },

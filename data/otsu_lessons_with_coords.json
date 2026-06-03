@@ -85,7 +85,7 @@
   {
     "name": "リベルタサッカースクール 瀬田",
     "category": "サッカー",
-    "address": "滋賀県大津市大江4丁目2-1（瀬田小学校グラウンド）",
+    "address": "滋賀県大津市大江４丁目２−１",
     "website": "https://liberta.sport-school.com/school/%E7%80%AC%E7%94%B0",
     "phone": "0120-735-410",
     "target_age": "未就園児〜小学6年生",
@@ -109,14 +109,14 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school/%E7%80%AC%E7%94%B0",
     "organization_type": "national_chain",
-    "lat": 34.9814572,
-    "lng": 135.9207366,
+    "lat": 34.9816399,
+    "lng": 135.9211425,
     "geocode_accuracy": "ROOFTOP"
   },
   {
     "name": "リベルタサッカースクール 南郷",
     "category": "サッカー",
-    "address": "滋賀県大津市南郷1丁目15-9（南郷小学校グラウンド）",
+    "address": "滋賀県大津市南郷１丁目１５−９",
     "website": "https://liberta.sport-school.com/",
     "phone": "0120-735-410",
     "target_age": "未就園児〜小学6年生",
@@ -135,14 +135,14 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 34.9393605,
-    "lng": 135.907076,
+    "lat": 34.940588,
+    "lng": 135.906933,
     "geocode_accuracy": "ROOFTOP"
   },
   {
     "name": "リベルタサッカースクール 茶臼山",
     "category": "サッカー",
-    "address": "滋賀県大津市富士見台42-16付近（富士見小学校グラウンド）",
+    "address": "滋賀県大津市富士見台４２−１６ 富士見児童クラブ",
     "website": "https://liberta.sport-school.com/",
     "phone": "0120-735-410",
     "target_age": "未就園児〜小学6年生",
@@ -161,14 +161,14 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 34.9789402,
-    "lng": 135.8822644,
+    "lat": 34.979331,
+    "lng": 135.88253,
     "geocode_accuracy": "ROOFTOP"
   },
   {
     "name": "リベルタサッカースクール 青山中央",
     "category": "サッカー",
-    "address": "滋賀県大津市青山5丁目12（青山中央公園）",
+    "address": "滋賀県大津市青山５丁目１２ 青山中央公園",
     "website": "https://liberta.sport-school.com/",
     "phone": "0120-735-410",
     "target_age": "未就園児〜小学6年生",
@@ -182,14 +182,14 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 34.9783937,
-    "lng": 135.9678863,
-    "geocode_accuracy": "GEOMETRIC_CENTER"
+    "lat": 34.9786839,
+    "lng": 135.9678704,
+    "geocode_accuracy": "ROOFTOP"
   },
   {
     "name": "リベルタサッカースクール 仰木の里東",
     "category": "サッカー",
-    "address": "滋賀県大津市（仰木の里東小学校グラウンド）",
+    "address": "滋賀県大津市仰木の里東６丁目１−１",
     "website": "https://liberta.sport-school.com/",
     "phone": "0120-735-410",
     "target_age": "未就園児〜小学6年生",
@@ -213,14 +213,14 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 35.0178371,
-    "lng": 135.8552084,
-    "geocode_accuracy": "APPROXIMATE"
+    "lat": 35.1092435,
+    "lng": 135.9003785,
+    "geocode_accuracy": "ROOFTOP"
   },
   {
     "name": "リベルタサッカースクール におの浜",
     "category": "サッカー",
-    "address": "滋賀県大津市木下町2-24（滋賀朝鮮初中級学校グラウンド）",
+    "address": "滋賀県大津市木下町２−２４",
     "website": "https://liberta.sport-school.com/",
     "phone": "0120-735-410",
     "target_age": "未就園児〜小学6年生",
@@ -254,8 +254,8 @@
     "price": "月謝約8,290円（全国統一料金）、入会金8,300円",
     "source_url": "https://liberta.sport-school.com/school-all?pref=27&city=%E5%A4%A7%E6%B4%A5%E5%B8%82",
     "organization_type": "national_chain",
-    "lat": 34.9989982,
-    "lng": 135.889236,
+    "lat": 34.9989724,
+    "lng": 135.8892287,
     "geocode_accuracy": "ROOFTOP"
   },
   {
@@ -308,7 +308,7 @@
   {
     "name": "エフォートフットボールクラブ（MINOBE FOOTBALL ACADEMY）",
     "category": "サッカー",
-    "address": "滋賀県大津市御陵町4丁目1（皇子山総合運動公園）",
+    "address": "滋賀県大津市御陵町４丁目１ 皇子山総合運動公園",
     "website": "https://fceffort.com/",
     "phone": "080-1463-6598",
     "target_age": "ジュニア（小学生）・U-13〜U-15（中学生）",
@@ -327,9 +327,15 @@
     "price": null,
     "source_url": "https://fceffort.com/",
     "organization_type": "individual",
-    "lat": 35.0189411,
-    "lng": 135.8570512,
-    "geocode_accuracy": "GEOMETRIC_CENTER"
+    "lat": 35.0189926,
+    "lng": 135.856854,
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "滋賀レイクセレソン セレスク キッズU-6",
@@ -365,7 +371,14 @@
     "organization_type": "regional_chain",
     "lat": 35.021557,
     "lng": 135.8558483,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "滋賀レイクセレソン セレスク ジュニアU-12",
@@ -406,12 +419,19 @@
     "organization_type": "regional_chain",
     "lat": 35.021557,
     "lng": 135.8558483,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "サカスク滋賀 大津校",
     "category": "サッカー",
-    "address": "滋賀県大津市御陵町4-1（皇子山総合運動公園）",
+    "address": "滋賀県大津市御陵町４丁目１ 皇子山総合運動公園",
     "website": "https://sakasuku-shiga.com/",
     "phone": "080-1415-7037",
     "target_age": "年中〜中学3年生",
@@ -440,14 +460,14 @@
     "price": "入会金5,400円 / Kids週1：5,400円 / Junior U9週1：6,480円 / Junior U12週1：7,560円 ＋年会費8,000円",
     "source_url": "https://suposuku.jp/venues/3458/fees",
     "organization_type": "regional_chain",
-    "lat": 35.021557,
-    "lng": 135.8558483,
+    "lat": 35.0189926,
+    "lng": 135.856854,
     "geocode_accuracy": "ROOFTOP"
   },
   {
     "name": "打出FC",
     "category": "サッカー",
-    "address": "滋賀県大津市打出浜15-1（大津市立中央小学校グラウンド）",
+    "address": "滋賀県大津市島の関１−６０",
     "website": "https://uchide-fc.com/",
     "phone": null,
     "target_age": "小学生",
@@ -455,14 +475,18 @@
     "price": null,
     "source_url": "https://uchide-fc.com/",
     "organization_type": "community",
-    "lat": 35.007061,
-    "lng": 135.8768701,
-    "geocode_accuracy": "ROOFTOP"
+    "lat": 35.007964,
+    "lng": 135.868717,
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "晴嵐スポーツ少年団サッカー部",
     "category": "サッカー",
-    "address": "滋賀県大津市光が丘町4-70（大津市立晴嵐小学校グラウンド）",
+    "address": "滋賀県大津市光が丘町４−７０",
     "website": null,
     "phone": null,
     "target_age": "小学1年生〜6年生",
@@ -481,14 +505,16 @@
     "price": null,
     "source_url": "https://kids-school.msta.co.jp/group-sports/cat-soccer/feature-saturday-soccer/p-shiga/c-25201",
     "organization_type": "community",
-    "lat": 34.9723048,
-    "lng": 135.8991005,
-    "geocode_accuracy": "ROOFTOP"
+    "lat": 34.9726228,
+    "lng": 135.8977032,
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "里東FC",
     "category": "サッカー",
-    "address": "滋賀県大津市仰木の里東（大津市立仰木の里東小学校グラウンド）",
+    "address": "滋賀県大津市仰木の里東",
     "website": "https://satohigashi-fc.com/",
     "phone": null,
     "target_age": "年長〜小学6年生",
@@ -507,14 +533,21 @@
     "price": "入会金2,000円 / 月会費：年長500円・1〜3年1,000円・4〜6年1,500円",
     "source_url": "https://satohigashi-fc.com/",
     "organization_type": "community",
-    "lat": 35.107118,
-    "lng": 135.8980274,
-    "geocode_accuracy": "APPROXIMATE"
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "SHIGA CITY サッカースクール",
     "category": "サッカー",
-    "address": "滋賀県大津市森領町4-1（皇子山総合運動公園）",
+    "address": "滋賀県大津市御陵町４丁目１ 皇子山総合運動公園",
     "website": "https://shigacity-fc.jp/school/",
     "phone": null,
     "target_age": "4歳〜小学6年生",
@@ -522,9 +555,15 @@
     "price": "月謝6,500円〜",
     "source_url": "https://p-ground.com/s/?id=A1154-001",
     "organization_type": "regional_chain",
-    "lat": 34.9384964,
-    "lng": 135.9432011,
-    "geocode_accuracy": "APPROXIMATE"
+    "lat": 35.0189926,
+    "lng": 135.856854,
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "レイラック滋賀FC サッカースクール 大津校",
@@ -539,12 +578,17 @@
     "organization_type": "regional_chain",
     "lat": 34.9707501,
     "lng": 135.9510663,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "FC.SETA 2002 SHIGA ジュニア",
     "category": "サッカー",
-    "address": "滋賀県大津市瀬田地区（瀬田東小学校グラウンド）",
+    "address": "滋賀県大津市一里山２丁目２０−２",
     "website": "https://fc-seta-jr.com/",
     "phone": null,
     "target_age": "小学生（U-12）",
@@ -552,9 +596,14 @@
     "price": null,
     "source_url": "https://fc-seta-jr.com/",
     "organization_type": "community",
-    "lat": 34.9656842,
-    "lng": 135.9099111,
-    "geocode_accuracy": "APPROXIMATE"
+    "lat": 34.983096,
+    "lng": 135.930369,
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "びわこスポーツクラブ サッカースクール",
@@ -569,7 +618,11 @@
     "organization_type": "regional_chain",
     "lat": 35.2269735,
     "lng": 135.9447685,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "大津イトマンスポーツクラブ",
@@ -610,7 +663,13 @@
     "organization_type": "individual",
     "lat": 35.1166113,
     "lng": 135.9141289,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "high",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "大津市富士見市民温水プール（スポック富士見） キッズスイミング",
@@ -625,7 +684,23 @@
     "organization_type": "public",
     "lat": 34.9820243,
     "lng": 135.8857177,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days": [
+      "火",
+      "水",
+      "木",
+      "金",
+      "土",
+      "日"
+    ],
+    "lesson_days_confidence": "medium",
+    "monthly_fee": 5500,
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "皇子が丘公園プール キッズスイミング",
@@ -640,7 +715,26 @@
     "organization_type": "public",
     "lat": 35.0238557,
     "lng": 135.8545814,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days": [
+      "月",
+      "水",
+      "木",
+      "金",
+      "土"
+    ],
+    "lesson_days_confidence": "medium",
+    "lesson_times": [
+      "15:30-16:30",
+      "16:30-17:30",
+      "17:30-18:30"
+    ],
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ニスポ・スイムクラブ 西大津",
@@ -655,7 +749,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0254914,
     "lng": 135.8621295,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ビバスポーツアカデミー瀬田 びばっこスイミング",
@@ -670,14 +769,19 @@
     "organization_type": "individual",
     "lat": 34.9866441,
     "lng": 135.9296788,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "DDPダンススクール（本堅田校）",
     "category": "ダンス",
     "address": "滋賀県大津市本堅田4丁目15-25 グラン・ドムール大津堅田B102号",
     "website": "https://www.ddp-dance.com/",
-    "phone": null,
+    "phone": "077-548-6283",
     "target_age": "リトルキッズ・キッズ・レギュラー・大人",
     "schedules": [
       {
@@ -691,7 +795,18 @@
     "organization_type": "regional_chain",
     "lat": 35.1188805,
     "lng": 135.9182686,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times": [
+      "10:10-11:00",
+      "11:00-12:00"
+    ],
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "セイハダンスアカデミー フォレオ大津一里山校",
@@ -732,7 +847,13 @@
     "organization_type": "national_chain",
     "lat": 34.974236,
     "lng": 135.9333022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "スポーツクラブNAS大津一里山（エイベックス・ダンスマスター）",
@@ -747,7 +868,11 @@
     "organization_type": "national_chain",
     "lat": 34.974236,
     "lng": 135.9333022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "リディアダンスアカデミー 津藤方校",
@@ -760,8 +885,14 @@
     "price": null,
     "source_url": "https://ksn-japan.net/school/%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC-%E6%B4%A5%E8%97%A4%E6%96%B9%E6%A0%A1/",
     "organization_type": "regional_chain",
-    "lat": 34.99559733439491,
-    "lng": 135.8728824884898
+    "lat": null,
+    "lng": null,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "JEUGIAミュージックセンター大津京（ダンス）",
@@ -776,7 +907,11 @@
     "organization_type": "national_chain",
     "lat": 35.0245593,
     "lng": 135.8580176,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "びわこクリーンJr体操クラブ 下阪本本校",
@@ -868,7 +1003,7 @@
     "address": "滋賀県大津市一里山6丁目9-1 瀬田公園体育館 小アリーナ",
     "website": "https://athlete-sc.com/",
     "phone": "077-525-7357",
-    "target_age": null,
+    "target_age": "1歳〜小学6年生",
     "schedules": [
       {
         "weekday": "水",
@@ -881,7 +1016,21 @@
     "organization_type": "individual",
     "lat": 34.9766574,
     "lng": 135.9385156,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times": [
+      "13:10-13:50",
+      "14:00-14:50",
+      "15:00-15:50",
+      "16:00-16:50"
+    ],
+    "lesson_times_confidence": "high",
+    "monthly_fee_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "アスリートスポーツクラブ 勤労センター体操クラブ（木曜）",
@@ -921,8 +1070,15 @@
     "price": "月謝5,280円（税込）月4回",
     "source_url": "https://athlete-sc.com/club/saturday/",
     "organization_type": "individual",
-    "lat": 35.007101347207936,
-    "lng": 135.8736710078278
+    "lat": null,
+    "lng": null,
+    "lesson_days_confidence": "high",
+    "monthly_fee_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "サトウスポーツスクール",
@@ -935,8 +1091,13 @@
     "price": null,
     "source_url": "https://www.sss3043.com/information/",
     "organization_type": "individual",
-    "lat": 35.00577618299744,
-    "lng": 135.87217088324644
+    "lat": null,
+    "lng": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "四幸スポーツクラブ 体操教室（大津・瀬田エリア）",
@@ -951,7 +1112,21 @@
     "organization_type": "regional_chain",
     "lat": 34.9948574,
     "lng": 135.949881,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days": [
+      "水"
+    ],
+    "lesson_days_confidence": "medium",
+    "lesson_times": [
+      "16:00-16:50",
+      "17:00-17:50"
+    ],
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "大津イトマンスポーツクラブ 体操キッズクラス",
@@ -987,7 +1162,11 @@
     "organization_type": "national_chain",
     "lat": 34.974236,
     "lng": 135.9333022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "biima sports 大津校",
@@ -1013,21 +1192,33 @@
     "organization_type": "national_chain",
     "lat": 35.0290393,
     "lng": 135.864418,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "マジョリティ新体操クラブ",
     "category": "体操",
     "address": null,
     "website": "https://majority-rg.jp/",
-    "phone": null,
+    "phone": "090-8577-2792",
     "target_age": null,
     "schedules": [],
     "price": null,
     "source_url": "https://majority-rg.jp/",
     "organization_type": "individual",
-    "lat": 35.008593483775115,
-    "lng": 135.87806334571525
+    "lat": null,
+    "lng": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "ボブロペス英会話教室",
@@ -1042,7 +1233,12 @@
     "organization_type": "individual",
     "lat": 35.0139211,
     "lng": 135.8630174,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "Lakeside英会話（レイクサイド英会話）",
@@ -1057,7 +1253,12 @@
     "organization_type": "individual",
     "lat": 35.2199892,
     "lng": 135.9249517,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "SONIC ENGLISH",
@@ -1070,9 +1271,14 @@
     "price": null,
     "source_url": "https://www.sonic-english.com/",
     "organization_type": "individual",
-    "lat": 34.9787246,
-    "lng": 135.9336873,
-    "geocode_accuracy": "APPROXIMATE"
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "HIRO英語教室",
@@ -1087,7 +1293,12 @@
     "organization_type": "individual",
     "lat": 35.0277677,
     "lng": 135.8617359,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "セイハ英語学院 フォレオ大津一里山教室",
@@ -1128,7 +1339,13 @@
     "organization_type": "national_chain",
     "lat": 34.974236,
     "lng": 135.9333022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "セイハ英語学院 バロー茶が崎教室",
@@ -1141,8 +1358,14 @@
     "price": null,
     "source_url": "https://english-academy.seiha.com/classroom/914995/",
     "organization_type": "national_chain",
-    "lat": 35.003403279869794,
-    "lng": 135.86214041253703
+    "lat": null,
+    "lng": null,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "アルクKiddy CAT英語教室 大津膳所校",
@@ -1157,7 +1380,13 @@
     "organization_type": "regional_chain",
     "lat": 35.0022559,
     "lng": 135.8801673,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ペッピーキッズクラブ 大津中央教室",
@@ -1172,7 +1401,11 @@
     "organization_type": "national_chain",
     "lat": 34.9801057,
     "lng": 135.9314054,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ペッピーキッズクラブ 大津瀬田教室",
@@ -1187,7 +1420,11 @@
     "organization_type": "national_chain",
     "lat": 34.9801057,
     "lng": 135.9314054,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "キッズデュオ 膳所ときめき坂",
@@ -1208,7 +1445,14 @@
     "organization_type": "national_chain",
     "lat": 35.0029225,
     "lng": 135.880894,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "キッズデュオ 大津瀬田",
@@ -1229,7 +1473,14 @@
     "organization_type": "national_chain",
     "lat": 34.9940622,
     "lng": 135.9204789,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "こども英会話イーオンキッズ 瀬田校",
@@ -1255,7 +1506,14 @@
     "organization_type": "national_chain",
     "lat": 34.985272,
     "lng": 135.9266982,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ECCジュニア 神領教室",
@@ -1268,8 +1526,15 @@
     "price": "月謝6,600円〜12,100円（年齢・コースによる）",
     "source_url": "https://eccjuniorbs.jp/ht250271/",
     "organization_type": "national_chain",
-    "lat": 35.00372987262264,
-    "lng": 135.87557315575745
+    "lat": null,
+    "lng": null,
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "ヤマハ英語教室 ミュージックセンター大津京",
@@ -1284,7 +1549,13 @@
     "organization_type": "national_chain",
     "lat": 35.0244384,
     "lng": 135.8578552,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヤマハ英語教室 JEUGIAアル・プラザ堅田センター",
@@ -1299,7 +1570,13 @@
     "organization_type": "national_chain",
     "lat": 35.1192398,
     "lng": 135.9156585,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "自立型個別指導サクラ塾",
@@ -1312,8 +1589,14 @@
     "price": null,
     "source_url": "https://sucla-otsu.net/",
     "organization_type": "individual",
-    "lat": 34.99536964044968,
-    "lng": 135.86940639206054
+    "lat": null,
+    "lng": null,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "サクラ塾 自立型個別指導 大津市役所前",
@@ -1326,8 +1609,14 @@
     "price": null,
     "source_url": "https://www.sucla-otsu.com/",
     "organization_type": "individual",
-    "lat": 34.999900919358446,
-    "lng": 135.87168848955653
+    "lat": null,
+    "lng": null,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "個別指導アップ学習会 プラコベ大津中央教室",
@@ -1342,7 +1631,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0066931,
     "lng": 135.8640718,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "自立学習塾RED 大津青山教室",
@@ -1436,7 +1730,13 @@
     "organization_type": "national_chain",
     "lat": 34.9932944,
     "lng": 135.9265532,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "個別指導塾サクラサクセス 大津おごと温泉駅前教室",
@@ -1451,7 +1751,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0980364,
     "lng": 135.8934,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "個別指導塾サクラサクセス 大津膳所駅前教室",
@@ -1466,7 +1771,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9984823,
     "lng": 135.8801028,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "明光義塾 堅田教室",
@@ -1487,7 +1797,14 @@
     "organization_type": "national_chain",
     "lat": 35.12025270000001,
     "lng": 135.9175022,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "medium",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "学研教室 石山駅前教室",
@@ -1502,7 +1819,12 @@
     "organization_type": "national_chain",
     "lat": 34.9792852,
     "lng": 135.8996068,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ナビ個別指導学院 堅田校",
@@ -1559,7 +1881,13 @@
     "organization_type": "regional_chain",
     "lat": 35.1199491,
     "lng": 135.915062,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ゴールフリー 大津中央教室",
@@ -1574,7 +1902,12 @@
     "organization_type": "regional_chain",
     "lat": 35.003408,
     "lng": 135.8632927,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "KEC近畿教育学院 大津京校",
@@ -1615,7 +1948,11 @@
     "organization_type": "individual",
     "lat": 35.1576743,
     "lng": 135.9170755,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ラプリマ音楽教室",
@@ -1636,7 +1973,13 @@
     "organization_type": "individual",
     "lat": 35.0724417,
     "lng": 135.8724679,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_times_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "五野ピアノ教室（大津教室）",
@@ -1667,12 +2010,19 @@
     "organization_type": "individual",
     "lat": 35.0131606,
     "lng": 135.8626088,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "いがたピアノ・リトミック教室",
     "category": "ピアノ",
-    "address": "滋賀県大津市緑町（真野北小学校近く）",
+    "address": "滋賀県大津市緑町１５−２",
     "website": "https://igatapiano.com/",
     "phone": null,
     "target_age": "0歳〜シニア",
@@ -1680,9 +2030,14 @@
     "price": "月謝制5,000円〜8,000円／回数制2,000円（30分）",
     "source_url": "https://igatapiano.com/",
     "organization_type": "individual",
-    "lat": 35.14505219999999,
-    "lng": 135.9093168,
-    "geocode_accuracy": "APPROXIMATE"
+    "lat": 35.1444336,
+    "lng": 135.9083337,
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "あいりすピアノ教室",
@@ -1697,7 +2052,11 @@
     "organization_type": "individual",
     "lat": 34.9746541,
     "lng": 135.9051573,
-    "geocode_accuracy": "APPROXIMATE"
+    "geocode_accuracy": "APPROXIMATE",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "古矢ピアノ教室",
@@ -1718,7 +2077,13 @@
     "organization_type": "individual",
     "lat": 34.985551,
     "lng": 135.8839515,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ポコアポコピアノ教室",
@@ -1733,7 +2098,12 @@
     "organization_type": "individual",
     "lat": 34.9940927,
     "lng": 135.8790474,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ピアノ教室 ゆめlabo",
@@ -1752,9 +2122,15 @@
     "price": null,
     "source_url": "https://yume-labo.net/",
     "organization_type": "individual",
-    "lat": 34.9987717,
-    "lng": 135.8689247,
-    "geocode_accuracy": "APPROXIMATE"
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "いのうえ音楽教室",
@@ -1769,7 +2145,13 @@
     "organization_type": "individual",
     "lat": 35.0950138,
     "lng": 135.9044581,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "サウンズクラブ音楽教室",
@@ -1795,7 +2177,13 @@
     "organization_type": "individual",
     "lat": 34.9891438,
     "lng": 135.8943396,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "大村夢ピアノ教室（大津京・唐崎教室）",
@@ -1808,9 +2196,14 @@
     "price": "大津京教室：月謝10,000円／唐崎教室：20分7,000円",
     "source_url": "https://yumepianostudio.crayonsite.com/",
     "organization_type": "individual",
-    "lat": 35.0178371,
-    "lng": 135.8552084,
-    "geocode_accuracy": "APPROXIMATE"
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "monthly_fee_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "カワイ音楽教室 奏美ホール",
@@ -1831,7 +2224,14 @@
     "organization_type": "national_chain",
     "lat": 35.005869,
     "lng": 135.8618361,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "カワイ音楽教室 コジャック",
@@ -1846,7 +2246,13 @@
     "organization_type": "national_chain",
     "lat": 35.1166113,
     "lng": 135.9141289,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "medium",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヤマハ音楽教室（JEUGIAミュージックセンター大津京）",
@@ -1872,7 +2278,13 @@
     "organization_type": "national_chain",
     "lat": 35.0245593,
     "lng": 135.8580176,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヤマハ音楽教室（JEUGIA 大津テラス）",
@@ -1887,7 +2299,11 @@
     "organization_type": "national_chain",
     "lat": 35.0043069,
     "lng": 135.879797,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "アットスクール膳所教室（プログラミング）",
@@ -1902,7 +2318,12 @@
     "organization_type": "individual",
     "lat": 35.0043069,
     "lng": 135.879797,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "どんぐりIT教室",
@@ -1968,7 +2389,14 @@
     "organization_type": "individual",
     "lat": 35.0054396,
     "lng": 135.8840565,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 大津京校（KEC近畿教育学院併設）",
@@ -1983,7 +2411,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0249388,
     "lng": 135.8596689,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 石山校（KEC近畿教育学院併設）",
@@ -1998,7 +2431,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9770749,
     "lng": 135.9018836,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 開成 石山教室",
@@ -2013,7 +2451,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9781183,
     "lng": 135.9007742,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 開成 膳所教室",
@@ -2028,7 +2471,12 @@
     "organization_type": "regional_chain",
     "lat": 35.0035962,
     "lng": 135.878764,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 開成 瀬田教室",
@@ -2043,7 +2491,12 @@
     "organization_type": "regional_chain",
     "lat": 34.9922237,
     "lng": 135.9270207,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プログラミング教育 HALLO Kids Duo 大津瀬田校",
@@ -2064,7 +2517,14 @@
     "organization_type": "national_chain",
     "lat": 34.9940622,
     "lng": 135.9204789,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プログラミング教育 HALLO Kids Duo 膳所ときめき坂校",
@@ -2085,7 +2545,14 @@
     "organization_type": "national_chain",
     "lat": 35.0029225,
     "lng": 135.880894,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プログラミング教育 HALLO ビバスポーツアカデミー 瀬田校",
@@ -2100,7 +2567,12 @@
     "organization_type": "national_chain",
     "lat": 34.9866441,
     "lng": 135.9296788,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヒューマンアカデミージュニア ロボット教室 大津京",
@@ -2115,7 +2587,13 @@
     "organization_type": "national_chain",
     "lat": 35.0216534,
     "lng": 135.8553335,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "monthly_fee_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "ヒューマンアカデミージュニア 大津堅田教室",
@@ -2128,8 +2606,14 @@
     "price": null,
     "source_url": "https://kids.athuman.com/search/detail/?store_id=3195",
     "organization_type": "national_chain",
-    "lat": 35.01258694367453,
-    "lng": 135.86358988270604
+    "lat": null,
+    "lng": null,
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "QUREOプログラミング教室 馬渕個別 石山校",
@@ -2153,8 +2637,16 @@
     "price": null,
     "source_url": "https://qureo.jp/class/mabuchikobetsu_ishiyama",
     "organization_type": "national_chain",
-    "lat": 35.0088962535271,
-    "lng": 135.8712138404657
+    "lat": null,
+    "lng": null,
+    "lesson_days_confidence": "high",
+    "lesson_times_confidence": "high",
+    "target_age_confidence": "high",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02",
+    "geocode_accuracy": null
   },
   {
     "name": "QUREOプログラミング教室 アップ学習会 プラコベ 大津中央教室",
@@ -2169,7 +2661,12 @@
     "organization_type": "national_chain",
     "lat": 35.0066931,
     "lng": 135.8640718,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
   },
   {
     "name": "プロクラ 西大津校（KEC近畿教育学院併設）",
@@ -2184,6 +2681,4167 @@
     "organization_type": "regional_chain",
     "lat": 35.0249388,
     "lng": 135.8596689,
-    "geocode_accuracy": "ROOFTOP"
+    "geocode_accuracy": "ROOFTOP",
+    "target_age_confidence": "medium",
+    "data_sources": [
+      "official_site"
+    ],
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "谷口バレエスタジオ",
+    "category": "バレエ",
+    "address": "滋賀県大津市一里山4-15-9",
+    "website": "https://taniguchiballet.com/",
+    "phone": "077-545-8392",
+    "target_age": "幼児〜中学生以上",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "goo_townpage"
+    ],
+    "data_quality": "high",
+    "lat": 34.9809313,
+    "lng": 135.9304026,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://taniguchiballet.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "きたむらバレエスタジオ",
+    "category": "バレエ",
+    "address": "滋賀県大津市西の庄2-15",
+    "website": "https://kitamura-ballet-studio.com/",
+    "phone": "077-525-0577",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0000266,
+    "lng": 135.8854106,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://kitamura-ballet-studio.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "左近幸子バレエスタジオ",
+    "category": "バレエ",
+    "address": "滋賀県大津市",
+    "website": "http://sakonballet.com/",
+    "phone": "077-532-2048",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "http://sakonballet.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "チカモダンバレエ・スタジオ",
+    "category": "バレエ",
+    "address": "滋賀県大津市富士見台29-10 AKCスタジオ1階",
+    "website": "https://chika-mballet-studio.net/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9830056,
+    "lng": 135.8853532,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://chika-mballet-studio.net/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "宮下バレエ学園 大津教室",
+    "category": "バレエ",
+    "address": "滋賀県大津市京町1丁目3 Studio Lobelia内",
+    "website": "https://www.miyashita-ballet.com/sc-school04/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0069751,
+    "lng": 135.8634329,
+    "geocode_accuracy": "GEOMETRIC_CENTER",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.miyashita-ballet.com/sc-school04/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "真美バレエ・カンパニー",
+    "category": "バレエ",
+    "address": "滋賀県大津市",
+    "website": "https://www.mami-ballet-company.com/",
+    "phone": null,
+    "target_age": "3歳〜",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.mami-ballet-company.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "永田バレエスクール 堅田教室",
+    "category": "バレエ",
+    "address": "滋賀県大津市真野1-1-62 江若交通ビル5F",
+    "website": "https://nagataballet-1996.com/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1211154,
+    "lng": 135.915633,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://nagataballet-1996.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "永田バレエスクール 大津京教室",
+    "category": "バレエ",
+    "address": "滋賀県大津市 JEUGIAミュージックセンター大津京内",
+    "website": "https://nagataballet-1996.com/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://nagataballet-1996.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "Ballet Studio Lecrin（バレエスタジオ レクラン）",
+    "category": "バレエ",
+    "address": "滋賀県大津市瀬田",
+    "website": "https://lecrinballet.com/",
+    "phone": null,
+    "target_age": "3歳〜学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://lecrinballet.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "中田佳美バレエ教室",
+    "category": "バレエ",
+    "address": "滋賀県大津市",
+    "website": "http://www.nakata-asayama-ballet.jp/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "http://www.nakata-asayama-ballet.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "司延子モダンバレエ 大津教室",
+    "category": "バレエ",
+    "address": "滋賀県大津市",
+    "website": "https://www.tsukasa-ballet.com/shiga/",
+    "phone": null,
+    "target_age": "幼児〜小学1年生（キッズクラス）",
+    "lesson_days": [
+      "土"
+    ],
+    "lesson_times": [
+      "12:30-13:30"
+    ],
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.tsukasa-ballet.com/shiga/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "畠中三枝バレエ教室",
+    "category": "バレエ",
+    "address": "滋賀県大津市西の庄1-24",
+    "website": null,
+    "phone": "077-524-7596",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0007731,
+    "lng": 135.8850558,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "JEUGIAカルチャーセンター大津テラス クラシックバレエ",
+    "category": "バレエ",
+    "address": "滋賀県大津市打出浜14-30 Oh!Me大津テラス4F",
+    "website": "https://culture.jeugia.co.jp/lesson_detail_13-2439.html",
+    "phone": "077-510-2055",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "high",
+    "lat": 35.0043069,
+    "lng": 135.879797,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://culture.jeugia.co.jp/lesson_detail_13-2439.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "岡寿子モダンバレエ",
+    "category": "バレエ",
+    "address": "滋賀県大津市",
+    "website": "https://happy-nonnon.wixsite.com/nozomimodernballet-1",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://happy-nonnon.wixsite.com/nozomimodernballet-1",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "バレエスタジオ ルルベ",
+    "category": "バレエ",
+    "address": "滋賀県大津市",
+    "website": null,
+    "phone": null,
+    "target_age": "子供",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "instagram"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "西川書道教室",
+    "category": "習字",
+    "address": "滋賀県大津市三井寺町6-45",
+    "website": null,
+    "phone": "077-525-5895",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "navitime"
+    ],
+    "data_quality": "high",
+    "lat": 35.0110982,
+    "lng": 135.8578955,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "酒井幸園書道・ペン字教室",
+    "category": "習字",
+    "address": "滋賀県大津市馬場2-6-10",
+    "website": "https://sakaikouen.wixsite.com/syodou-otsu",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": [
+      "火",
+      "水",
+      "土"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0012879,
+    "lng": 135.8807339,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://sakaikouen.wixsite.com/syodou-otsu",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "三原書道教室",
+    "category": "習字",
+    "address": "滋賀県大津市中央2丁目5-36",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": 35.0068174,
+    "lng": 135.8662663,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "大津ファミリー教室（書道）",
+    "category": "習字",
+    "address": "滋賀県大津市栄町4-12",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": 34.9768089,
+    "lng": 135.9015236,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "CAI湖西塾【習字・書道】本堅田教室",
+    "category": "習字",
+    "address": "滋賀県大津市本堅田3丁目18-35",
+    "website": null,
+    "phone": "077-573-1367",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.1147143,
+    "lng": 135.9167392,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文書写 大津石山教室",
+    "category": "習字",
+    "address": "滋賀県大津市石山",
+    "website": "https://www.kumon.ne.jp/lil/search/classroom.php?no=7501465",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/lil/search/classroom.php?no=7501465",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文書写 蓮池町教室",
+    "category": "習字",
+    "address": "滋賀県大津市蓮池町",
+    "website": "https://www.kumon.ne.jp/lil/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/lil/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "書道教室（国分）",
+    "category": "習字",
+    "address": "滋賀県大津市国分2丁目14-4",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": 34.9618991,
+    "lng": 135.8881933,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "書道教室（栄町）",
+    "category": "習字",
+    "address": "滋賀県大津市栄町5-11",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": 34.976548,
+    "lng": 135.9016943,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "書道教室（真野）",
+    "category": "習字",
+    "address": "滋賀県大津市真野1丁目10-24",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": 35.1217982,
+    "lng": 135.9150927,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "そろタッチ ぜぜ校",
+    "category": "そろばん",
+    "address": "滋賀県大津市本宮2丁目28-13",
+    "website": "https://sorotouch-zeze.jp/",
+    "phone": null,
+    "target_age": "5歳〜小学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "high",
+    "lat": 34.9967932,
+    "lng": 135.8761357,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://sorotouch-zeze.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "そろばん塾ピコ 膳所校",
+    "category": "そろばん",
+    "address": "滋賀県大津市神領１丁目１９−２８",
+    "website": "https://picosoroban.jp/",
+    "phone": "0120-73-4119",
+    "target_age": "年中〜小学生",
+    "lesson_days": [
+      "月",
+      "水",
+      "金",
+      "土"
+    ],
+    "lesson_times": [
+      "14:00-18:30（月水金）",
+      "9:00-12:00（土）"
+    ],
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 34.9725331,
+    "lng": 135.9124309,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://picosoroban.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "そろばん塾ピコ 仰木の里校",
+    "category": "そろばん",
+    "address": "滋賀県大津市仰木の里東4-3-1 成安造形大学内",
+    "website": "https://pico-ohginosato.com/",
+    "phone": "0120-51-3680",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.1084761,
+    "lng": 135.9025638,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://pico-ohginosato.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "そろばん塾ピコ あぐり進学西大津教室",
+    "category": "そろばん",
+    "address": "滋賀県大津市大萱2-14-25",
+    "website": "https://picosoroban.jp/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9882198,
+    "lng": 135.9234551,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://picosoroban.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "石黒珠算学院",
+    "category": "そろばん",
+    "address": "滋賀県大津市本堅田・緑町（2教室）",
+    "website": "http://www.eonet.ne.jp/~ishiguro8/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.115932,
+    "lng": 135.9161592,
+    "geocode_accuracy": "APPROXIMATE",
+    "schedules": null,
+    "price": null,
+    "source_url": "http://www.eonet.ne.jp/~ishiguro8/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "大津学習研究所 そろばん教室",
+    "category": "そろばん",
+    "address": "滋賀県大津市膳所",
+    "website": "https://www.otsu-study.jp/contents/category/soroban/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": [
+      "火",
+      "木",
+      "土"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.otsu-study.jp/contents/category/soroban/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "高穂珠算教室",
+    "category": "そろばん",
+    "address": "滋賀県大津市穴太2-1-20",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "navitime"
+    ],
+    "data_quality": "low",
+    "lat": 35.0525689,
+    "lng": 135.8645392,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "平安速算会 和邇教場",
+    "category": "そろばん",
+    "address": "滋賀県大津市和邇中浜366",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "navitime"
+    ],
+    "data_quality": "low",
+    "lat": 35.162357,
+    "lng": 135.9230239,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "日本珠算連盟大津支部",
+    "category": "そろばん",
+    "address": "滋賀県大津市打出浜2-1",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "navitime"
+    ],
+    "data_quality": "low",
+    "lat": 35.0065124,
+    "lng": 135.8755736,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "上田そろあんスクール 青山教室",
+    "category": "そろばん",
+    "address": "滋賀県大津市青山3-11-11",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": 34.9794486,
+    "lng": 135.9737859,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "しばた珠算塾",
+    "category": "そろばん",
+    "address": "滋賀県大津市坂本4丁目15-6",
+    "website": null,
+    "phone": "090-9219-4665",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0663635,
+    "lng": 135.8700659,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "全国珠算教育連盟大津教室（島の関）",
+    "category": "そろばん",
+    "address": "滋賀県大津市島の関1-10 中央団地2F集会室",
+    "website": null,
+    "phone": "090-3925-2105",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0083699,
+    "lng": 135.8685026,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "全日本空手道連盟 和道会・大津フィジカルクラブ",
+    "category": "武道",
+    "address": "滋賀県大津市札の辻6-17",
+    "website": "http://meikugijuku.com/otsu/",
+    "phone": "077-526-3456",
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search",
+      "navitime"
+    ],
+    "data_quality": "high",
+    "lat": 35.0079231,
+    "lng": 135.8615744,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "http://meikugijuku.com/otsu/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "新極真会 大津堅田道場",
+    "category": "武道",
+    "address": "滋賀県大津市本堅田6丁目18-4",
+    "website": "http://shigatoedojo.com/katata/",
+    "phone": "070-5506-4646",
+    "target_age": "少年部あり",
+    "lesson_days": [
+      "木",
+      "土"
+    ],
+    "lesson_times": [
+      "少年部スタートクラス16:00-17:00（木）",
+      "少年部クラス17:10-18:40（木）",
+      "少年部クラス11:00-12:30（土）"
+    ],
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.1164087,
+    "lng": 135.9112966,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "http://shigatoedojo.com/katata/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "新極真会 浜大津道場",
+    "category": "武道",
+    "address": "滋賀県大津市浜大津4丁目2-15 浜大津SSビル3-1",
+    "website": "https://www.shinkyokushinkai.co.jp/dojo/branches/kinki/shiga/",
+    "phone": "070-5506-4646",
+    "target_age": "少年部あり",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0127621,
+    "lng": 135.8623528,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.shinkyokushinkai.co.jp/dojo/branches/kinki/shiga/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "国際空手道円心会館 大津道場",
+    "category": "武道",
+    "address": "滋賀県大津市打出浜14-30 Oh!Me大津テラス4F JEUGIAカルチャーセンター大津テラス",
+    "website": "https://enshin-shiga.jp/",
+    "phone": "077-510-2055",
+    "target_age": "少年部あり",
+    "lesson_days": [
+      "土"
+    ],
+    "lesson_times": [
+      "少年部（初級）"
+    ],
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0044988,
+    "lng": 135.8796299,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://enshin-shiga.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "日本正剛館空手道士会 大津本部道場",
+    "category": "武道",
+    "address": "滋賀県大津市",
+    "website": "https://seigokan-japan.com/",
+    "phone": null,
+    "target_age": "子供〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://seigokan-japan.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "大津柔道協会",
+    "category": "武道",
+    "address": "滋賀県大津市尾花川12-1 大津市立皇子山中学校",
+    "website": "https://www.otsujukyo.info/",
+    "phone": null,
+    "target_age": "未就学児〜中学生",
+    "lesson_days": [
+      "月",
+      "火",
+      "木",
+      "金",
+      "日"
+    ],
+    "lesson_times": [
+      "18:30-20:30（月火木金）",
+      "18:00-20:00（日）"
+    ],
+    "monthly_fee": 2000,
+    "data_sources": [
+      "judo_dojo_navi",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0207378,
+    "lng": 135.8594656,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.otsujukyo.info/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "清心館（柔道）",
+    "category": "武道",
+    "address": "滋賀県大津市里3-6-19",
+    "website": "https://seishinkan-dojo.com/",
+    "phone": null,
+    "target_age": "幼児〜小学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "judo_dojo_navi"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9406204,
+    "lng": 135.9292137,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://seishinkan-dojo.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "志道館柔道教室",
+    "category": "武道",
+    "address": "滋賀県大津市坂本6丁目1-11 坂本市民格技場",
+    "website": "https://shidoukan-judo.jimdofree.com/",
+    "phone": null,
+    "target_age": "幼年〜小学生",
+    "lesson_days": [
+      "木",
+      "土",
+      "日"
+    ],
+    "lesson_times": [
+      "19:00-21:00（木土）",
+      "9:00-12:00または19:00-21:00（日）"
+    ],
+    "monthly_fee": 1000,
+    "data_sources": [
+      "web_search",
+      "judo_dojo_navi"
+    ],
+    "data_quality": "high",
+    "lat": 35.0717603,
+    "lng": 135.8712415,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://shidoukan-judo.jimdofree.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "晴嵐スポーツ少年団 剣道部",
+    "category": "武道",
+    "address": "滋賀県大津市",
+    "website": "https://seirankendo.wixsite.com/mysite",
+    "phone": null,
+    "target_age": "小学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://seirankendo.wixsite.com/mysite",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "滋賀県立武道館 剣道教室",
+    "category": "武道",
+    "address": "滋賀県大津市おの浜4-2-15",
+    "website": "https://www.bsn.or.jp/budo/%E5%89%A3%E9%81%93%E6%95%99%E5%AE%A4/",
+    "phone": "077-521-8311",
+    "target_age": "初心者〜経験者",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "high",
+    "lat": 35.1494186,
+    "lng": 135.9159173,
+    "geocode_accuracy": "APPROXIMATE",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.bsn.or.jp/budo/%E5%89%A3%E9%81%93%E6%95%99%E5%AE%A4/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "武道館剣道クラブ",
+    "category": "武道",
+    "address": "滋賀県大津市",
+    "website": "https://budokan-kendo-club-web.jimdosite.com/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 2000,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://budokan-kendo-club-web.jimdosite.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "合気道大津スポーツ少年団",
+    "category": "武道",
+    "address": "滋賀県大津市尾花川１２−１",
+    "website": "https://www.rikoujuku.com/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": 35.0207378,
+    "lng": 135.8594656,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.rikoujuku.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "合気道 入江道場 大津石山教室",
+    "category": "武道",
+    "address": "滋賀県大津市石山（石山駅徒歩5分）",
+    "website": "https://iriedojo.wixsite.com/website",
+    "phone": null,
+    "target_age": "子供〜大人",
+    "lesson_days": [
+      "金"
+    ],
+    "lesson_times": [
+      "子どもクラス17:30-18:50",
+      "一般クラス19:00-20:30"
+    ],
+    "monthly_fee": 5000,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 34.9798416,
+    "lng": 135.9002098,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://iriedojo.wixsite.com/website",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "合気道夕照会",
+    "category": "武道",
+    "address": "滋賀県大津市瀬田大江7丁目1 大津市立瀬田中学校武道場",
+    "website": "http://www.sekishokai.net/",
+    "phone": null,
+    "target_age": "少年部・一般",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 2000,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 34.977916,
+    "lng": 135.928372,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "http://www.sekishokai.net/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "合気道平成会 坂本道場",
+    "category": "武道",
+    "address": "滋賀県大津市 大津市立日吉中学校",
+    "website": "https://heiseikai.xsrv.jp/sakamoto/",
+    "phone": null,
+    "target_age": "小中学生〜大人",
+    "lesson_days": [
+      "水"
+    ],
+    "lesson_times": [
+      "19:30-21:00"
+    ],
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://heiseikai.xsrv.jp/sakamoto/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "合気道滋賀 大津道場",
+    "category": "武道",
+    "address": "滋賀県大津市",
+    "website": "https://www.aikido-shiga.jp/products/otsu/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.aikido-shiga.jp/products/otsu/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "長等スポーツ少年団 野球部",
+    "category": "野球",
+    "address": "滋賀県大津市長等（長等小学校区）",
+    "website": "https://nagarabaseballteam.jimdofree.com/",
+    "phone": null,
+    "target_age": "小学生",
+    "lesson_days": [
+      "土",
+      "日",
+      "祝"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://nagarabaseballteam.jimdofree.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "瀬田南スポーツ少年団 野球部",
+    "category": "野球",
+    "address": "滋賀県大津市三大寺１−１",
+    "website": null,
+    "phone": null,
+    "target_age": "小学生（男女）",
+    "lesson_days": [
+      "土",
+      "日",
+      "祝"
+    ],
+    "lesson_times": [
+      "日祝9:00-17:00"
+    ],
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9749016,
+    "lng": 135.9147378,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "坂本スポーツ少年団 野球部",
+    "category": "野球",
+    "address": "滋賀県大津市雄琴・坂本",
+    "website": "https://sakamotossbb.89dream.jp/",
+    "phone": null,
+    "target_age": "小学1〜6年生",
+    "lesson_days": [
+      "土",
+      "日",
+      "祝"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://sakamotossbb.89dream.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "滋賀大津ボーイズ",
+    "category": "野球",
+    "address": "滋賀県大津市 石山市民運動広場",
+    "website": "http://otsu0021.stars.ne.jp/",
+    "phone": "090-3864-9446",
+    "target_age": "小学1〜6年生（男女）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "high",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "http://otsu0021.stars.ne.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "大津瀬田ボーイズ（レイカーズ）",
+    "category": "野球",
+    "address": "滋賀県大津市 荒川グラウンド",
+    "website": "https://www.netto.jp/otsuseta-boys/",
+    "phone": null,
+    "target_age": "中学生（硬式）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.netto.jp/otsuseta-boys/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "麒麟児（きりんじ）少年野球クラブ",
+    "category": "野球",
+    "address": "滋賀県大津市坂本８丁目２７",
+    "website": "https://kirinji.info/",
+    "phone": null,
+    "target_age": "小学1〜6年生（男女）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0811888,
+    "lng": 135.872393,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://kirinji.info/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "田上スポーツ少年団 野球部",
+    "category": "野球",
+    "address": "滋賀県大津市田上",
+    "website": "https://www.eonet.ne.jp/~tanakami/CCP008.html",
+    "phone": null,
+    "target_age": "小学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.eonet.ne.jp/~tanakami/CCP008.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "テニスラウンジ大津",
+    "category": "テニス",
+    "address": "滋賀県大津市別保2丁目855-1",
+    "website": "https://tennislounge.com/otsu/",
+    "phone": "077-533-5522",
+    "target_age": "小学生〜大人（ジュニアコースあり）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 11550,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 34.9834603,
+    "lng": 135.8914926,
+    "geocode_accuracy": "APPROXIMATE",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://tennislounge.com/otsu/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "瀬田グリーンテニスクラブ",
+    "category": "テニス",
+    "address": "滋賀県大津市中野2丁目5-15",
+    "website": "https://www.seta-gtc.com/",
+    "phone": "077-549-1516",
+    "target_age": "小学生〜大人（ジュニアキッズ・初心・中級・上級クラスあり）",
+    "lesson_days": [
+      "火",
+      "水",
+      "木",
+      "金",
+      "土",
+      "日"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search",
+      "tennisnavi"
+    ],
+    "data_quality": "high",
+    "lat": 34.9541477,
+    "lng": 135.9527873,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.seta-gtc.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "テニスカンパニー真野浜テニスクラブ",
+    "category": "テニス",
+    "address": "滋賀県大津市真野5丁目34",
+    "website": "https://www.tennis-company.net/",
+    "phone": "077-573-1700",
+    "target_age": "年長〜小学2年生（キッズ）、小学生以上",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search",
+      "moshicom"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1333716,
+    "lng": 135.9250289,
+    "geocode_accuracy": "GEOMETRIC_CENTER",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.tennis-company.net/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ARROWS TENNIS SCHOOL 堅田校",
+    "category": "テニス",
+    "address": "滋賀県大津市堅田1丁目17",
+    "website": "https://www.arrows-tennis.com/",
+    "phone": null,
+    "target_age": "子供〜大人（ジュニアクラスあり）",
+    "lesson_days": [
+      "水",
+      "金"
+    ],
+    "lesson_times": [
+      "9:30-12:30",
+      "9:30-18:30"
+    ],
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search",
+      "tennisnavi"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1049939,
+    "lng": 135.9108824,
+    "geocode_accuracy": "GEOMETRIC_CENTER",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.arrows-tennis.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "スポーツクラブ コジャック（テニス）",
+    "category": "テニス",
+    "address": "滋賀県大津市本堅田5丁目11-21",
+    "website": "https://sports-kojak.co.jp/",
+    "phone": "077-573-7373",
+    "target_age": "子供〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1166113,
+    "lng": 135.9141289,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://sports-kojak.co.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "滋賀レイクスアカデミー バスケスクール 大津校（におの浜）",
+    "category": "バスケ",
+    "address": "滋賀県大津市におの浜４丁目２−４０",
+    "website": "https://academy.lakestars.jp/",
+    "phone": "077-527-6419",
+    "target_age": "4歳〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 5500,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.005483,
+    "lng": 135.885905,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://academy.lakestars.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "滋賀レイクスアカデミー バスケスクール 皇子が丘校",
+    "category": "バスケ",
+    "address": "滋賀県大津市皇子が丘１丁目１−１ 大津市 皇子が丘公園体育館",
+    "website": "https://academy.lakestars.jp/",
+    "phone": "077-527-6419",
+    "target_age": "小学生〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 9075,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0238557,
+    "lng": 135.8545814,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://academy.lakestars.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "におの浜ふれあいスポーツセンター バスケットボール教室",
+    "category": "バスケ",
+    "address": "滋賀県大津市におの浜4丁目2-40",
+    "website": "https://www.nionohama-sfc.com/",
+    "phone": "077-527-3553",
+    "target_age": "4歳〜小学6年生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 5500,
+    "data_sources": [
+      "official_site",
+      "web_search",
+      "kodomo_booster"
+    ],
+    "data_quality": "high",
+    "lat": 35.0054664,
+    "lng": 135.8858949,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.nionohama-sfc.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "JUMPバスケットボールスクール（大津・ウカルちゃんアリーナ）",
+    "category": "バスケ",
+    "address": "滋賀県大津市におの浜４丁目２−１２",
+    "website": "https://jump-shiga.com/",
+    "phone": null,
+    "target_age": "幼児〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0049925,
+    "lng": 135.8874337,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://jump-shiga.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "NINJA AIRS ACADEMY（バスケ3x3スクール）",
+    "category": "バスケ",
+    "address": "滋賀県大津市皇子が丘2丁目（ブランチ大津京 SG-Park内）",
+    "website": "https://seventhgeneration.co.jp/project/detail/20200819115525/",
+    "phone": null,
+    "target_age": "小学生〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 6000,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "low",
+    "lat": 35.0233895,
+    "lng": 135.8570512,
+    "geocode_accuracy": "APPROXIMATE",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://seventhgeneration.co.jp/project/detail/20200819115525/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "真野北ミニバスケットボール",
+    "category": "バスケ",
+    "address": "滋賀県大津市緑町１５−２",
+    "website": null,
+    "phone": null,
+    "target_age": "小学1年生〜6年生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search",
+      "kodomo_booster"
+    ],
+    "data_quality": "low",
+    "lat": 35.1444336,
+    "lng": 135.9083337,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "JEUGIAカルチャーセンター大津テラス Smile☆チアダンス",
+    "category": "チアダンス",
+    "address": "滋賀県大津市打出浜14-30 Oh!Me大津テラス4F",
+    "website": "https://culture.jeugia.co.jp/lesson_detail_13-41908.html",
+    "phone": "077-510-2055",
+    "target_age": "年中〜小学3年生以上（クラス別）",
+    "lesson_days": null,
+    "lesson_times": [
+      "16:30-17:30（年中〜）",
+      "17:30-18:30（小3〜）"
+    ],
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0043069,
+    "lng": 135.879797,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://culture.jeugia.co.jp/lesson_detail_13-41908.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ユニバースチアダンススクール 大津校",
+    "category": "チアダンス",
+    "address": "滋賀県大津市浜大津４丁目１−１ 明日都浜大津 1階",
+    "website": "https://universecheer.com/place/otsu_school/",
+    "phone": null,
+    "target_age": "年少〜小学生（各クラスあり）",
+    "lesson_days": null,
+    "lesson_times": [
+      "16:45-17:45（年少〜小1）"
+    ],
+    "monthly_fee": 7920,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0122386,
+    "lng": 135.8632386,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://universecheer.com/place/otsu_school/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "滋賀レイクスアカデミー チアスクール 大津一里山校",
+    "category": "チアダンス",
+    "address": "滋賀県大津市一里山7丁目1-1 フォレオ大津一里山B1（スポーツクラブNAS大津一里山）",
+    "website": "https://academy.lakestars.jp/cheer/",
+    "phone": "077-527-6419",
+    "target_age": "幼児〜小学生（キッズ・ジュニアクラス）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 34.974236,
+    "lng": 135.9333022,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://academy.lakestars.jp/cheer/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "滋賀レイクスアカデミー チアスクール 大津校",
+    "category": "チアダンス",
+    "address": "滋賀県大津市におの浜４丁目２−４０",
+    "website": "https://academy.lakestars.jp/cheer/",
+    "phone": "077-527-6419",
+    "target_age": "幼児〜小学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.005483,
+    "lng": 135.885905,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://academy.lakestars.jp/cheer/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ベビーパーク フォレオ大津一里山教室",
+    "category": "幼児教室",
+    "address": "滋賀県大津市一里山7丁目1-1 フォレオ大津一里山2F",
+    "website": "https://www.babypark.jp/preschool/all/detail/foleo-otsuichiriyama-classroom/",
+    "phone": "0120-959-025",
+    "target_age": "0歳〜2歳（ベビーパーク）、3歳〜就学前（幼児教室）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 15400,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 34.974236,
+    "lng": 135.9333022,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.babypark.jp/preschool/all/detail/foleo-otsuichiriyama-classroom/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "七田式びわ湖大津教室",
+    "category": "幼児教室",
+    "address": "滋賀県大津市におの浜3丁目3-3 ヨシノビル2F",
+    "website": "https://shichida-shiga.jp/",
+    "phone": "077-526-7823",
+    "target_age": "0歳〜小学生（胎教・0歳・1歳・2歳・3歳・4歳・5〜6歳・小学生）",
+    "lesson_days": [
+      "火",
+      "水",
+      "木",
+      "金"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0054396,
+    "lng": 135.8840565,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://shichida-shiga.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "EQWELチャイルドアカデミー 大津教室",
+    "category": "幼児教室",
+    "address": "滋賀県大津市（京阪大津京駅近く）",
+    "website": "https://www.eqwel.jp/school/064108.html",
+    "phone": "0120-415-707",
+    "target_age": "0歳〜小学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.eqwel.jp/school/064108.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "こどもの庭 ききいろは（一里山教室）",
+    "category": "幼児教室",
+    "address": "滋賀県大津市一里山3丁目1-1 ガーデンスクエア瀬田202-B号室",
+    "website": "https://kikiiroha.com/",
+    "phone": null,
+    "target_age": "0歳〜就学前（親子プログラムあり）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 34.985437,
+    "lng": 135.932084,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://kikiiroha.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "こどもの庭 ききいろは（下在地町教室）",
+    "category": "幼児教室",
+    "address": "滋賀県大津市下在地町478-3 YUMEMURA内",
+    "website": "https://kikiiroha.com/",
+    "phone": null,
+    "target_age": "0歳〜就学前（親子プログラムあり）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1401091,
+    "lng": 135.8814718,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://kikiiroha.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "忍者ナイン ベラビスタ膳所ラボ",
+    "category": "幼児教室",
+    "address": "滋賀県大津市木下町18-8（ベラビスタ膳所）",
+    "website": "https://www.ninja9.jp/classrooms/detail/2393/",
+    "phone": "077-521-7000",
+    "target_age": "3歳〜小学6年生",
+    "lesson_days": [
+      "木"
+    ],
+    "lesson_times": [
+      "15:20-16:00（年少）",
+      "16:15-17:45（幼児）",
+      "17:15-18:45（小学生）"
+    ],
+    "monthly_fee": 8000,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0006444,
+    "lng": 135.891008,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.ninja9.jp/classrooms/detail/2393/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "忍者ナイン 滋賀ボールルームラボ",
+    "category": "幼児教室",
+    "address": "滋賀県大津市一里山1丁目6-23（滋賀ボールルームダンススクール）",
+    "website": "https://www.ninja9.jp/classrooms/detail/2395/",
+    "phone": null,
+    "target_age": "年中〜小学6年生",
+    "lesson_days": [
+      "日"
+    ],
+    "lesson_times": [
+      "9:00-10:30（幼児）",
+      "10:00-11:30（小学生）"
+    ],
+    "monthly_fee": 8000,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9836638,
+    "lng": 135.9275315,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.ninja9.jp/classrooms/detail/2395/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "アスリートスポーツクラブ 体操クラブ（勤労センター）",
+    "category": "幼児教室",
+    "address": "滋賀県大津市打出浜１−６",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": "2歳〜小学6年生",
+    "lesson_days": [
+      "木"
+    ],
+    "lesson_times": [
+      "14:00-14:50（2〜3歳）",
+      "15:00-15:50（3〜5歳）",
+      "16:00-16:50（5歳〜6年生）"
+    ],
+    "monthly_fee": 6160,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "high",
+    "lat": 35.0068196,
+    "lng": 135.8752424,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://athlete-sc.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "スポーツクラブ コジャック（体操・ジュニア）",
+    "category": "新体操",
+    "address": "滋賀県大津市本堅田5丁目11-21",
+    "website": "https://sports-kojak.co.jp/",
+    "phone": "077-573-7373",
+    "target_age": "幼児〜小学生（体操クラス、ダンスクラス）",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1166113,
+    "lng": 135.9141289,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://sports-kojak.co.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "アスリートスポーツクラブ 体操クラブ（各会場）",
+    "category": "新体操",
+    "address": "滋賀県大津市皇子が丘2丁目4-3（事務局）",
+    "website": "https://athlete-sc.com/",
+    "phone": "077-525-7357",
+    "target_age": "2歳〜小学6年生",
+    "lesson_days": [
+      "月",
+      "火",
+      "水",
+      "木",
+      "金",
+      "土"
+    ],
+    "lesson_times": null,
+    "monthly_fee": 6160,
+    "data_sources": [
+      "official_site",
+      "web_search"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0224788,
+    "lng": 135.8568472,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://athlete-sc.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "比叡山＋ONEサッカースクール（一隅クラブ）",
+    "category": "サッカー",
+    "address": "滋賀県大津市坂本１丁目２",
+    "website": "https://www.ichigu.org/oneschool",
+    "phone": "0120-981-506",
+    "target_age": "小学生〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "p-ground"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0582078,
+    "lng": 135.8653443,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.ichigu.org/oneschool",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "SOLCIDO SOCCER ACADEMY（ソルシードサッカーアカデミー）",
+    "category": "サッカー",
+    "address": "滋賀県大津市（石場駅・膳所駅周辺）",
+    "website": "https://rencontre-sports.or.jp/Solcido-soccer-academy",
+    "phone": "0120-981-506",
+    "target_age": "幼稚園年中〜小学6年生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "p-ground"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://rencontre-sports.or.jp/Solcido-soccer-academy",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "におの浜ふれあいスポーツセンター キッズスイミング",
+    "category": "スイミング",
+    "address": "滋賀県大津市におの浜4丁目2-40",
+    "website": "https://www.nionohama-sfc.com/",
+    "phone": "077-527-3553",
+    "target_age": "幼児〜小学生",
+    "lesson_days": [
+      "木",
+      "金"
+    ],
+    "lesson_times": [
+      "10:15-11:15"
+    ],
+    "monthly_fee": 4400,
+    "data_sources": [
+      "official_site",
+      "search_result"
+    ],
+    "data_quality": "high",
+    "lat": 35.0054664,
+    "lng": 135.8858949,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.nionohama-sfc.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "Ballet Studio L'ecrin（バレエスタジオ レクラン）",
+    "category": "ダンス",
+    "address": "滋賀県大津市大将軍3丁目10-26 コートハイムMURAJI 1F",
+    "website": "https://lecrinballet.com/",
+    "phone": "077-543-6786",
+    "target_age": "3歳〜学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "search_result"
+    ],
+    "data_quality": "high",
+    "lat": 34.98936279999999,
+    "lng": 135.9272748,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://lecrinballet.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "司延子モダンバレエ 大津京教室",
+    "category": "ダンス",
+    "address": "滋賀県大津市御陵町4-1 滋賀県立スポーツ会館",
+    "website": "https://www.tsukasa-ballet.com/shiga/",
+    "phone": null,
+    "target_age": "3歳〜小学6年生",
+    "lesson_days": [
+      "土"
+    ],
+    "lesson_times": [
+      "12:30-13:30"
+    ],
+    "monthly_fee": 7700,
+    "data_sources": [
+      "official_site",
+      "kodomo_booster"
+    ],
+    "data_quality": "high",
+    "lat": 35.0215258,
+    "lng": 135.8558279,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.tsukasa-ballet.com/shiga/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "髙橋バレエスタジオ",
+    "category": "ダンス",
+    "address": "滋賀県大津市坂本",
+    "website": "https://www.takahashi-ballet.net/",
+    "phone": null,
+    "target_age": "子ども〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.takahashi-ballet.net/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "小林早紀バレエ教室",
+    "category": "ダンス",
+    "address": "滋賀県大津市本堅田4丁目18-38 レークサイド佐倉102号",
+    "website": "http://sp.ksb-ballet.com/",
+    "phone": null,
+    "target_age": "3歳〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "shitashirabe"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1192938,
+    "lng": 135.9185658,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "http://sp.ksb-ballet.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "永田バレエスクール（本部教室・大津京教室）",
+    "category": "ダンス",
+    "address": "滋賀県大津市",
+    "website": "https://nagataballet-1996.com/",
+    "phone": null,
+    "target_age": "子ども〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "biwakosei"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://nagataballet-1996.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "studioALPHA（スタジオアルファ）",
+    "category": "ダンス",
+    "address": "滋賀県大津市馬場2-6-16 生活美術館NONビル B1",
+    "website": "https://studioalpha.net/",
+    "phone": "077-521-4680",
+    "target_age": "子ども〜大人（ストリートダンス）",
+    "lesson_days": [
+      "月",
+      "火",
+      "水",
+      "木",
+      "金",
+      "土"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "google_business"
+    ],
+    "data_quality": "high",
+    "lat": 35.00087,
+    "lng": 135.8808724,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://studioalpha.net/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "Dance Space Bound Up（ダンススペースバウンドアップ）",
+    "category": "ダンス",
+    "address": "滋賀県大津市観音寺19-8",
+    "website": "https://boundup.wixsite.com/dancespaceueda",
+    "phone": "050-5328-4150",
+    "target_age": "3歳〜小学生",
+    "lesson_days": [
+      "金"
+    ],
+    "lesson_times": [
+      "16:20-17:00",
+      "17:00-17:45"
+    ],
+    "monthly_fee": 3500,
+    "data_sources": [
+      "official_site",
+      "navitime",
+      "jmty"
+    ],
+    "data_quality": "high",
+    "lat": 35.0154409,
+    "lng": 135.8598471,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://boundup.wixsite.com/dancespaceueda",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "スタジオ ダンス トライブ（Studio Dance Tribe）",
+    "category": "ダンス",
+    "address": "滋賀県大津市際川4丁目1-25",
+    "website": null,
+    "phone": null,
+    "target_age": "4歳〜中学生",
+    "lesson_days": [
+      "月",
+      "土"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "oo24n_jp",
+      "sigmamamma"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0441919,
+    "lng": 135.8685837,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "NOVAバイリンガルKIDS 坂本校",
+    "category": "英会話",
+    "address": "滋賀県大津市比叡辻1-13-22",
+    "website": "https://www.nova.co.jp/junior/schools/kinki/shiga/sakamoto.html",
+    "phone": null,
+    "target_age": "3歳〜15歳",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 8000,
+    "data_sources": [
+      "official_site",
+      "jyukunavi"
+    ],
+    "data_quality": "high",
+    "lat": 35.0707306,
+    "lng": 135.8856139,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.nova.co.jp/junior/schools/kinki/shiga/sakamoto.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "京進の英会話ユニバーサルキャンパス 大津校",
+    "category": "英会話",
+    "address": "滋賀県大津市打出浜14-30 Oh!Me大津TERRACE サテライト3F",
+    "website": "https://uc.kyoshin.co.jp/school/421/",
+    "phone": null,
+    "target_age": "0歳〜15歳",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 8360,
+    "data_sources": [
+      "official_site",
+      "kodomo_booster"
+    ],
+    "data_quality": "high",
+    "lat": 35.0043069,
+    "lng": 135.879797,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://uc.kyoshin.co.jp/school/421/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "京進の英会話ユニバーサルキャンパス 瀬田校",
+    "category": "英会話",
+    "address": "滋賀県大津市月輪1丁目3-8 アル・プラザ瀬田4階",
+    "website": "https://uc.kyoshin.co.jp/school/454/",
+    "phone": null,
+    "target_age": "0歳〜15歳",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jyukunavi"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9873921,
+    "lng": 135.9290715,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://uc.kyoshin.co.jp/school/454/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ECCジュニア 萱野浦教室",
+    "category": "英会話",
+    "address": "滋賀県大津市萱野浦",
+    "website": "https://eccjuniorbs.jp/ht250413/",
+    "phone": null,
+    "target_age": "2歳〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://eccjuniorbs.jp/ht250413/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ECCジュニア 唐崎駅前教室",
+    "category": "英会話",
+    "address": "滋賀県大津市唐崎",
+    "website": "https://eccjuniorbs.jp/ht250554/",
+    "phone": null,
+    "target_age": "2歳〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://eccjuniorbs.jp/ht250554/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ECCジュニア 月輪教室",
+    "category": "英会話",
+    "address": "滋賀県大津市月輪3-74-34",
+    "website": "https://eccjuniorbs.jp/ht250561/",
+    "phone": null,
+    "target_age": "2歳〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "eccjr_official"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9876439,
+    "lng": 135.9401527,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://eccjuniorbs.jp/ht250561/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ECCジュニア 見世1丁目教室",
+    "category": "英会話",
+    "address": "滋賀県大津市見世1丁目",
+    "website": "https://eccjr-mise-icchome.hp.peraichi.com/",
+    "phone": null,
+    "target_age": "2歳〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": 35.0400405,
+    "lng": 135.8594257,
+    "geocode_accuracy": "APPROXIMATE",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://eccjr-mise-icchome.hp.peraichi.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ECCジュニア 本堅田2丁目教室",
+    "category": "英会話",
+    "address": "滋賀県大津市本堅田2丁目",
+    "website": "https://www.biwakosei.com/member/eccjr-honkatata/",
+    "phone": null,
+    "target_age": "2歳〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "biwakosei"
+    ],
+    "data_quality": "low",
+    "lat": 35.1152251,
+    "lng": 135.9223296,
+    "geocode_accuracy": "APPROXIMATE",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.biwakosei.com/member/eccjr-honkatata/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ECCジュニア ローズタウン清和教室",
+    "category": "英会話",
+    "address": "滋賀県大津市清和町",
+    "website": "https://eccjuniorbs.jp/ht250120/",
+    "phone": null,
+    "target_age": "2歳〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://eccjuniorbs.jp/ht250120/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ワーニャランゲージスクール 大津校",
+    "category": "英会話",
+    "address": "滋賀県大津市",
+    "website": "https://www.vanya-language.com/",
+    "phone": null,
+    "target_age": "4歳〜15歳",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.vanya-language.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "宝田音楽教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市仰木の里東7-5-8",
+    "website": "https://takarada-piano.com/",
+    "phone": "077-573-8314",
+    "target_age": "幼児〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 5000,
+    "data_sources": [
+      "official_site",
+      "search_results"
+    ],
+    "data_quality": "high",
+    "lat": 35.1107151,
+    "lng": 135.9007783,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://takarada-piano.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "越智ピアノ教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市池の里",
+    "website": "https://www.ochipiano.com/",
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "pitina"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.ochipiano.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "田中淳子ピアノ教室",
+    "category": "ピアノ",
+    "address": "滋賀県大津市仰木の里",
+    "website": "https://pnet.kawai.jp/509205/",
+    "phone": null,
+    "target_age": "小学生〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": 6000,
+    "data_sources": [
+      "kawai_piano_net"
+    ],
+    "data_quality": "medium",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://pnet.kawai.jp/509205/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "音楽教室ドレミ",
+    "category": "ピアノ",
+    "address": "滋賀県大津市大将軍3-25-25",
+    "website": null,
+    "phone": null,
+    "target_age": null,
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "yahoo_map",
+      "pitina"
+    ],
+    "data_quality": "low",
+    "lat": 34.9916998,
+    "lng": 135.9293891,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": null,
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ヤマハ音楽教室 瀬田センター（ロマン楽器）",
+    "category": "ピアノ",
+    "address": "滋賀県大津市一里山1-10-12",
+    "website": "https://www.roman-gakki.co.jp/shop_classroom/lessonroom/seta/",
+    "phone": "077-545-5385",
+    "target_age": "2歳〜大人",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "yamaha_music_school"
+    ],
+    "data_quality": "high",
+    "lat": 34.9858199,
+    "lng": 135.9278623,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.roman-gakki.co.jp/shop_classroom/lessonroom/seta/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "アーテック自考力キッズ フレンズインターナショナル瀬田校",
+    "category": "プログラミング",
+    "address": "滋賀県大津市大江4-16-3",
+    "website": "https://www.artec-kk.co.jp/school/jkids/",
+    "phone": null,
+    "target_age": "小学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "coeteco",
+      "artec_site"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9829069,
+    "lng": 135.9247884,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.artec-kk.co.jp/school/jkids/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導学院フリーステップ 石山駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市粟津町4-7 近江鉄道ビル4階",
+    "website": "https://www.kaisei-group.co.jp/freestep/school/310585/",
+    "phone": "077-534-5820",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "navitime"
+    ],
+    "data_quality": "high",
+    "lat": 34.97955940000001,
+    "lng": 135.9011837,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kaisei-group.co.jp/freestep/school/310585/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導学院フリーステップ 瀬田駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱1-18-20 ラフィーネ瀬田1階",
+    "website": "https://www.kaisei-group.co.jp/freestep/school/310565/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9872629,
+    "lng": 135.9266769,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kaisei-group.co.jp/freestep/school/310565/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導学院フリーステップ 比叡山坂本教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市坂本3-32-26",
+    "website": "https://www.kaisei-group.co.jp/freestep/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "jyukunavi"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0703686,
+    "lng": 135.8789992,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kaisei-group.co.jp/freestep/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導学院フリーステップ 堅田駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市真野1-5-15 1階",
+    "website": "https://www.kaisei-group.co.jp/freestep/school/311265/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jyukunavi"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1216992,
+    "lng": 135.9136794,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kaisei-group.co.jp/freestep/school/311265/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導学院フリーステップ 大津京駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘2-10-27 西大津ISビル3階",
+    "website": "https://www.kaisei-group.co.jp/freestep/school/310575/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jyukunavi"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0244384,
+    "lng": 135.8578552,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kaisei-group.co.jp/freestep/school/310575/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導学院フリーステップ 膳所駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場2-9-1 IB OTSU 103",
+    "website": "https://www.kaisei-group.co.jp/freestep/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "jyukunavi"
+    ],
+    "data_quality": "medium",
+    "lat": 35.000028,
+    "lng": 135.8815371,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kaisei-group.co.jp/freestep/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別教室のトライ 堅田駅前校",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田4-16-6 シャルマンコーポ大津堅田1F",
+    "website": "https://www.kobekyo.com/around/shiga/katata/",
+    "phone": "0120-555-202",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "high",
+    "lat": 35.12025270000001,
+    "lng": 135.9175022,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kobekyo.com/around/shiga/katata/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ゴールフリー 堅田教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市本堅田5-21-5",
+    "website": "https://www.goalfree.co.jp/classroom/katata/",
+    "phone": "077-571-4300",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "mapion"
+    ],
+    "data_quality": "high",
+    "lat": 35.1201054,
+    "lng": 135.9160942,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.goalfree.co.jp/classroom/katata/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ゴールフリー 大津京教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘2-10-31 西大津ISIIIビル2F",
+    "website": "https://www.goalfree.co.jp/classroom/gf_ohtsukyo/",
+    "phone": "0120-578380",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jukulog"
+    ],
+    "data_quality": "high",
+    "lat": 35.0244384,
+    "lng": 135.8578552,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.goalfree.co.jp/classroom/gf_ohtsukyo/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ゴールフリー 瀬田教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱1-7-14 明治安田生命大津東ビル2F",
+    "website": "https://www.goalfree.co.jp/classroom/seta/",
+    "phone": "0120-578380",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jyukunavi"
+    ],
+    "data_quality": "high",
+    "lat": 34.98485429999999,
+    "lng": 135.9248627,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.goalfree.co.jp/classroom/seta/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ゴールフリー 膳所教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場2丁目",
+    "website": "https://www.goalfree.co.jp/classroom/gf_zeze/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": 35.000305,
+    "lng": 135.8796135,
+    "geocode_accuracy": "APPROXIMATE",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.goalfree.co.jp/classroom/gf_zeze/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導Axis（アクシス）膳所校",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場1-7-12 TOKIMEKIビル1F",
+    "website": "https://axis-kobetsu.jp/schools/id/755/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jukushiru"
+    ],
+    "data_quality": "medium",
+    "lat": 35.00345070000001,
+    "lng": 135.8808428,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://axis-kobetsu.jp/schools/id/755/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導Axis（アクシス）瀬田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱1-15-24 2F",
+    "website": "https://axis-kobetsu.jp/schools/id/166/",
+    "phone": "077-545-0492",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jyukunavi"
+    ],
+    "data_quality": "high",
+    "lat": 34.9860749,
+    "lng": 135.9273839,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://axis-kobetsu.jp/schools/id/166/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "馬渕教室 高校受験コース 大津京校",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘3-13-31",
+    "website": "https://kouju.mabuchi.co.jp/shiga/school/otsukyo/",
+    "phone": null,
+    "target_age": "中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jukushiru"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0249388,
+    "lng": 135.8596689,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://kouju.mabuchi.co.jp/shiga/school/otsukyo/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "馬渕教室 高校受験コース 膳所校",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場2-11-5",
+    "website": "https://kouju.mabuchi.co.jp/shiga/school/",
+    "phone": null,
+    "target_age": "中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "navitime"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9993086,
+    "lng": 135.8820759,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://kouju.mabuchi.co.jp/shiga/school/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "馬渕教室 個別指導 膳所校",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場2-11-5",
+    "website": "https://personal.mabuchi.co.jp/m/school/zeze/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9993086,
+    "lng": 135.8820759,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://personal.mabuchi.co.jp/m/school/zeze/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "馬渕教室 個別指導 石山校",
+    "category": "学習塾",
+    "address": "滋賀県大津市栄町",
+    "website": "https://personal.mabuchi.co.jp/m/school/ishiyama/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://personal.mabuchi.co.jp/m/school/ishiyama/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "KEC近畿予備校・KEC近畿教育学院 大津京校",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘3-13-31",
+    "website": "https://www.prep.kec.ne.jp/otsukyo/",
+    "phone": null,
+    "target_age": "中学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "navitime"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0249388,
+    "lng": 135.8596689,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.prep.kec.ne.jp/otsukyo/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "KEC近畿予備校・KEC近畿教育学院 石山本校",
+    "category": "学習塾",
+    "address": "滋賀県大津市栄町4-50",
+    "website": "https://www.prep.kec.ne.jp/ishiyama/",
+    "phone": null,
+    "target_age": "中学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9768919,
+    "lng": 135.9016665,
+    "geocode_accuracy": "GEOMETRIC_CENTER",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.prep.kec.ne.jp/ishiyama/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "明光義塾 和邇教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市和邇中浜444-1 S・Rビル 2F",
+    "website": "https://www.meikogijuku.jp/school/shiga/otsu-shi/S3870/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1619975,
+    "lng": 135.9230718,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.meikogijuku.jp/school/shiga/otsu-shi/S3870/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "明光義塾 瀬田教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市一里山1-9-15 エミール瀬田202",
+    "website": "https://www.meikogijuku.jp/school/shiga/otsu-shi/",
+    "phone": "077-543-2285",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "search_results"
+    ],
+    "data_quality": "high",
+    "lat": 34.985106,
+    "lng": 135.9263733,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.meikogijuku.jp/school/shiga/otsu-shi/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "学研教室 学研スクエア 大津京イオンスタイル教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘3-11-1",
+    "website": "https://www.889100.com/classrooms/",
+    "phone": null,
+    "target_age": "幼児〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "jukushiru",
+      "search_results"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0243939,
+    "lng": 135.8601677,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.889100.com/classrooms/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "学研教室 浜大津教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市浜大津",
+    "website": "https://www.889100.com/classrooms/",
+    "phone": null,
+    "target_age": "幼児〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "search_results"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.889100.com/classrooms/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "学研教室 皇子山教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市",
+    "website": "https://www.889100.com/classrooms/",
+    "phone": null,
+    "target_age": "幼児〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "jukulog"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.889100.com/classrooms/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "東進衛星予備校 大津石山校",
+    "category": "学習塾",
+    "address": "滋賀県大津市粟津町15-20 成基学園ビル5F",
+    "website": "https://www.toshin.com/es/map/2519.html",
+    "phone": "077-531-1355",
+    "target_age": "高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "mapion"
+    ],
+    "data_quality": "high",
+    "lat": 34.9773012,
+    "lng": 135.9003111,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.toshin.com/es/map/2519.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "東進衛星予備校 大津京駅前校",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘2-10-31 西大津IsⅢビル5F",
+    "website": "https://www.toshin.com/es/map/2525.html",
+    "phone": "077-501-4300",
+    "target_age": "高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "search_results"
+    ],
+    "data_quality": "high",
+    "lat": 35.0244384,
+    "lng": 135.8578552,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.toshin.com/es/map/2525.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "東進衛星予備校 膳所校",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場2-11-5 4F",
+    "website": "https://www.toshin.com/es/map/2517.html",
+    "phone": null,
+    "target_age": "高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "search_results"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9993086,
+    "lng": 135.8820759,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.toshin.com/es/map/2517.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ITTO個別指導学院 大津大江校",
+    "category": "学習塾",
+    "address": "滋賀県大津市大江7-8-4",
+    "website": "https://www.itto.jp/schools/kinki/shiga/otsuoe.html",
+    "phone": "077-575-1586",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "search_results"
+    ],
+    "data_quality": "high",
+    "lat": 34.975466,
+    "lng": 135.927388,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.itto.jp/schools/kinki/shiga/otsuoe.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導塾スタンダード 膳所教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場2-11-10 Cinqビル3F",
+    "website": "https://std-ie.jp/map/kansai/shiga/zeze/",
+    "phone": "0120-747-818",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "search_results"
+    ],
+    "data_quality": "high",
+    "lat": 34.9994518,
+    "lng": 135.8815599,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://std-ie.jp/map/kansai/shiga/zeze/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導塾スタンダード 瀬田教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱1-17-14 松政ビル2F",
+    "website": "https://std-ie.jp/map/kansai/shiga/seta/",
+    "phone": "077-543-6929",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "itp"
+    ],
+    "data_quality": "high",
+    "lat": 34.9869433,
+    "lng": 135.9266355,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://std-ie.jp/map/kansai/shiga/seta/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ナビ個別指導学院 膳所校",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場",
+    "website": "https://www.navi-school.com/school/shiga/zeze/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.navi-school.com/school/shiga/zeze/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "ナビ個別指導学院 瀬田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市",
+    "website": "https://www.navi-school.com/school/shiga/seta/",
+    "phone": null,
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.navi-school.com/school/shiga/seta/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "まんてんスクール 瀬田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱1-16-28 シルキーハイツ阪源1F",
+    "website": "https://www.manten-school.com/school/shiga/sc-seta.html",
+    "phone": null,
+    "target_age": "小学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9863846,
+    "lng": 135.9268928,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.manten-school.com/school/shiga/sc-seta.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導キャンパス 瀬田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱1-15-34 くきのビル3階",
+    "website": "https://www.canpass-kobetsu.com/school/seta/",
+    "phone": "077-545-8880",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "mapion"
+    ],
+    "data_quality": "high",
+    "lat": 34.9856109,
+    "lng": 135.9265246,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.canpass-kobetsu.com/school/seta/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "京進の中学・高校受験TOPΣ 瀬田校",
+    "category": "学習塾",
+    "address": "滋賀県大津市月輪1-3-8 アル・プラザ瀬田4階",
+    "website": "https://tyuko.kyoshin.co.jp/school/6/",
+    "phone": "077-543-1753",
+    "target_age": "小学生〜中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "jukushiru"
+    ],
+    "data_quality": "high",
+    "lat": 34.9873921,
+    "lng": 135.9290715,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://tyuko.kyoshin.co.jp/school/6/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "成基学園 瀬田教室（高校受験コース）",
+    "category": "学習塾",
+    "address": "滋賀県大津市大萱1-7-14 明治安田生命大津東ビル2F",
+    "website": "https://www.seiki.jp/sap/classroom/seta/detail.html",
+    "phone": "077-572-5583",
+    "target_age": "中学生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "mapion"
+    ],
+    "data_quality": "high",
+    "lat": 34.98485429999999,
+    "lng": 135.9248627,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.seiki.jp/sap/classroom/seta/detail.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "個別指導塾 ステップ",
+    "category": "学習塾",
+    "address": "滋賀県大津市下阪本3-24-12",
+    "website": "https://step-shiga.com/",
+    "phone": "090-1907-3617",
+    "target_age": "小学生〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "official_site",
+      "search_results"
+    ],
+    "data_quality": "high",
+    "lat": 35.0603563,
+    "lng": 135.8740312,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://step-shiga.com/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 石山駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市栄町8-27 清栄ビル2F",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1278410855/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9758804,
+    "lng": 135.902149,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1278410855/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 大津富士見教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市美崎町13-17 大久保ビル3-AB",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1628270846/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9816943,
+    "lng": 135.889094,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1628270846/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 大津建部教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市神領3-19-15 村田ビル1F",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1695322132/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 34.9706155,
+    "lng": 135.9107121,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1695322132/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 馬場1丁目教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市馬場1-17-38",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1942250802/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0023534,
+    "lng": 135.8835222,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1942250802/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 真野教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市真野4-21-30 2-A",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1281200232/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1337657,
+    "lng": 135.919865,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1281200232/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 下阪本教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市下阪本4-4-7 美ショップたなか1F",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1642640105/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0620388,
+    "lng": 135.8778786,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1642640105/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 大津島の関教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市中央4-6-59",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1339550043/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0067107,
+    "lng": 135.8704594,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1339550043/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 衣川町教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市衣川2-16-3",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1353350244/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1117642,
+    "lng": 135.9052835,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1353350244/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 大津京駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市皇子が丘2-10-13 西大津ビル201号室",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1910390025/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official",
+      "ameba_juku"
+    ],
+    "data_quality": "medium",
+    "lat": 35.0234378,
+    "lng": 135.8573755,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1910390025/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 大津穴太教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市穴太2-18-10 穴太町公民館",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1939520114/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official",
+      "mapfan"
+    ],
+    "data_quality": "medium",
+    "lat": 35.054582,
+    "lng": 135.8670394,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1939520114/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 大津逢坂教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市逢坂",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1079750052/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1079750052/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 坂本教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市坂本",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1666190113/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1666190113/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 おごと教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市雄琴",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1778840101/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1778840101/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 堅田南教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市堅田1-5-66 ハイツITO1F2-B",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1960580243/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "medium",
+    "lat": 35.1074581,
+    "lng": 135.9092105,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1960580243/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 堅田小学校前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市堅田",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1615580242/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1615580242/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 今堅田2丁目教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市今堅田2丁目",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1866920241/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "low",
+    "lat": 35.1235392,
+    "lng": 135.9194202,
+    "geocode_accuracy": "APPROXIMATE",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1866920241/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 大津瀬田一里山教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市一里山2-15-13 新向陽ハイツC 108号",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1358842153/index.html",
+    "phone": "080-9050-0358",
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official",
+      "navitime"
+    ],
+    "data_quality": "high",
+    "lat": 34.9814469,
+    "lng": 135.930591,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1358842153/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 石山寺教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市石山寺",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1269470861/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1269470861/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 ウィル瀬田北教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市",
+    "website": "https://www.kumon.ne.jp/enter/search/classroom/1068862145/index.html",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "kumon_official"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/enter/search/classroom/1068862145/index.html",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 におの浜教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市におの浜",
+    "website": "https://www.kumon.ne.jp/",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "navitime"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "公文式 大津三井寺駅前教室",
+    "category": "学習塾",
+    "address": "滋賀県大津市三井寺",
+    "website": "https://www.kumon.ne.jp/",
+    "phone": null,
+    "target_age": "2歳〜高校生",
+    "lesson_days": null,
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "ameba_juku"
+    ],
+    "data_quality": "low",
+    "lat": null,
+    "lng": null,
+    "geocode_accuracy": null,
+    "schedules": null,
+    "price": null,
+    "source_url": "https://www.kumon.ne.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
+  },
+  {
+    "name": "スポーツクラブ コジャック 体操教室",
+    "category": "体操",
+    "address": "滋賀県大津市本堅田5-11-21",
+    "website": "https://sports-kojak.co.jp/",
+    "phone": "077-573-7373",
+    "target_age": "2歳〜小学6年生",
+    "lesson_days": [
+      "火",
+      "水",
+      "木",
+      "金",
+      "土"
+    ],
+    "lesson_times": null,
+    "monthly_fee": null,
+    "data_sources": [
+      "search_results",
+      "goo_town_page"
+    ],
+    "data_quality": "high",
+    "lat": 35.1166113,
+    "lng": 135.9141289,
+    "geocode_accuracy": "ROOFTOP",
+    "schedules": null,
+    "price": null,
+    "source_url": "https://sports-kojak.co.jp/",
+    "organization_type": null,
+    "last_verified_at": "2026-06-02"
   }
 ]
