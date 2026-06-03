@@ -3,6 +3,7 @@
 import { useEffect } from 'react'
 import type { Lesson } from '@/types/lesson'
 import DataQualityBadge from '@/components/DataQualityBadge'
+import { trackEvent, GA_EVENTS } from '@/lib/gtm'
 
 const CATEGORY_ICONS: Record<string, string> = {
   'サッカー': '⚽', 'スイミング': '🏊', 'ダンス': '💃', '体操': '🤸',
@@ -15,6 +16,14 @@ type Props = {
 }
 
 export default function LessonDetailModal({ lesson, onClose }: Props) {
+  useEffect(() => {
+    trackEvent(GA_EVENTS.LESSON_DETAIL_VIEW, {
+      lesson_name: lesson.name,
+      category: lesson.category,
+      city: lesson.city ?? '',
+    })
+  }, [lesson])
+
   // ESCキーで閉じる
   useEffect(() => {
     const handler = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose() }
@@ -132,6 +141,13 @@ export default function LessonDetailModal({ lesson, onClose }: Props) {
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 w-full bg-blue-500 hover:bg-blue-600 text-white text-sm font-medium rounded-lg px-4 py-2.5 transition-colors"
+              onClick={() =>
+                trackEvent(GA_EVENTS.LESSON_WEBSITE_CLICK, {
+                  lesson_name: lesson.name,
+                  category: lesson.category,
+                  url: lesson.website!,
+                })
+              }
             >
               🌐 公式サイトを見る
             </a>
