@@ -14,8 +14,19 @@ export default function Home() {
             滋賀県の習い事を探す
           </span>
         </div>
-        <div className="text-xs text-gray-400">
-          全{lessons.length}件収録
+        <div className="flex items-center gap-3">
+          <div className="text-xs text-gray-400 hidden sm:block">
+            全{lessons.length}件収録
+          </div>
+          <a
+            href="https://forms.gle/WZtdQwazezR8AMSi6"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1.5 bg-orange-500 hover:bg-orange-600 text-white text-xs font-semibold px-3 py-1.5 rounded-full shadow transition-colors"
+          >
+            <span>✏️</span>
+            <span>教室を登録・修正</span>
+          </a>
         </div>
       </header>
 
