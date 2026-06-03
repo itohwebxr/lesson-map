@@ -28,13 +28,13 @@ export default function WeekdayFilter({ selected, onChange }: Props) {
     <div>
       <button
         onClick={() => setOpen((v) => !v)}
-        className="flex items-center justify-between w-full text-xs font-semibold text-gray-600 mb-1.5"
+        className="flex items-center justify-between w-full text-xs font-semibold text-gray-600"
       >
         曜日
         <span className="text-gray-400 text-sm leading-none">{open ? '−' : '+'}</span>
       </button>
       {open && (
-        <div className="flex flex-wrap gap-1">
+        <div className="flex flex-wrap gap-1 mt-1.5">
           {WEEKDAYS.map((day) => {
             const active = selected.includes(day)
             return (

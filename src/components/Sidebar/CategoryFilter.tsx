@@ -51,18 +51,16 @@ export default function CategoryFilter({ selected, onChange }: Props) {
 
   return (
     <div>
-      <div className="flex items-center justify-between mb-2">
-        <button
-          onClick={() => setOpen((v) => !v)}
-          className="flex items-center justify-between w-full text-xs font-semibold text-gray-500 uppercase tracking-wide"
-        >
-          カテゴリ
-          <span className="text-gray-400 text-sm leading-none">{open ? '−' : '+'}</span>
-        </button>
-      </div>
+      <button
+        onClick={() => setOpen((v) => !v)}
+        className="flex items-center justify-between w-full text-xs font-semibold text-gray-500 uppercase tracking-wide"
+      >
+        カテゴリ
+        <span className="text-gray-400 text-sm leading-none">{open ? '−' : '+'}</span>
+      </button>
       {open && (
         <>
-          <div className="grid grid-cols-2 gap-1">
+          <div className="grid grid-cols-2 gap-1 mt-2">
             {visible.map((cat) => {
               const active = selected.includes(cat)
               return (
