@@ -25,7 +25,7 @@ export default function Home() {
             className="flex items-center gap-1.5 bg-orange-500 hover:bg-orange-600 text-white text-xs font-semibold px-3 py-1.5 rounded-full shadow transition-colors"
           >
             <span>✏️</span>
-            <span>教室を登録・修正</span>
+            <span>掲載情報の修正・掲載依頼・ご意見はこちら</span>
           </a>
         </div>
       </header>
