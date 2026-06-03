@@ -30,6 +30,10 @@ html, body {
   overflow: hidden;
 }
 
+#devtools-indicator {
+  display: none !important;
+}
+
 /* Leaflet ポップアップ内の日本語フォント調整 */
 .leaflet-popup-content {
   font-family: Arial, Helvetica, sans-serif;
