@@ -78,11 +78,6 @@ function matchesSchedule(
 
 export function filterLessons(lessons: Lesson[], filter: FilterState): Lesson[] {
   return lessons.filter((lesson) => {
-    // 都市フィルタ
-    if (filter.cities.length > 0 && lesson.city && !filter.cities.includes(lesson.city)) {
-      return false
-    }
-
     // カテゴリフィルタ
     if (filter.categories.length > 0 && !filter.categories.includes(lesson.category)) {
       return false

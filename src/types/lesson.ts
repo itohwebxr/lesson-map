@@ -26,7 +26,6 @@ export type Lesson = {
 
 export type FilterState = {
   categories: string[]
-  cities: string[]
   weekdays: string[]
   timeStart: string | null
   timeEnd: string | null

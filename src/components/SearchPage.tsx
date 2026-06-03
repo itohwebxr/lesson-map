@@ -2,7 +2,7 @@
 
 import { useState, useCallback, useEffect, useRef } from 'react'
 import type { Lesson, FilterState } from '@/types/lesson'
-import { filterLessons, CITIES } from '@/lib/filterLessons'
+import { filterLessons } from '@/lib/filterLessons'
 import DynamicMap from '@/components/Map/DynamicMap'
 import CategoryFilter from '@/components/Sidebar/CategoryFilter'
 import AgeFilter from '@/components/Sidebar/AgeFilter'
@@ -13,7 +13,6 @@ import LessonDetailModal from '@/components/LessonDetailModal'
 
 const DEFAULT_FILTER: FilterState = {
   categories: [],
-  cities: [],
   weekdays: [],
   timeStart: null,
   timeEnd: null,
@@ -91,16 +90,11 @@ export default function SearchPage({ lessons }: Props) {
   }
 
   const isFiltered =
-    filter.cities.length > 0 ||
     filter.categories.length > 0 ||
     filter.targetAge !== null ||
     filter.weekdays.length > 0 ||
     filter.timeStart !== null ||
     filter.timeEnd !== null
-
-  // 表示中の都市（選択なし=全都市）
-  const availableCities = [...new Set(lessons.map((l) => l.city).filter(Boolean))] as string[]
-  const showCityFilter = availableCities.length > 1
 
   return (
     <>
@@ -124,34 +118,6 @@ export default function SearchPage({ lessons }: Props) {
           <div className="flex flex-col flex-1 min-h-0 overflow-hidden">
             {/* フィルタパネル */}
             <div className="p-3 border-b border-gray-200 space-y-4 shrink-0 overflow-y-auto max-h-[55vh] sm:max-h-none">
-              {showCityFilter && (
-                <div>
-                  <div className="text-xs font-semibold text-gray-500 mb-1.5">エリア</div>
-                  <div className="flex flex-wrap gap-1.5">
-                    {availableCities.map((city) => {
-                      const active = filter.cities.includes(city)
-                      return (
-                        <button
-                          key={city}
-                          onClick={() => {
-                            const next = active
-                              ? filter.cities.filter((c) => c !== city)
-                              : [...filter.cities, city]
-                            updateFilter('cities', next)
-                          }}
-                          className={`px-2.5 py-1 rounded-full text-xs font-medium border transition-colors ${
-                            active
-                              ? 'bg-blue-500 text-white border-blue-500'
-                              : 'bg-white text-gray-600 border-gray-300 hover:border-blue-400'
-                          }`}
-                        >
-                          {city}
-                        </button>
-                      )
-                    })}
-                  </div>
-                </div>
-              )}
               <CategoryFilter
                 selected={filter.categories}
                 onChange={(v) => updateFilter('categories', v)}
