@@ -222,6 +222,7 @@ export default function SearchPage({ lessons }: Props) {
             activeLesson={activeLesson}
             navTarget={navTarget}
             onSelectLesson={handleMarkerClick}
+            sidebarOpen={sidebarOpen}
           />
         </main>
       </div>

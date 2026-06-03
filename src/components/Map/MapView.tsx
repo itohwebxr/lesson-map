@@ -63,6 +63,7 @@ type Props = {
   activeLesson?: Lesson | null
   navTarget?: NavTarget | null
   onSelectLesson?: (lesson: Lesson) => void
+  sidebarOpen?: boolean
 }
 
 function NavController({ navTarget }: { navTarget?: NavTarget | null }) {
@@ -82,7 +83,20 @@ function NavController({ navTarget }: { navTarget?: NavTarget | null }) {
   return null
 }
 
-export default function MapView({ lessons, activeLesson, navTarget, onSelectLesson }: Props) {
+// サイドバー開閉トランジション完了後に地図サイズを再計算する
+function SidebarResizeController({ sidebarOpen }: { sidebarOpen?: boolean }) {
+  const map = useMap()
+
+  useEffect(() => {
+    // transition-duration: 200ms に合わせて完了後に呼ぶ
+    const timer = setTimeout(() => map.invalidateSize(), 210)
+    return () => clearTimeout(timer)
+  }, [sidebarOpen, map])
+
+  return null
+}
+
+export default function MapView({ lessons, activeLesson, navTarget, onSelectLesson, sidebarOpen }: Props) {
   const markerRefs = useRef<Record<string, L.Marker>>({})
 
   return (
@@ -93,6 +107,7 @@ export default function MapView({ lessons, activeLesson, navTarget, onSelectLess
       scrollWheelZoom={true}
     >
       <NavController navTarget={navTarget} />
+      <SidebarResizeController sidebarOpen={sidebarOpen} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
