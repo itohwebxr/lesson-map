@@ -9,6 +9,8 @@ export type Schedule = {
 export type Lesson = {
   name: string
   category: string
+  city?: string
+  prefecture?: string
   address: string | null
   website: string | null
   phone: string | null
@@ -24,6 +26,7 @@ export type Lesson = {
 
 export type FilterState = {
   categories: string[]
+  cities: string[]
   weekdays: string[]
   timeStart: string | null
   timeEnd: string | null

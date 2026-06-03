@@ -11,7 +11,7 @@ export default function Home() {
         <div className="flex items-center gap-2">
           <span className="text-xl font-bold text-blue-600">🗺 LessonMap</span>
           <span className="text-sm text-gray-500 hidden sm:inline">
-            大津市の習い事を探す
+            滋賀県の習い事を探す
           </span>
         </div>
         <div className="text-xs text-gray-400">
