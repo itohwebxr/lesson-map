@@ -68,10 +68,15 @@ export default function SearchPage({ lessons }: Props) {
     if (lesson.lat != null && lesson.lng != null) {
       setNavTarget({ lat: lesson.lat, lng: lesson.lng, key: Date.now() })
     }
-    // サイドバーのカードへスクロール
-    setTimeout(() => {
-      cardRefs.current[lesson.name]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
-    }, 100)
+    const isMobile = window.innerWidth < 640
+    if (isMobile) {
+      // モバイル: ツールチップ表示に合わせてサイドバーを閉じる
+      setTimeout(() => setSidebarOpen(false), 150)
+    } else {
+      setTimeout(() => {
+        cardRefs.current[lesson.name]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+      }, 100)
+    }
   }, [])
 
   // マーカークリック時: カードハイライト（モバイルはサイドバーを開かない）
