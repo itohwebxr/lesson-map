@@ -34,12 +34,22 @@ function GoogleRating({ placeId }: { placeId: string }) {
   if (!data?.rating) return null
 
   return (
-    <div className="flex items-center gap-1 flex-wrap mt-1">
-      <StarRating rating={data.rating} />
-      <span className="text-xs font-semibold text-gray-700">{data.rating.toFixed(1)}</span>
-      {data.user_ratings_total != null && (
-        <span className="text-xs text-gray-500">({data.user_ratings_total.toLocaleString()}件)</span>
-      )}
+    <div className="mt-1">
+      <div className="flex items-center gap-1 flex-wrap">
+        <StarRating rating={data.rating} />
+        <span className="text-xs font-semibold text-gray-700">{data.rating.toFixed(1)}</span>
+        {data.user_ratings_total != null && (
+          <span className="text-xs text-gray-500">({data.user_ratings_total.toLocaleString()}件)</span>
+        )}
+      </div>
+      <a
+        href={`https://www.google.com/maps/place/?q=place_id:${placeId}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-xs text-blue-500 hover:underline"
+      >
+        Googleマップで口コミを見る →
+      </a>
     </div>
   )
 }
