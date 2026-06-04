@@ -104,123 +104,128 @@ export default function SearchPage({ lessons }: Props) {
     filter.timeStart !== null ||
     filter.timeEnd !== null
 
+  const filterPanel = (
+    <div className="divide-y divide-gray-200">
+      <div className="p-3">
+        <CategoryFilter selected={filter.categories} onChange={(v) => updateFilter('categories', v)} />
+      </div>
+      <div className="p-3">
+        <AgeFilter selected={filter.targetAge} onChange={(v) => updateFilter('targetAge', v)} />
+      </div>
+      <div className="p-3">
+        <WeekdayFilter selected={filter.weekdays} onChange={(v) => updateFilter('weekdays', v)} />
+      </div>
+      <div className="p-3">
+        <TimeFilter
+          timeStart={filter.timeStart}
+          timeEnd={filter.timeEnd}
+          onChange={(start, end) => setFilter((prev) => ({ ...prev, timeStart: start, timeEnd: end }))}
+        />
+      </div>
+      {isFiltered && (
+        <div className="p-3">
+          <button onClick={resetFilter} className="w-full text-xs text-gray-500 hover:text-gray-700 underline text-center">
+            🔄 フィルターをリセット
+          </button>
+        </div>
+      )}
+    </div>
+  )
+
+  const cardList = (
+    <div className="flex-1 overflow-y-auto overscroll-contain p-2 space-y-1.5">
+      {mappable.map((lesson) => (
+        <div key={lesson.name} ref={(el) => { cardRefs.current[lesson.name] = el }}>
+          <LessonCard lesson={lesson} isActive={activeLesson?.name === lesson.name} onClick={() => handleSelectLesson(lesson)} />
+        </div>
+      ))}
+      {noLocation.length > 0 && (
+        <>
+          <div className="pt-2 pb-1 px-1">
+            <span className="text-xs text-gray-400 font-medium">📍 住所未取得（{noLocation.length}件）</span>
+          </div>
+          {noLocation.map((lesson, i) => (
+            <div key={`no-loc-${i}`} ref={(el) => { cardRefs.current[lesson.name] = el }}>
+              <LessonCard lesson={lesson} isActive={activeLesson?.name === lesson.name} onClick={() => setModalLesson(lesson)} />
+            </div>
+          ))}
+        </>
+      )}
+    </div>
+  )
+
   return (
     <>
-      <div className="flex h-full overflow-hidden relative">
-        {/* モバイル用オーバーレイ（サイドバー表示中に地図側をタップで閉じる） */}
+      {/* モバイル用「絞り込み」バー＋ドロップダウンパネル */}
+      <div className="sm:hidden shrink-0 relative z-[1100]">
+        <button
+          onClick={() => setSidebarOpen((v) => !v)}
+          className={`w-full flex items-center justify-between px-4 py-2.5 border-b text-sm font-medium transition-colors ${
+            sidebarOpen
+              ? 'bg-blue-50 border-blue-200 text-blue-700'
+              : 'bg-white border-gray-200 text-gray-600'
+          }`}
+        >
+          <span className="flex items-center gap-2">
+            <span>🔍</span>
+            <span>絞り込み</span>
+            {isFiltered && (
+              <span className="bg-blue-500 text-white text-xs px-1.5 py-0.5 rounded-full leading-none">
+                ON
+              </span>
+            )}
+          </span>
+          <span className="text-gray-400">{sidebarOpen ? '▲' : '▼'}</span>
+        </button>
+
         {sidebarOpen && (
-          <div
-            className="sm:hidden absolute inset-0 z-[1050] bg-black/20"
-            onClick={() => setSidebarOpen(false)}
-          />
+          <>
+            <div
+              className="fixed inset-0 z-[-1] bg-black/20"
+              onClick={() => setSidebarOpen(false)}
+            />
+            <div className="absolute left-0 right-0 top-full bg-white border-b border-gray-200 shadow-lg overflow-y-auto"
+              style={{ maxHeight: 'calc(100dvh - 100px)' }}
+            >
+              {filterPanel}
+              <div className="px-3 py-2 text-xs text-gray-500 border-t border-gray-100">
+                {isFiltered
+                  ? <span><span className="font-semibold text-blue-600">{filtered.length}件</span> 表示中（全{lessons.length}件）</span>
+                  : <span>全<span className="font-semibold">{lessons.length}</span>件</span>
+                }
+              </div>
+            </div>
+          </>
+        )}
+      </div>
+
+      <div className="flex flex-1 min-h-0 overflow-hidden relative">
+        {/* デスクトップ用オーバーレイ */}
+        {sidebarOpen && (
+          <div className="hidden" />
         )}
 
-        <aside
-          className={`
-            flex flex-col bg-gray-50 border-r border-gray-200 transition-all duration-200 overflow-hidden
-            sm:relative sm:z-auto
-            absolute z-[1100] top-0 bottom-0 left-0
-            ${sidebarOpen ? 'w-72 min-w-[18rem]' : 'w-0'}
-          `}
-        >
+        {/* デスクトップ用サイドバー */}
+        <aside className={`
+          hidden sm:flex flex-col bg-gray-50 border-r border-gray-200 transition-all duration-200 overflow-hidden
+          ${sidebarOpen ? 'w-72 min-w-[18rem]' : 'w-0'}
+        `}>
           <div className="flex flex-col flex-1 min-h-0 overflow-hidden">
-            {/* フィルタパネル */}
-            <div className="border-b border-gray-200 shrink-0 divide-y divide-gray-200">
-              <div className="p-3">
-                <CategoryFilter
-                  selected={filter.categories}
-                  onChange={(v) => updateFilter('categories', v)}
-                />
-              </div>
-              <div className="p-3">
-                <AgeFilter
-                  selected={filter.targetAge}
-                  onChange={(v) => updateFilter('targetAge', v)}
-                />
-              </div>
-              <div className="p-3">
-                <WeekdayFilter
-                  selected={filter.weekdays}
-                  onChange={(v) => updateFilter('weekdays', v)}
-                />
-              </div>
-              <div className="p-3">
-                <TimeFilter
-                  timeStart={filter.timeStart}
-                  timeEnd={filter.timeEnd}
-                  onChange={(start, end) => {
-                    setFilter((prev) => ({ ...prev, timeStart: start, timeEnd: end }))
-                  }}
-                />
-              </div>
-              {isFiltered && (
-                <div className="p-3">
-                  <button
-                    onClick={resetFilter}
-                    className="w-full text-xs text-gray-500 hover:text-gray-700 underline text-center"
-                  >
-                    🔄 フィルターをリセット
-                  </button>
-                </div>
-              )}
-            </div>
-
-            {/* 件数 */}
+            <div className="border-b border-gray-200 shrink-0">{filterPanel}</div>
             <div className="px-3 py-2 text-xs text-gray-500 border-b border-gray-100 shrink-0">
-              {isFiltered ? (
-                <span>
-                  <span className="font-semibold text-blue-600">{filtered.length}件</span>
-                  {' '}表示中（全{lessons.length}件）
-                </span>
-              ) : (
-                <span>全<span className="font-semibold">{lessons.length}</span>件</span>
-              )}
+              {isFiltered
+                ? <span><span className="font-semibold text-blue-600">{filtered.length}件</span> 表示中（全{lessons.length}件）</span>
+                : <span>全<span className="font-semibold">{lessons.length}</span>件</span>
+              }
             </div>
-
-            {/* カードリスト */}
-            <div className="flex-1 overflow-y-auto overscroll-contain p-2 space-y-1.5">
-              {mappable.map((lesson) => (
-                <div
-                  key={lesson.name}
-                  ref={(el) => { cardRefs.current[lesson.name] = el }}
-                >
-                  <LessonCard
-                    lesson={lesson}
-                    isActive={activeLesson?.name === lesson.name}
-                    onClick={() => handleSelectLesson(lesson)}
-                  />
-                </div>
-              ))}
-
-              {noLocation.length > 0 && (
-                <>
-                  <div className="pt-2 pb-1 px-1">
-                    <span className="text-xs text-gray-400 font-medium">
-                      📍 住所未取得（{noLocation.length}件）
-                    </span>
-                  </div>
-                  {noLocation.map((lesson, i) => (
-                    <div
-                      key={`no-loc-${i}`}
-                      ref={(el) => { cardRefs.current[lesson.name] = el }}
-                    >
-                      <LessonCard
-                        lesson={lesson}
-                        isActive={activeLesson?.name === lesson.name}
-                        onClick={() => setModalLesson(lesson)}
-                      />
-                    </div>
-                  ))}
-                </>
-              )}
-            </div>
+            {cardList}
           </div>
         </aside>
 
-        {/* サイドバー開閉ボタン */}
+        {/* デスクトップ用サイドバー開閉ボタン */}
         <button
           onClick={() => setSidebarOpen((v) => !v)}
-          className="absolute top-1/2 -translate-y-1/2 z-[1000] bg-white border border-gray-200 rounded-r px-1 py-3 shadow text-gray-400 hover:text-gray-700 hover:bg-gray-50 transition-all duration-200"
+          className="hidden sm:flex absolute top-1/2 -translate-y-1/2 z-[1000] bg-white border border-gray-200 rounded-r px-1 py-3 shadow text-gray-400 hover:text-gray-700 hover:bg-gray-50 transition-all duration-200"
           style={{ left: sidebarOpen ? '18rem' : '0' }}
           title={sidebarOpen ? 'サイドバーを閉じる' : 'サイドバーを開く'}
         >
