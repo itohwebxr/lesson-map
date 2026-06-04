@@ -5,6 +5,7 @@ import { Marker, Popup } from 'react-leaflet'
 import type { Lesson } from '@/types/lesson'
 import MarkerPopup from './MarkerPopup'
 import type L from 'leaflet'
+import { trackEvent, GA_EVENTS } from '@/lib/gtm'
 
 type Props = {
   lesson: Lesson
@@ -24,7 +25,14 @@ export default function LessonMarker({ lesson, icon, isActive, onSelect, markerR
   useEffect(() => {
     const marker = internalRef.current
     if (!marker) return
-    const handler = () => onSelectRef.current(lesson)
+    const handler = () => {
+      trackEvent(GA_EVENTS.MARKER_CLICK, {
+        lesson_name: lesson.name,
+        category: lesson.category,
+        city: lesson.city ?? '',
+      })
+      onSelectRef.current(lesson)
+    }
     marker.on('click', handler)
     return () => { marker.off('click', handler) }
   // eslint-disable-next-line react-hooks/exhaustive-deps

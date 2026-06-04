@@ -12,6 +12,8 @@ export const GA_EVENTS = {
   LESSON_DETAIL_VIEW: 'lesson_detail_view',
   LESSON_WEBSITE_CLICK: 'lesson_website_click',
   CONTACT_CLICK: 'contact_click',
+  MAP_ENGAGEMENT: 'map_engagement',
+  MARKER_CLICK: 'marker_click',
 } as const
 
 export type GaEventName = (typeof GA_EVENTS)[keyof typeof GA_EVENTS]
@@ -24,6 +26,8 @@ type EventParams = {
   lesson_detail_view: { lesson_name: string; category: string; city: string }
   lesson_website_click: { lesson_name: string; category: string; url: string }
   contact_click: { source: string }
+  map_engagement: { center_lat: number; center_lng: number; zoom: number }
+  marker_click: { lesson_name: string; category: string; city: string }
 }
 
 // --------------- 重複送信防止 ---------------
