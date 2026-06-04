@@ -35,7 +35,7 @@ export default function SearchPage({ lessons }: Props) {
   const mapRef = useRef<HTMLElement>(null)
   const [mapHeight, setMapHeight] = useState(0)
   const cardRefs = useRef<Record<string, HTMLDivElement | null>>({})
-
+  const cardListRef = useRef<HTMLDivElement>(null)
   useEffect(() => {
     // 画面幅に応じてサイドバーの初期状態を決める
     setSidebarOpen(window.innerWidth >= 640)
@@ -63,6 +63,19 @@ export default function SearchPage({ lessons }: Props) {
     []
   )
 
+  // カードリストコンテナ内でのみスクロールする（ページ全体スクロール防止）
+  const scrollCardIntoView = useCallback((name: string, delay: number) => {
+    setTimeout(() => {
+      const container = cardListRef.current
+      const card = cardRefs.current[name]
+      if (!container || !card) return
+      const containerTop = container.getBoundingClientRect().top
+      const cardTop = card.getBoundingClientRect().top
+      const offset = cardTop - containerTop + container.scrollTop - 8
+      container.scrollTo({ top: offset, behavior: 'smooth' })
+    }, delay)
+  }, [])
+
   const handleSelectLesson = useCallback((lesson: Lesson) => {
     setActiveLesson(lesson)
     if (lesson.lat != null && lesson.lng != null) {
@@ -70,14 +83,11 @@ export default function SearchPage({ lessons }: Props) {
     }
     const isMobile = window.innerWidth < 640
     if (isMobile) {
-      // モバイル: ツールチップ表示に合わせてサイドバーを閉じる
       setTimeout(() => setSidebarOpen(false), 150)
     } else {
-      setTimeout(() => {
-        cardRefs.current[lesson.name]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
-      }, 100)
+      scrollCardIntoView(lesson.name, 100)
     }
-  }, [])
+  }, [scrollCardIntoView])
 
   // マーカークリック時: カードハイライト（モバイルはサイドバーを開かない）
   const handleMarkerClick = useCallback((lesson: Lesson) => {
@@ -85,11 +95,9 @@ export default function SearchPage({ lessons }: Props) {
     const isMobile = window.innerWidth < 640
     if (!isMobile) {
       setSidebarOpen(true)
-      setTimeout(() => {
-        cardRefs.current[lesson.name]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
-      }, 200)
+      scrollCardIntoView(lesson.name, 200)
     }
-  }, [])
+  }, [scrollCardIntoView])
 
   const resetFilter = () => {
     setFilter(DEFAULT_FILTER)
@@ -133,7 +141,7 @@ export default function SearchPage({ lessons }: Props) {
   )
 
   const cardList = (
-    <div className="flex-1 overflow-y-auto overscroll-contain p-2 space-y-1.5">
+    <div ref={cardListRef} className="flex-1 overflow-y-auto overscroll-contain p-2 space-y-1.5">
       {mappable.map((lesson) => (
         <div key={lesson.name} ref={(el) => { cardRefs.current[lesson.name] = el }}>
           <LessonCard lesson={lesson} isActive={activeLesson?.name === lesson.name} onClick={() => handleSelectLesson(lesson)} />
