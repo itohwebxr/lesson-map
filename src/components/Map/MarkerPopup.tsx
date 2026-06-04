@@ -114,12 +114,12 @@ export default function MarkerPopup({ lesson }: Props) {
         </div>
       )}
       {lesson.website && (
-        <div className="mt-1">
+        <div className="mt-2">
           <a
             href={lesson.website}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-600 underline text-xs"
+            className="block w-full text-center text-xs font-semibold text-white bg-blue-500 hover:bg-blue-600 active:bg-blue-700 rounded px-3 py-1.5 transition-colors"
           >
             🌐 公式サイトを見る →
           </a>
