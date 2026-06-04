@@ -8,6 +8,7 @@ import { useEffect } from 'react'
 import type { Lesson } from '@/types/lesson'
 import type { NavTarget } from '@/components/SearchPage'
 import LessonMarker from './LessonMarker'
+import { trackEvent, GA_EVENTS } from '@/lib/gtm'
 
 // カテゴリ → [絵文字, 背景色]
 const CATEGORY_STYLE: Record<string, [string, string]> = {
@@ -81,6 +82,29 @@ function NavController({ navTarget }: { navTarget?: NavTarget | null }) {
   return null
 }
 
+// セッション内で初回の地図操作のみ map_engagement を送信する
+function MapEngagementController() {
+  const map = useMap()
+  const firedRef = useRef(false)
+
+  useEffect(() => {
+    const handler = () => {
+      if (firedRef.current) return
+      firedRef.current = true
+      const center = map.getCenter()
+      trackEvent(GA_EVENTS.MAP_ENGAGEMENT, {
+        center_lat: Math.round(center.lat * 10000) / 10000,
+        center_lng: Math.round(center.lng * 10000) / 10000,
+        zoom: map.getZoom(),
+      })
+    }
+    map.on('moveend', handler)
+    return () => { map.off('moveend', handler) }
+  }, [map])
+
+  return null
+}
+
 // サイドバー開閉トランジション完了後に地図サイズを再計算する
 function SidebarResizeController({ sidebarOpen }: { sidebarOpen?: boolean }) {
   const map = useMap()
@@ -106,6 +130,7 @@ export default function MapView({ lessons, activeLesson, navTarget, onSelectLess
     >
       <NavController navTarget={navTarget} />
       <SidebarResizeController sidebarOpen={sidebarOpen} />
+      <MapEngagementController />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
