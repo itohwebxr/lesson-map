@@ -163,7 +163,7 @@ export default function SearchPage({ lessons }: Props) {
   )
 
   return (
-    <>
+    <div className="flex flex-col h-full">
       {/* モバイル用「絞り込み」バー＋ドロップダウンパネル */}
       <div className="sm:hidden shrink-0 relative z-[1100]">
         <button
@@ -207,7 +207,7 @@ export default function SearchPage({ lessons }: Props) {
         )}
       </div>
 
-      <div className="flex flex-1 min-h-0 overflow-hidden relative">
+      <div className="flex flex-1 min-h-0 overflow-hidden relative" style={{ minHeight: 0 }}>
         {/* デスクトップ用オーバーレイ */}
         {sidebarOpen && (
           <div className="hidden" />
@@ -262,6 +262,6 @@ export default function SearchPage({ lessons }: Props) {
           onClose={() => setModalLesson(null)}
         />
       )}
-    </>
+    </div>
   )
 }
