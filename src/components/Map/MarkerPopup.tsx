@@ -119,7 +119,8 @@ export default function MarkerPopup({ lesson }: Props) {
             href={lesson.website}
             target="_blank"
             rel="noopener noreferrer"
-            className="block w-full text-center text-xs font-semibold text-white bg-blue-500 hover:bg-blue-600 active:bg-blue-700 rounded px-3 py-1.5 transition-colors"
+            className="block w-full text-center text-xs font-semibold bg-blue-500 hover:bg-blue-600 active:bg-blue-700 rounded px-3 py-1.5 transition-colors"
+            style={{ color: '#ffffff' }}
           >
             🌐 公式サイトを見る →
           </a>
