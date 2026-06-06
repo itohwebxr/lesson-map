@@ -29,16 +29,16 @@ export default function SearchPage({ lessons }: Props) {
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null)
   const [modalLesson, setModalLesson] = useState<Lesson | null>(null)
   const [navTarget, setNavTarget] = useState<NavTarget | null>(null)
-  // モバイル: サイドバーはデフォルト閉じ、デスクトップ: デフォルト開く
-  const [sidebarOpen, setSidebarOpen] = useState(false)
+  // モバイル: デフォルト開く、デスクトップ: デフォルト開く
+  const [sidebarOpen, setSidebarOpen] = useState(true)
 
   const mapRef = useRef<HTMLElement>(null)
   const [mapHeight, setMapHeight] = useState(0)
   const cardRefs = useRef<Record<string, HTMLDivElement | null>>({})
   const cardListRef = useRef<HTMLDivElement>(null)
   useEffect(() => {
-    // 画面幅に応じてサイドバーの初期状態を決める
-    setSidebarOpen(window.innerWidth >= 640)
+    // デスクトップは常に開く、モバイルも初期状態は開く
+    setSidebarOpen(true)
   }, [])
 
   useEffect(() => {
@@ -201,6 +201,14 @@ export default function SearchPage({ lessons }: Props) {
                   ? <span><span className="font-semibold text-blue-600">{filtered.length}件</span> 表示中（全{lessons.length}件）</span>
                   : <span>全<span className="font-semibold">{lessons.length}</span>件</span>
                 }
+              </div>
+              <div className="px-3 pb-3">
+                <button
+                  onClick={() => setSidebarOpen(false)}
+                  className="w-full py-2.5 rounded-lg bg-blue-500 text-white text-sm font-semibold hover:bg-blue-600 active:bg-blue-700 transition-colors"
+                >
+                  条件を保存して閉じる
+                </button>
               </div>
             </div>
           </>
