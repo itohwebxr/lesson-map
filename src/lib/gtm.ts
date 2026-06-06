@@ -14,6 +14,7 @@ export const GA_EVENTS = {
   CONTACT_CLICK: 'contact_click',
   MAP_ENGAGEMENT: 'map_engagement',
   MARKER_CLICK: 'marker_click',
+  FILTER_APPLY: 'filter_apply',
 } as const
 
 export type GaEventName = (typeof GA_EVENTS)[keyof typeof GA_EVENTS]
@@ -28,6 +29,7 @@ type EventParams = {
   contact_click: { source: string }
   map_engagement: { center_lat: number; center_lng: number; zoom: number }
   marker_click: { lesson_name: string; category: string; city: string }
+  filter_apply: { category_count: number; has_age: boolean; has_weekday: boolean; has_time: boolean; result_count: number }
 }
 
 // --------------- 重複送信防止 ---------------
