@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react'
 import type { Lesson } from '@/types/lesson'
 import type { PlaceRating } from '@/app/api/place/[placeId]/route'
+import { trackEvent, GA_EVENTS } from '@/lib/gtm'
 
 function StarRating({ rating }: { rating: number }) {
   const full = Math.floor(rating)
@@ -119,6 +120,11 @@ export default function MarkerPopup({ lesson }: Props) {
             href={lesson.website}
             target="_blank"
             rel="noopener noreferrer"
+            onClick={() => trackEvent(GA_EVENTS.LESSON_WEBSITE_CLICK, {
+              lesson_name: lesson.name,
+              category: lesson.category,
+              url: lesson.website!,
+            })}
             className="block w-full text-center text-xs font-semibold bg-blue-500 hover:bg-blue-600 active:bg-blue-700 rounded px-3 py-1.5 transition-colors"
             style={{ color: '#ffffff' }}
           >
