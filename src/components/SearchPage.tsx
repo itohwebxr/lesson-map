@@ -3,6 +3,7 @@
 import { useState, useCallback, useEffect, useRef } from 'react'
 import type { Lesson, FilterState } from '@/types/lesson'
 import { filterLessons } from '@/lib/filterLessons'
+import { trackEvent, GA_EVENTS } from '@/lib/gtm'
 import DynamicMap from '@/components/Map/DynamicMap'
 import CategoryFilter from '@/components/Sidebar/CategoryFilter'
 import AgeFilter from '@/components/Sidebar/AgeFilter'
@@ -204,7 +205,16 @@ export default function SearchPage({ lessons }: Props) {
               </div>
               <div className="px-3 pb-3">
                 <button
-                  onClick={() => setSidebarOpen(false)}
+                  onClick={() => {
+                    trackEvent(GA_EVENTS.FILTER_APPLY, {
+                      category_count: filter.categories.length,
+                      has_age: filter.targetAge !== null,
+                      has_weekday: filter.weekdays.length > 0,
+                      has_time: filter.timeStart !== null || filter.timeEnd !== null,
+                      result_count: filtered.length,
+                    })
+                    setSidebarOpen(false)
+                  }}
                   className="w-full py-2.5 rounded-lg bg-blue-500 text-white text-sm font-semibold hover:bg-blue-600 active:bg-blue-700 transition-colors"
                 >
                   条件を保存して閉じる
