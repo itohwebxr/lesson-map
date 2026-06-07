@@ -86,9 +86,15 @@ function NavController({ navTarget }: { navTarget?: NavTarget | null }) {
 function MapEngagementController() {
   const map = useMap()
   const firedRef = useRef(false)
+  const initializedRef = useRef(false)
 
   useEffect(() => {
     const handler = () => {
+      if (!initializedRef.current) {
+        // 初期化時の moveend はスキップ
+        initializedRef.current = true
+        return
+      }
       if (firedRef.current) return
       firedRef.current = true
       const center = map.getCenter()
